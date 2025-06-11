@@ -1,0 +1,23 @@
+{
+  "type": "materials",
+  "path": "Kunststoffe / Dachbahnen / PIB-Dachbahnen (Polyisobutylen)",
+  "items": [
+    {
+      "ID": "91412f3f-6077-44d4-9c9d-95c543bcb419",
+      "Name": "Bitumen-compatible polyisobutylene (PIB) synthetic roofing membrane",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "2.14",
+      "GWPtotal (A1-A3)": "9.2651805",
+      "GWPtotal (C1)": "0.000282",
+      "GWPtotal (C2)": "0.0081473",
+      "GWPtotal (C3)": "4.9348899",
+      "GWPbiogenic": "0.0416831",
+      "GWPfossil": "14.1623109",
+      "GWPtotal": "14.2084997"
+    }
+  ]
+}

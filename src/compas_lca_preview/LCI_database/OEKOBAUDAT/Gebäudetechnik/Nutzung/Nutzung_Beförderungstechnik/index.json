@@ -1,0 +1,68 @@
+{
+  "type": "materials",
+  "path": "Gebäudetechnik / Nutzung / Nutzung Beförderungstechnik",
+  "items": [
+    {
+      "ID": "6aa6f5f7-6b02-443a-8ed5-15073bcc81f2",
+      "Name": "Kerberos Tripod Barrier-E01",
+      "Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Laenderkennung": "GLO",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Registrierungsnummer": "EPD-DOR-20240125-CBA1-EN",
+      "Bezugsgroesse": "1",
+      "Reference": "pcs.",
+      "Stueckgewicht (kg)": "58.07",
+      "GWPtotal (A1-A3)": "314.142",
+      "GWPtotal (A4)": "0.444",
+      "GWPtotal (A5)": "12.094",
+      "GWPtotal (B2)": "0.0",
+      "GWPtotal (B6)": "449.55",
+      "GWPtotal (C1)": "0.0",
+      "GWPtotal (C2)": "0.185",
+      "GWPtotal (C3)": "0.508",
+      "GWPtotal (C4)": "0.0006258",
+      "GWPbiogenic": "3.113014",
+      "GWPfossil": "772.7126219",
+      "GWPtotal": "776.9236258"
+    },
+    {
+      "ID": "fd1c8776-ae52-47ca-8be0-2b933d1a78c5",
+      "Name": "Usage - elevator average usage (200.000 rides/a)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "8765.77840112202",
+      "Reference": "a",
+      "GWPtotal (B6)": "1534.105372",
+      "GWPbiogenic": "18.0603809",
+      "GWPfossil": "1515.7552092",
+      "GWPtotal": "1534.105372"
+    },
+    {
+      "ID": "5212102b-44bc-4928-9ef7-aeb364657c76",
+      "Name": "Usage - elevator high usage (400.000 rides/a)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "8765.77840112202",
+      "Reference": "a",
+      "GWPtotal (B6)": "2780.5659867",
+      "GWPbiogenic": "32.7344404",
+      "GWPfossil": "2747.3063166",
+      "GWPtotal": "2780.5659867"
+    },
+    {
+      "ID": "52d31f1f-d533-47c3-997c-4ca9d126054f",
+      "Name": "Usage - elevator low usage (100.000 rides/a)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "8765.77840112202",
+      "Reference": "a",
+      "GWPtotal (B6)": "910.8750646",
+      "GWPbiogenic": "10.7233512",
+      "GWPfossil": "899.9796554",
+      "GWPtotal": "910.8750646"
+    }
+  ]
+}

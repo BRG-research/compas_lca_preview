@@ -1,0 +1,22 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Zubehör für Fenster, Fassaden, Türen und Tore / Feuer-/Rauchschutzsysteme",
+  "items": [
+    {
+      "ID": "7f39809a-407d-41cc-b0e7-c7e67faff54b",
+      "Name": "Fire resistant glass F30",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "38.82",
+      "GWPtotal (A1-A3)": "56.3976057",
+      "GWPtotal (C2)": "0.1952673",
+      "GWPtotal (C4)": "0.7709849",
+      "GWPbiogenic": "0.1214817",
+      "GWPfossil": "57.1770068",
+      "GWPtotal": "57.3638579"
+    }
+  ]
+}

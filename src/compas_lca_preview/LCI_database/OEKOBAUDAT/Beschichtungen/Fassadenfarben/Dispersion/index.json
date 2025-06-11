@@ -1,0 +1,45 @@
+{
+  "type": "materials",
+  "path": "Beschichtungen / Fassadenfarben / Dispersion",
+  "items": [
+    {
+      "ID": "8c5e949d-1b5e-4dc6-b6ae-bfc8e6c863ce",
+      "Name": "Applicationpaint emulsion, dispersion paint",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (A1-A3)": "2.1536749",
+      "GWPtotal (A5)": "0.0115716",
+      "GWPtotal (C2)": "0.0042601",
+      "GWPtotal (C4)": "0.0166149",
+      "GWPbiogenic": "0.0462324",
+      "GWPfossil": "2.1387244",
+      "GWPtotal": "2.1861214"
+    },
+    {
+      "ID": "5db23634-51e2-425f-818f-643df5714b22",
+      "Name": "StoColor Lotusan®",
+      "Conformity": "'EN 15804+A2 (EF 3.0)' / 'ISO 14025'",
+      "Laenderkennung": "EU-27",
+      "Declaration owner": "Sto SE & Co. KGaA",
+      "Registrierungsnummer": "EPD-Kiwa-EE-000417-EN",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1500.0",
+      "GWPtotal (A1)": "1.28",
+      "GWPtotal (A2)": "0.0538",
+      "GWPtotal (A3)": "0.0175",
+      "GWPtotal (A4)": "0.0608",
+      "GWPtotal (A5)": "0.141",
+      "GWPtotal (C1)": "0.00809",
+      "GWPtotal (C2)": "0.0135",
+      "GWPtotal (C3)": "0.0",
+      "GWPtotal (C4)": "0.00528",
+      "GWPbiogenic": "0.0101422",
+      "GWPfossil": "1.56865",
+      "GWPtotal": "1.57997"
+    }
+  ]
+}

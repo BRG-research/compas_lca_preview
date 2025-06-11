@@ -1,0 +1,30 @@
+{
+  "type": "categories",
+  "path": "End of Life / Generisch",
+  "items": [
+    {
+      "name": "Bauschutt",
+      "path": "Bauschutt/index.json"
+    },
+    {
+      "name": "Metalle",
+      "path": "Metalle/index.json"
+    },
+    {
+      "name": "Gebäudetechnik",
+      "path": "Gebäudetechnik/index.json"
+    },
+    {
+      "name": "Hausmüll",
+      "path": "Hausmüll/index.json"
+    },
+    {
+      "name": "Kunststoffe",
+      "path": "Kunststoffe/index.json"
+    },
+    {
+      "name": "Holz",
+      "path": "Holz/index.json"
+    }
+  ]
+}

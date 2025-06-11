@@ -1,0 +1,22 @@
+{
+  "type": "categories",
+  "path": "Holz / Holzböden",
+  "items": [
+    {
+      "name": "Laminat",
+      "path": "Laminat/index.json"
+    },
+    {
+      "name": "Mehrschichtig modulare Bodenbeläge",
+      "path": "Mehrschichtig_modulare_Bodenbeläge/index.json"
+    },
+    {
+      "name": "Kork",
+      "path": "Kork/index.json"
+    },
+    {
+      "name": "Parkett",
+      "path": "Parkett/index.json"
+    }
+  ]
+}

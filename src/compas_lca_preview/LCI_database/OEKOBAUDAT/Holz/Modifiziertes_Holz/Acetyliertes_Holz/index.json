@@ -1,0 +1,22 @@
+{
+  "type": "materials",
+  "path": "Holz / Modifiziertes Holz / Acetyliertes Holz",
+  "items": [
+    {
+      "ID": "0dec19c7-53db-4cb9-bbba-4d44d3da62a9",
+      "Name": "Acetylated wood (1 m3, 510 kg/m3)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "510.0",
+      "GWPtotal (A1-A3)": "230.2882945",
+      "GWPtotal (C2)": "1.8941413",
+      "GWPtotal (C3)": "783.847235",
+      "GWPbiogenic": "2.3264665",
+      "GWPfossil": "1013.2689074",
+      "GWPtotal": "1016.0296708"
+    }
+  ]
+}

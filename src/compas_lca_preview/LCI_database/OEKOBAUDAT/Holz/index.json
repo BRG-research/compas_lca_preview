@@ -1,0 +1,22 @@
+{
+  "type": "categories",
+  "path": "Holz",
+  "items": [
+    {
+      "name": "Holzwerkstoffe",
+      "path": "Holzwerkstoffe/index.json"
+    },
+    {
+      "name": "Holzböden",
+      "path": "Holzböden/index.json"
+    },
+    {
+      "name": "Modifiziertes Holz",
+      "path": "Modifiziertes_Holz/index.json"
+    },
+    {
+      "name": "Vollholz",
+      "path": "Vollholz/index.json"
+    }
+  ]
+}

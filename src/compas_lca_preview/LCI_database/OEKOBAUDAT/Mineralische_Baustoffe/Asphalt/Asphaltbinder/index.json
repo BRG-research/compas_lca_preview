@@ -1,0 +1,22 @@
+{
+  "type": "materials",
+  "path": "Mineralische Baustoffe / Asphalt / Asphaltbinder",
+  "items": [
+    {
+      "ID": "85e76e87-fc16-4fd5-80ed-a07fa5767f56",
+      "Name": "Asphalt binder",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "Flaechengewicht (kg/m2)": "210.0",
+      "GWPtotal (A1-A3)": "0.0949903",
+      "GWPtotal (A5)": "0.0007693",
+      "GWPtotal (C1)": "0.0006963",
+      "GWPbiogenic": "-0.0001559",
+      "GWPfossil": "0.0962938",
+      "GWPtotal": "0.0964558"
+    }
+  ]
+}

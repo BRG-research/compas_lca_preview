@@ -1,0 +1,19 @@
+{
+  "type": "materials",
+  "path": "Gebäudetechnik / Nutzung / Nutzung Beleuchtung",
+  "items": [
+    {
+      "ID": "b6f3cde6-d925-425e-8c51-e9ef4b49cd80",
+      "Name": "Usage - lighting (1 kWh electricity consumption)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "3.6",
+      "Reference": "MJ",
+      "GWPtotal (B6)": "0.4794079",
+      "GWPbiogenic": "0.0056439",
+      "GWPfossil": "0.4736735",
+      "GWPtotal": "0.4794079"
+    }
+  ]
+}

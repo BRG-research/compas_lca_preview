@@ -1,0 +1,14 @@
+{
+  "type": "categories",
+  "path": "Dämmstoffe / Holzfasern",
+  "items": [
+    {
+      "name": "Holzfaserdämmplatte",
+      "path": "Holzfaserdämmplatte/index.json"
+    },
+    {
+      "name": "Holzfasern und Holzspäne, lose",
+      "path": "Holzfasern_und_Holzspäne_lose/index.json"
+    }
+  ]
+}

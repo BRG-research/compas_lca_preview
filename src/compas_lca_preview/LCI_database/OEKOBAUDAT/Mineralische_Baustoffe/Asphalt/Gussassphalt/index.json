@@ -1,0 +1,38 @@
+{
+  "type": "materials",
+  "path": "Mineralische Baustoffe / Asphalt / Gussassphalt",
+  "items": [
+    {
+      "ID": "b29d88ed-8621-4ece-9e2f-78af05cb3f0f",
+      "Name": "Mastic asphalt",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2400.0",
+      "GWPtotal (A1-A3)": "0.1191932",
+      "GWPtotal (A5)": "0.0008917",
+      "GWPtotal (C1)": "0.0006963",
+      "GWPbiogenic": "-8.79e-05",
+      "GWPfossil": "0.1205436",
+      "GWPtotal": "0.1207811"
+    },
+    {
+      "ID": "c7381cc7-53b7-427e-9c0b-c9edc4152602",
+      "Name": "Mastic asphalt screed",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2400.0",
+      "GWPtotal (A1-A3)": "0.1455865",
+      "GWPtotal (C2)": "0.0045968",
+      "GWPtotal (C4)": "0.0354898",
+      "GWPbiogenic": "0.0011715",
+      "GWPfossil": "0.1842057",
+      "GWPtotal": "0.1856732"
+    }
+  ]
+}

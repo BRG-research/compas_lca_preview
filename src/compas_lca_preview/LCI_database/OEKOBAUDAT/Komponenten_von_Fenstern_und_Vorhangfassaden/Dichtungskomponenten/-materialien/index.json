@@ -1,0 +1,18 @@
+{
+  "type": "categories",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Dichtungskomponenten / -materialien",
+  "items": [
+    {
+      "name": "Dichtprofile",
+      "path": "Dichtprofile/index.json"
+    },
+    {
+      "name": "Elastomer-Fugenbänder",
+      "path": "Elastomer-Fugenbänder/index.json"
+    },
+    {
+      "name": "Fugendichtungsbänder",
+      "path": "Fugendichtungsbänder/index.json"
+    }
+  ]
+}

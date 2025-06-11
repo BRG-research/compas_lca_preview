@@ -1,0 +1,38 @@
+{
+  "type": "categories",
+  "path": "Holz / Holzwerkstoffe",
+  "items": [
+    {
+      "name": "3- und 5-Schichtplatten",
+      "path": "3-_und_5-Schichtplatten/index.json"
+    },
+    {
+      "name": "Wood-Plastic-Composites",
+      "path": "Wood-Plastic-Composites/index.json"
+    },
+    {
+      "name": "Funierschichtholz",
+      "path": "Funierschichtholz/index.json"
+    },
+    {
+      "name": "Spanplatten",
+      "path": "Spanplatten/index.json"
+    },
+    {
+      "name": "Holzfaserplatten",
+      "path": "Holzfaserplatten/index.json"
+    },
+    {
+      "name": "Elemente aus Holzwerkstoffen",
+      "path": "Elemente_aus_Holzwerkstoffen/index.json"
+    },
+    {
+      "name": "OSB-Platte",
+      "path": "OSB-Platte/index.json"
+    },
+    {
+      "name": "Sperrholz",
+      "path": "Sperrholz/index.json"
+    }
+  ]
+}

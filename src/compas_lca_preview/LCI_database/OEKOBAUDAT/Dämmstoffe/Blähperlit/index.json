@@ -1,0 +1,10 @@
+{
+  "type": "categories",
+  "path": "Dämmstoffe / Blähperlit",
+  "items": [
+    {
+      "name": "Platten",
+      "path": "Platten/index.json"
+    }
+  ]
+}

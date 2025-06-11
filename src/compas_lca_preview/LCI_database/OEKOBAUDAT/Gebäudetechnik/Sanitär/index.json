@@ -1,0 +1,18 @@
+{
+  "type": "categories",
+  "path": "Gebäudetechnik / Sanitär",
+  "items": [
+    {
+      "name": "Dusch- und Badewannen",
+      "path": "Dusch-_und_Badewannen/index.json"
+    },
+    {
+      "name": "Armaturen",
+      "path": "Armaturen/index.json"
+    },
+    {
+      "name": "Sanitärkeramik",
+      "path": "Sanitärkeramik/index.json"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Melaminharz / Schaum",
+  "items": [
+    {
+      "ID": "5383d573-9730-4786-9fe5-15d5fab0ec5c",
+      "Name": "Melamin resin foam",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "10.0",
+      "GWPtotal (A1-A3)": "6.881497",
+      "GWPtotal (C2)": "0.0046454",
+      "GWPtotal (C3)": "2.1048779",
+      "GWPbiogenic": "0.0631745",
+      "GWPfossil": "8.9265739",
+      "GWPtotal": "8.9910203"
+    }
+  ]
+}

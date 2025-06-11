@@ -1,0 +1,26 @@
+{
+  "type": "categories",
+  "path": "Holz / Vollholz",
+  "items": [
+    {
+      "name": "Bau-Schnittholz",
+      "path": "Bau-Schnittholz/index.json"
+    },
+    {
+      "name": "Brettschichtholzplatte",
+      "path": "Brettschichtholzplatte/index.json"
+    },
+    {
+      "name": "Konstruktionsvollholz",
+      "path": "Konstruktionsvollholz/index.json"
+    },
+    {
+      "name": "Brettschichtholz (BSH)",
+      "path": "Brettschichtholz_(BSH)/index.json"
+    },
+    {
+      "name": "Balkenschichtholz (Duo-Triobalken)",
+      "path": "Balkenschichtholz_(Duo-Triobalken)/index.json"
+    }
+  ]
+}

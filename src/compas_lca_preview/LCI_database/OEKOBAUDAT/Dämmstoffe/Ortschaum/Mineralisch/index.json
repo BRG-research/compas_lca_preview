@@ -1,0 +1,28 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Ortschaum / Mineralisch",
+  "items": [
+    {
+      "ID": "fd6ae0fa-4d2d-4005-9759-909e508751ab",
+      "Name": "Airium cement-based insulation foam",
+      "Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Laenderkennung": "RER",
+      "Declaration owner": "Holcim (Deutschland) GmbH",
+      "Registrierungsnummer": "EPD-HOC-20220204-IBD1-EN",
+      "Bezugsgroesse": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "100.0",
+      "GWPtotal (A1-A3)": "40.6884752",
+      "GWPtotal (A4)": "4.9548791",
+      "GWPtotal (A5)": "0.0673798",
+      "GWPtotal (B1)": "-19.9019",
+      "GWPtotal (C1)": "0.3957938",
+      "GWPtotal (C2)": "0.9765991",
+      "GWPtotal (C3)": "0.8774661",
+      "GWPtotal (C4)": "0.5088751",
+      "GWPbiogenic": "0.0",
+      "GWPfossil": "28.5557922",
+      "GWPtotal": "28.5675683"
+    }
+  ]
+}

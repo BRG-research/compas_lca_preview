@@ -1,0 +1,14 @@
+{
+  "type": "categories",
+  "path": "Kunststoffe / Kunststoffprofile elastisch",
+  "items": [
+    {
+      "name": "Harz-Komposit Fassadenplatten",
+      "path": "Harz-Komposit_Fassadenplatten/index.json"
+    },
+    {
+      "name": "Transparente Platten",
+      "path": "Transparente_Platten/index.json"
+    }
+  ]
+}

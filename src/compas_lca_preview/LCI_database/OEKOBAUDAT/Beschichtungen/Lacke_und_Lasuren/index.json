@@ -1,0 +1,22 @@
+{
+  "type": "categories",
+  "path": "Beschichtungen / Lacke und Lasuren",
+  "items": [
+    {
+      "name": "Lacksysteme Holzfassade",
+      "path": "Lacksysteme_Holzfassade/index.json"
+    },
+    {
+      "name": "Lacksysteme Holzfenster",
+      "path": "Lacksysteme_Holzfenster/index.json"
+    },
+    {
+      "name": "Lacksysteme Metall",
+      "path": "Lacksysteme_Metall/index.json"
+    },
+    {
+      "name": "Parkettlack",
+      "path": "Parkettlack/index.json"
+    }
+  ]
+}

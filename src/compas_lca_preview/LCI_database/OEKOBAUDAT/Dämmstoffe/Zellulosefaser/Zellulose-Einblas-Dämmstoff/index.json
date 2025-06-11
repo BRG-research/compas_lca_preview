@@ -1,0 +1,22 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Zellulosefaser / Zellulose-Einblas-Dämmstoff",
+  "items": [
+    {
+      "ID": "5fac6347-55b0-47be-9118-d8229d7e62c4",
+      "Name": "Cellulose fibre blowing insulation material",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "45.0",
+      "GWPtotal (A1-A3)": "-72.7166093",
+      "GWPtotal (C2)": "0.1671301",
+      "GWPtotal (C3)": "84.1429446",
+      "GWPbiogenic": "0.0523086",
+      "GWPfossil": "11.5200913",
+      "GWPtotal": "11.5934654"
+    }
+  ]
+}

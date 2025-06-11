@@ -1,0 +1,155 @@
+# Mirrored building element datasheet structure
+# Build a custom configuration with this
+
+# === Metadata ===
+Element Metadata:
+  Name: true
+  UID: true
+  GlobalId: true
+  Type: true
+  ObjectType: true
+  Classification:
+    _include: true
+    IfcEntity: true
+    Identification: true
+    System Name: true
+    Name: true
+  Decomposes:
+    _include: true
+    Name: true
+    IfcEntity: true
+    GlobalId: true
+  Is Decomposed By:
+    _include: true
+    Name: true
+    IfcEntity: true
+    GlobalId: true
+
+# === Material Data: Element JSON files ===
+Element Material Data:
+  _include: true  # Global toggle for whether to include anything at all
+  IfcMaterial: # Conditional, depending on assigned IfcRelAssociatesMaterial
+    _include: true
+    IfcEntity: true
+    Material Name: true
+    Material Description: true
+    Material Category: true
+    Thickness: true
+    Thickness unit: true
+  IfcMaterialLayerSet: # Conditional, depending on assigned IfcRelAssociatesMaterial
+    _include: true
+    Layers:
+      _include: true
+      IfcEntity: true
+      Material Name: true
+      Description: true
+      Category: true
+      Thickness: true
+      Thickness unit: true
+  IfcMaterialLayerSetUsage:
+    _include: true
+    IfcEntity: true
+    Layer Set Name: true
+    Layer Set Description: true
+    Layer Set Total Thickness: true
+    Layer Direction and Growth description: false
+    Layers:
+      _include: true
+      item:
+        IfcEntity: true
+        Material Name: true
+        Description: true
+        Category: true
+        Thickness: true
+        Thickness unit: true
+
+
+
+# === Geometry ===
+Element Geometry Data:
+  _include: true
+  Quantities (IFC):
+    _include: true
+    Width: true
+    Width unit: true
+    Length: true
+    Length unit: true
+    Height: true
+    Height unit: true
+    Gross Side Area: true
+    Gross Side Area unit: true
+    Net Side Area: true
+    Net Side Area unit: true
+    Gross Footprint Area: true
+    Gross Footprint Area unit: true
+    Net Footprint Area: true
+    Net Footprint Area unit: true
+    Gross Volume: true
+    Gross Volume unit: true
+    Net Volume: true
+    Net Volume unit: true
+  Quantities (COMPAS):
+    _include: true
+    Net Volume: true
+    Net Volume unit: true
+    Entire Surface Area: true
+    Entire Surface Area unit: true
+  Bounding Box Dimensions (OBB - local frame): true
+  Bounding Box Volume: true
+  Real Volume to Bounding Box Volume Ratio: true
+  Geometric Representation: true
+  Face Count (tessellated element): true
+  Vertex Count (tessellated element): true
+  Edge Count (tessellated element): true
+  Primary Object Axis (Cardinal Direction): true
+
+# === Properties ===
+Element Property Sets:
+  Psets Element: true
+  Psets Object Type: true
+
+# === Relationships ===
+Element Relationships:
+  _include: true
+  Nests:
+    _include: true
+    Name: true
+    IfcEntity: true
+    GlobalId: true
+  Is Nested By:
+    _include: true
+    Name: true
+    IfcEntity: true
+    GlobalId: true
+  Covers:
+    _include: true
+    Name: true
+    IfcEntity: true
+    GlobalId: true
+  Is Covered By:
+    _include: true
+    Name: true
+    Material: true
+  Has Openings:
+    _include: true
+    IfcEntity: true
+    GlobalId: true
+    OpeningType: true
+  Assigned Groups:
+    _include: true
+    IfcEntity: true
+    Group Name: true
+    Group Description: true
+
+# === Location ===
+Element Location:
+  _include: false
+  Storeys Map: true
+  Element Located in Storey: true
+  Spatial Relationship:
+    _include: true
+    name: true
+    type: true
+
+# === Global ID group ===
+CompilationGroupID: true

@@ -1,0 +1,14 @@
+{
+  "type": "categories",
+  "path": "Dämmstoffe / Schaumglas",
+  "items": [
+    {
+      "name": "Platten",
+      "path": "Platten/index.json"
+    },
+    {
+      "name": "Granulat",
+      "path": "Granulat/index.json"
+    }
+  ]
+}

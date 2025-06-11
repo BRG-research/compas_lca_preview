@@ -1,0 +1,26 @@
+{
+  "type": "categories",
+  "path": "Gebäudetechnik / Elektro",
+  "items": [
+    {
+      "name": "Beleuchtung",
+      "path": "Beleuchtung/index.json"
+    },
+    {
+      "name": "Kabel",
+      "path": "Kabel/index.json"
+    },
+    {
+      "name": "Schalter und Steckdosen",
+      "path": "Schalter_und_Steckdosen/index.json"
+    },
+    {
+      "name": "Sicherungs- und Schaltschränke",
+      "path": "Sicherungs-_und_Schaltschränke/index.json"
+    },
+    {
+      "name": "Batteriespeicher",
+      "path": "Batteriespeicher/index.json"
+    }
+  ]
+}

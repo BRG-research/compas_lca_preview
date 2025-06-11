@@ -1,0 +1,29 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Polyurethan-Hartschaum (PU) / PU mit Mineralvlies",
+  "items": [
+    {
+      "ID": "d2ddb24b-d12f-44d5-9317-182e2fcb65e0",
+      "Name": "Therma? TW55 R",
+      "Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Laenderkennung": "RER",
+      "Declaration owner": "Kingspan Insulation B.V.",
+      "Registrierungsnummer": "EPD-KIN-20230170-CBA1-EN",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "2.1",
+      "Density (kg/m3)": "30.0",
+      "Schichtdicke (m)": "0.07",
+      "GWPtotal (A1-A3)": "5.0189",
+      "GWPtotal (A4)": "0.01768",
+      "GWPtotal (A5)": "0.1274",
+      "GWPtotal (C1)": "0.001347",
+      "GWPtotal (C2)": "0.008839",
+      "GWPtotal (C3)": "3.882",
+      "GWPtotal (C4)": "0.0",
+      "GWPbiogenic": "-0.0042492",
+      "GWPfossil": "9.056178",
+      "GWPtotal": "9.056166"
+    }
+  ]
+}

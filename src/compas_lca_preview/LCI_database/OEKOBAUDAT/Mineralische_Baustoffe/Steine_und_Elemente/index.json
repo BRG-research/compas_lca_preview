@@ -1,0 +1,82 @@
+{
+  "type": "categories",
+  "path": "Mineralische Baustoffe / Steine und Elemente",
+  "items": [
+    {
+      "name": "Ziegel",
+      "path": "Ziegel/index.json"
+    },
+    {
+      "name": "Dachsteine",
+      "path": "Dachsteine/index.json"
+    },
+    {
+      "name": "Glasbausteine",
+      "path": "Glasbausteine/index.json"
+    },
+    {
+      "name": "Betonfertigteile und Betonwaren",
+      "path": "Betonfertigteile_und_Betonwaren/index.json"
+    },
+    {
+      "name": "Deckenplatten",
+      "path": "Deckenplatten/index.json"
+    },
+    {
+      "name": "Lehmsteine",
+      "path": "Lehmsteine/index.json"
+    },
+    {
+      "name": "Porenbeton",
+      "path": "Porenbeton/index.json"
+    },
+    {
+      "name": "Kunststein",
+      "path": "Kunststein/index.json"
+    },
+    {
+      "name": "Faserzement",
+      "path": "Faserzement/index.json"
+    },
+    {
+      "name": "Trockenestrich",
+      "path": "Trockenestrich/index.json"
+    },
+    {
+      "name": "Leichtbeton",
+      "path": "Leichtbeton/index.json"
+    },
+    {
+      "name": "Gipsplatten",
+      "path": "Gipsplatten/index.json"
+    },
+    {
+      "name": "Fliesen und Platten",
+      "path": "Fliesen_und_Platten/index.json"
+    },
+    {
+      "name": "Naturwerkstein",
+      "path": "Naturwerkstein/index.json"
+    },
+    {
+      "name": "Schiefer",
+      "path": "Schiefer/index.json"
+    },
+    {
+      "name": "Dachziegel",
+      "path": "Dachziegel/index.json"
+    },
+    {
+      "name": "Kalksandstein",
+      "path": "Kalksandstein/index.json"
+    },
+    {
+      "name": "Steinzeug",
+      "path": "Steinzeug/index.json"
+    },
+    {
+      "name": "Substrate",
+      "path": "Substrate/index.json"
+    }
+  ]
+}

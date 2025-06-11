@@ -1,0 +1,46 @@
+{
+  "type": "categories",
+  "path": "Komponenten von Fenstern und Vorhangfassaden",
+  "items": [
+    {
+      "name": "Türen und Tore",
+      "path": "Türen_und_Tore/index.json"
+    },
+    {
+      "name": "Fenster",
+      "path": "Fenster/index.json"
+    },
+    {
+      "name": "Beschläge",
+      "path": "Beschläge/index.json"
+    },
+    {
+      "name": "Rahmen",
+      "path": "Rahmen/index.json"
+    },
+    {
+      "name": "Antriebssysteme",
+      "path": "Antriebssysteme/index.json"
+    },
+    {
+      "name": "Dichtungskomponenten",
+      "path": "Dichtungskomponenten/index.json"
+    },
+    {
+      "name": "Tageslichtsysteme und Rauch-",
+      "path": "Tageslichtsysteme_und_Rauch-/index.json"
+    },
+    {
+      "name": "Fassaden",
+      "path": "Fassaden/index.json"
+    },
+    {
+      "name": "Zubehör für Fenster, Fassaden, Türen und Tore",
+      "path": "Zubehör_für_Fenster_Fassaden_Türen_und_Tore/index.json"
+    },
+    {
+      "name": "Füllungen",
+      "path": "Füllungen/index.json"
+    }
+  ]
+}

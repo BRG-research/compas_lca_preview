@@ -1,0 +1,14 @@
+{
+  "type": "categories",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Füllungen",
+  "items": [
+    {
+      "name": "Transparente Füllungen",
+      "path": "Transparente_Füllungen/index.json"
+    },
+    {
+      "name": "Opake Füllungen",
+      "path": "Opake_Füllungen/index.json"
+    }
+  ]
+}

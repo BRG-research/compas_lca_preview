@@ -1,0 +1,38 @@
+{
+  "type": "materials",
+  "path": "Kunststoffe / Dichtmassen / Bitumen",
+  "items": [
+    {
+      "ID": "6ade4721-3262-4024-ab99-0265972b38bf",
+      "Name": "Bitumen cold adhesive (60% bitumen, 23% solvent, 17% water)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (A1-A3)": "0.8553704",
+      "GWPtotal (C2)": "0.0049781",
+      "GWPtotal (C3)": "0.0",
+      "GWPtotal (C4)": "0.0384398",
+      "GWPbiogenic": "-0.0282994",
+      "GWPfossil": "0.9241163",
+      "GWPtotal": "0.8987883"
+    },
+    {
+      "ID": "88c0f648-2316-4bbc-99b3-dbc636580088",
+      "Name": "Bitumen emulsion (40% bitumen, 60% water)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (A1-A3)": "0.4504678",
+      "GWPtotal (C2)": "0.0049781",
+      "GWPtotal (C3)": "0.0",
+      "GWPtotal (C4)": "0.0384398",
+      "GWPbiogenic": "0.0032227",
+      "GWPfossil": "0.4902014",
+      "GWPtotal": "0.4938857"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "type": "materials",
+  "path": "Metalle / Edelstahl / Edelstahlprofile",
+  "items": [
+    {
+      "ID": "719d1e69-de2f-4a35-93d5-e8c4fcdf3255",
+      "Name": "Stainless steel floor drains: Furo 142 (includes Furo 006, Furo 007, Furo 008, Furo 104, Furo 105, Furo 139, Furo 141, Furo 170)",
+      "Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Laenderkennung": "SE",
+      "Declaration owner": "AB Furhoffs Rostfria",
+      "Registrierungsnummer": "EPD-Kiwa-EE-000343-EN / EPD-Kiwa-EE-343-SE",
+      "Bezugsgroesse": "1",
+      "Reference": "pcs.",
+      "Stueckgewicht (kg)": "11.18",
+      "GWPtotal (A1)": "56.4",
+      "GWPtotal (A2)": "0.72",
+      "GWPtotal (A3)": "8.68",
+      "GWPtotal (C1)": "0.0",
+      "GWPtotal (C2)": "0.0735",
+      "GWPtotal (C3)": "0.448",
+      "GWPtotal (C4)": "0.00305",
+      "GWPbiogenic": "-3.1905557",
+      "GWPfossil": "69.54455",
+      "GWPtotal": "66.32455"
+    },
+    {
+      "ID": "9a10551e-c3e3-47b9-a024-aeadd0a79841",
+      "Name": "Stainless steel floor drains: Furo 165 (includes Furo 152, Furo 140)",
+      "Conformity": "'EN 15804+A2' / 'ISO 14025'",
+      "Laenderkennung": "SE",
+      "Declaration owner": "AB Furhoffs Rostfria",
+      "Registrierungsnummer": "EPD-Kiwa-EE-000344-EN / EPD-Kiwa-EE-000344-SE",
+      "Bezugsgroesse": "1",
+      "Reference": "pcs.",
+      "Stueckgewicht (kg)": "30.54",
+      "GWPtotal (A1)": "155.0",
+      "GWPtotal (A2)": "1.89",
+      "GWPtotal (A3)": "27.1",
+      "GWPtotal (C1)": "0.0",
+      "GWPtotal (C2)": "0.199",
+      "GWPtotal (C3)": "0.257",
+      "GWPtotal (C4)": "0.0138",
+      "GWPbiogenic": "-1.9788749",
+      "GWPfossil": "186.8498",
+      "GWPtotal": "184.4598"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "type": "materials",
+  "path": "Gebäudetechnik / Nutzung / Nutzung Lüftung und Klimatechnik",
+  "items": [
+    {
+      "ID": "007312d2-a91b-48fd-b037-f4632e49b366",
+      "Name": "Usage - multisplit air conditioner < 12 kW (SEER 3,2)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "3.6",
+      "Reference": "MJ",
+      "GWPtotal (B6)": "0.15703",
+      "GWPbiogenic": "0.0017694",
+      "GWPfossil": "0.1552322",
+      "GWPtotal": "0.15703"
+    },
+    {
+      "ID": "c079041e-16b1-4deb-b4b2-31d4b5591771",
+      "Name": "Usage - room air conditioner> 12 kW (SEER 4.7)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "3.6",
+      "Reference": "MJ",
+      "GWPtotal (B6)": "0.1076102",
+      "GWPbiogenic": "0.0012125",
+      "GWPfossil": "0.1063782",
+      "GWPtotal": "0.1076102"
+    },
+    {
+      "ID": "2138cf17-1de1-4f40-8358-fc5a8369cf2f",
+      "Name": "Usage - split air conditioner < 12 kW (SEER 3,5)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "3.6",
+      "Reference": "MJ",
+      "GWPtotal (B6)": "0.1427138",
+      "GWPbiogenic": "0.0016081",
+      "GWPfossil": "0.1410799",
+      "GWPtotal": "0.1427138"
+    },
+    {
+      "ID": "b0230a76-0440-4c88-afb6-922c1ccdb815",
+      "Name": "Usage - ventilation (1kWh electricity consumption)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "3.6",
+      "Reference": "MJ",
+      "GWPtotal (B6)": "0.4794079",
+      "GWPbiogenic": "0.0056439",
+      "GWPfossil": "0.4736735",
+      "GWPtotal": "0.4794079"
+    }
+  ]
+}

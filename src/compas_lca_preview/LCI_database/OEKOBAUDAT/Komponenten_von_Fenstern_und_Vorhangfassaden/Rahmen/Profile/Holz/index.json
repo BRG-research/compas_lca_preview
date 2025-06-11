@@ -1,0 +1,38 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Rahmen / Profile / Holz",
+  "items": [
+    {
+      "ID": "530ff9e2-0189-4783-9546-3bb8f64fbbeb",
+      "Name": "Window frame (spruce)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "m",
+      "Laengengewicht (kg/m)": "2.11",
+      "GWPtotal (A1-A3)": "-0.4821052",
+      "GWPtotal (C2)": "0.0073932",
+      "GWPtotal (C3)": "3.9754482",
+      "GWPbiogenic": "0.0295511",
+      "GWPfossil": "3.4617168",
+      "GWPtotal": "3.5007362"
+    },
+    {
+      "ID": "b0c75d7b-4cce-41cf-b785-1db434ee9c3f",
+      "Name": "Window sash (spruce)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "m",
+      "Laengengewicht (kg/m)": "2.11",
+      "GWPtotal (A1-A3)": "-0.1773172",
+      "GWPtotal (C2)": "0.0073587",
+      "GWPtotal (C3)": "3.9876727",
+      "GWPbiogenic": "0.0315149",
+      "GWPfossil": "3.7717228",
+      "GWPtotal": "3.8177142"
+    }
+  ]
+}

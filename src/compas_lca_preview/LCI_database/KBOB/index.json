@@ -1,0 +1,65 @@
+{
+  "type": "categories",
+  "items": [
+    {
+      "name": "Beton",
+      "path": "Beton/index.json"
+    },
+    {
+      "name": "Mauersteine",
+      "path": "Mauersteine/index.json"
+    },
+    {
+      "name": "Mineralische Platten, Schüttungen, Steine und Ziegel",
+      "path": "Mineralische_Platten_Schüttungen_Steine_und_Ziegel/index.json"
+    },
+    {
+      "name": "Mörtel und Putze",
+      "path": "Mörtel_und_Putze/index.json"
+    },
+    {
+      "name": "Fenster, Sonnenschutz, Fassadenplatten",
+      "path": "Fenster_Sonnenschutz_Fassadenplatten/index.json"
+    },
+    {
+      "name": "Metallbaustoffe",
+      "path": "Metallbaustoffe/index.json"
+    },
+    {
+      "name": "Holz und Holzwerkstoffe",
+      "path": "Holz_und_Holzwerkstoffe/index.json"
+    },
+    {
+      "name": "Klebstoffe, Fugendichtungsmassen",
+      "path": "Klebstoffe_Fugendichtungsmassen/index.json"
+    },
+    {
+      "name": "Dichtungsbahnen, Schutzfolien",
+      "path": "Dichtungsbahnen_Schutzfolien/index.json"
+    },
+    {
+      "name": "Wärmedämmstoffe",
+      "path": "Wärmedämmstoffe/index.json"
+    },
+    {
+      "name": "Bodenbeläge",
+      "path": "Bodenbeläge/index.json"
+    },
+    {
+      "name": "Türen",
+      "path": "Türen/index.json"
+    },
+    {
+      "name": "Rohre",
+      "path": "Rohre/index.json"
+    },
+    {
+      "name": "Anstrichstoffe, Beschichtungen",
+      "path": "Anstrichstoffe_Beschichtungen/index.json"
+    },
+    {
+      "name": "Kunststoffe",
+      "path": "Kunststoffe/index.json"
+    }
+  ]
+}

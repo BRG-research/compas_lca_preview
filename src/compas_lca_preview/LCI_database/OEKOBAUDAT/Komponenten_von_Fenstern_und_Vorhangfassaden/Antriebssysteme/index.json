@@ -1,0 +1,14 @@
+{
+  "type": "categories",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Antriebssysteme",
+  "items": [
+    {
+      "name": "elektrisch",
+      "path": "elektrisch/index.json"
+    },
+    {
+      "name": "mechanisch",
+      "path": "mechanisch/index.json"
+    }
+  ]
+}

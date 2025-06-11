@@ -1,0 +1,14 @@
+{
+  "type": "categories",
+  "path": "Kunststoffe / Profile",
+  "items": [
+    {
+      "name": "Kunststoffprofile elastisch",
+      "path": "Kunststoffprofile_elastisch/index.json"
+    },
+    {
+      "name": "Kunststoffprofile hart",
+      "path": "Kunststoffprofile_hart/index.json"
+    }
+  ]
+}

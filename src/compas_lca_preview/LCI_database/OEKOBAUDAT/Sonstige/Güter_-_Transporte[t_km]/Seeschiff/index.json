@@ -1,0 +1,45 @@
+{
+  "type": "materials",
+  "path": "Sonstige / Güter - Transporte[t km] / Seeschiff",
+  "items": [
+    {
+      "ID": "98c8fe23-fdd3-4d85-b9d6-b04a037eb056",
+      "Name": "Bulk carrier coast",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1000",
+      "Reference": "t*km",
+      "GWPtotal (A4)": "0.0197633",
+      "GWPbiogenic": "2.27e-05",
+      "GWPfossil": "0.0197397",
+      "GWPtotal": "0.0197633"
+    },
+    {
+      "ID": "32c020ee-4c79-4fe1-9550-02813e06c7f0",
+      "Name": "Bulk carrier ocean",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1000",
+      "Reference": "t*km",
+      "GWPtotal (A4)": "0.0053951",
+      "GWPbiogenic": "5.5e-06",
+      "GWPfossil": "0.0053894",
+      "GWPtotal": "0.0053951"
+    },
+    {
+      "ID": "c1bfdecc-e167-4c3a-8792-5dc06b97b4b8",
+      "Name": "Container ship",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1000",
+      "Reference": "t*km",
+      "GWPtotal (A4)": "0.0115363",
+      "GWPbiogenic": "1.18e-05",
+      "GWPfossil": "0.0115241",
+      "GWPtotal": "0.0115363"
+    }
+  ]
+}

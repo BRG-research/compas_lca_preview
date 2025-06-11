@@ -1,0 +1,66 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Dichtungskomponenten / -materialien / Fugendichtungsbänder",
+  "items": [
+    {
+      "ID": "bacaced7-4299-45f0-93e0-fba6bd3b3e67",
+      "Name": "Joint sealing strips, PE/PP foil",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (A1-A3)": "2.6108539",
+      "GWPtotal (C2)": "0.003714",
+      "GWPtotal (C3)": "3.7656658",
+      "GWPbiogenic": "0.0158461",
+      "GWPfossil": "6.3635839",
+      "GWPtotal": "6.3802336"
+    },
+    {
+      "ID": "47030048-dc2f-4ef0-b505-89771807b761",
+      "Name": "Joint sealing strips, butyl",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (A1-A3)": "6.0324163",
+      "GWPtotal (C2)": "0.0046454",
+      "GWPtotal (C3)": "3.0303224",
+      "GWPbiogenic": "0.118474",
+      "GWPfossil": "8.9473846",
+      "GWPtotal": "9.0673841"
+    },
+    {
+      "ID": "fd38cced-233c-4d2f-8a16-015f6e364c8b",
+      "Name": "Joint sealing strips, fabric",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (A1-A3)": "4.9684163",
+      "GWPtotal (C2)": "0.0041797",
+      "GWPtotal (C3)": "2.236718",
+      "GWPbiogenic": "-0.0031213",
+      "GWPfossil": "7.2102616",
+      "GWPtotal": "7.209314"
+    },
+    {
+      "ID": "24f91cc9-f588-4782-b553-8e39f310afc7",
+      "Name": "Joint sealing strips, polyisobutylene",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (A1-A3)": "4.4976336",
+      "GWPtotal (C2)": "0.0046454",
+      "GWPtotal (C3)": "3.0303224",
+      "GWPbiogenic": "0.024321",
+      "GWPfossil": "7.5068493",
+      "GWPtotal": "7.5326014"
+    }
+  ]
+}

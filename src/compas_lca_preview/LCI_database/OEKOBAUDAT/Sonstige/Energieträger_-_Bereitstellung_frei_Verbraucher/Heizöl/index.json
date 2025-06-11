@@ -1,0 +1,45 @@
+{
+  "type": "materials",
+  "path": "Sonstige / Energieträger - Bereitstellung frei Verbraucher / Heizöl",
+  "items": [
+    {
+      "ID": "2efcb539-f2f6-4db4-97ae-ece46761395d",
+      "Name": "Heavy fuel oil",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (B6)": "0.6157538",
+      "GWPbiogenic": "0.0042475",
+      "GWPfossil": "0.6113611",
+      "GWPtotal": "0.6157538"
+    },
+    {
+      "ID": "de4f1273-f63f-4c2e-998c-639cb0e6e2c3",
+      "Name": "Light fuel oil",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (B6)": "0.6701715",
+      "GWPbiogenic": "0.0048868",
+      "GWPfossil": "0.6651177",
+      "GWPtotal": "0.6701715"
+    },
+    {
+      "ID": "38b9c0c6-bab8-4258-aab7-ada54f12e878",
+      "Name": "Thermal energy from light fuel oil",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "3.6",
+      "Reference": "MJ",
+      "GWPtotal (B6)": "0.336492",
+      "GWPbiogenic": "0.0004133",
+      "GWPfossil": "0.3360646",
+      "GWPtotal": "0.336492"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "categories",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Fassaden",
+  "items": [
+    {
+      "name": "Sonstige Fassaden",
+      "path": "Sonstige_Fassaden/index.json"
+    },
+    {
+      "name": "Vorhangfassade - Element-Fassaden",
+      "path": "Vorhangfassade_-_Element-Fassaden/index.json"
+    },
+    {
+      "name": "Vorhangfassade - Pfosten-Riegel-Fassaden",
+      "path": "Vorhangfassade_-_Pfosten-Riegel-Fassaden/index.json"
+    }
+  ]
+}

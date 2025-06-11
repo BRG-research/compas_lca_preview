@@ -1,0 +1,10 @@
+{
+  "type": "categories",
+  "path": "Dämmstoffe / Schaumbeton",
+  "items": [
+    {
+      "name": "Schaumbeton Dämmplatten",
+      "path": "Schaumbeton_Dämmplatten/index.json"
+    }
+  ]
+}

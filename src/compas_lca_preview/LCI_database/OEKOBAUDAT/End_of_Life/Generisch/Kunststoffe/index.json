@@ -1,0 +1,45 @@
+{
+  "type": "materials",
+  "path": "End of Life / Generisch / Kunststoffe",
+  "items": [
+    {
+      "ID": "2b354644-639c-4878-a3aa-daf6fd5052e0",
+      "Name": "Incineration plastics in municipal solid waste plant (incl. credits)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (C3)": "2.5235003",
+      "GWPbiogenic": "-1.36e-05",
+      "GWPfossil": "2.5233517",
+      "GWPtotal": "2.5235003"
+    },
+    {
+      "ID": "8a3a537c-68ad-4561-a24d-dc1ded7ade93",
+      "Name": "Incineration polystyrene (PS) in municipal solid waste plant (incl. credits)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (C3)": "3.376762",
+      "GWPbiogenic": "0.000144",
+      "GWPfossil": "3.3766095",
+      "GWPtotal": "3.376762"
+    },
+    {
+      "ID": "886739f5-7f3d-45e3-b1a3-7b443b7b848b",
+      "Name": "Incineration used carpet in municipal solid waste plant (incl. credits)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (C3)": "1.7385538",
+      "GWPbiogenic": "1.2670214",
+      "GWPfossil": "0.4715191",
+      "GWPtotal": "1.7385538"
+    }
+  ]
+}

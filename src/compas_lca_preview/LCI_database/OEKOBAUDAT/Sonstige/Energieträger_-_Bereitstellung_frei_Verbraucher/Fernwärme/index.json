@@ -1,0 +1,110 @@
+{
+  "type": "materials",
+  "path": "Sonstige / Energieträger - Bereitstellung frei Verbraucher / Fernwärme",
+  "items": [
+    {
+      "ID": "e07ffa83-c92b-42ce-b00f-f7b8a5120323",
+      "Name": "District heating from biogas",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "3.6",
+      "Reference": "MJ",
+      "GWPtotal (B6)": "0.0617126",
+      "GWPbiogenic": "0.026865",
+      "GWPfossil": "0.0346976",
+      "GWPtotal": "0.0617126"
+    },
+    {
+      "ID": "a715dbb0-6fb7-41cb-b2df-d2834414224a",
+      "Name": "District heating from biomass (solid)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "3.6",
+      "Reference": "MJ",
+      "GWPtotal (B6)": "0.012822",
+      "GWPbiogenic": "0.0017742",
+      "GWPfossil": "0.0109532",
+      "GWPtotal": "0.012822"
+    },
+    {
+      "ID": "fc622a9a-76f4-4a6a-991d-aa0fc4300513",
+      "Name": "District heating from hard coal",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "3.6",
+      "Reference": "MJ",
+      "GWPtotal (B6)": "0.3364746",
+      "GWPbiogenic": "-0.0001695",
+      "GWPfossil": "0.3365433",
+      "GWPtotal": "0.3364746"
+    },
+    {
+      "ID": "989900d3-38ad-4241-b43a-af6901326215",
+      "Name": "District heating from light fuel oil",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "3.6",
+      "Reference": "MJ",
+      "GWPtotal (B6)": "0.2299516",
+      "GWPbiogenic": "0.0002823",
+      "GWPfossil": "0.2296597",
+      "GWPtotal": "0.2299516"
+    },
+    {
+      "ID": "3d681291-5fab-4162-9178-cc1cddd9ea9c",
+      "Name": "District heating from lignite",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "3.6",
+      "Reference": "MJ",
+      "GWPtotal (B6)": "0.3149885",
+      "GWPbiogenic": "3.43e-05",
+      "GWPfossil": "0.314953",
+      "GWPtotal": "0.3149885"
+    },
+    {
+      "ID": "b0c5883b-61a5-4855-a76a-73afd45e0da5",
+      "Name": "District heating from natural gas",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "3.6",
+      "Reference": "MJ",
+      "GWPtotal (B6)": "0.1654998",
+      "GWPbiogenic": "0.0003472",
+      "GWPfossil": "0.1651415",
+      "GWPtotal": "0.1654998"
+    },
+    {
+      "ID": "62ecab6c-10e7-4888-a9ab-e5dbbacf0e93",
+      "Name": "District heating from waste",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "3.6",
+      "Reference": "MJ",
+      "GWPtotal (B6)": "0.253444",
+      "GWPbiogenic": "0.0001458",
+      "GWPfossil": "0.2533032",
+      "GWPtotal": "0.253444"
+    },
+    {
+      "ID": "bff1909a-5383-49bb-a450-aa9543e7a9ee",
+      "Name": "District heating mix Germany",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "3.6",
+      "Reference": "MJ",
+      "GWPtotal (B6)": "0.2537018",
+      "GWPbiogenic": "0.0017159",
+      "GWPfossil": "0.2519469",
+      "GWPtotal": "0.2537018"
+    }
+  ]
+}

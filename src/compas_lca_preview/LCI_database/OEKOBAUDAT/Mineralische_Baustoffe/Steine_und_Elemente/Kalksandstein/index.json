@@ -1,0 +1,49 @@
+{
+  "type": "materials",
+  "path": "Mineralische Baustoffe / Steine und Elemente / Kalksandstein",
+  "items": [
+    {
+      "ID": "cc0d7baa-755a-4a4a-baf3-4fe53d68a041",
+      "Name": "Sand-lime brick",
+      "Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Bundesverband Kalksandsteinindustrie e.V.",
+      "Registrierungsnummer": "EPD-BKS-20210205-IBE2-DE",
+      "Bezugsgroesse": "1000",
+      "Reference": "kg",
+      "Density (kg/m3)": "1800.0",
+      "Umrechungsfaktor auf 1kg": "0.001",
+      "GWPtotal (A1-A3)": "126.0",
+      "GWPtotal (A4)": "3.93",
+      "GWPtotal (A5)": "3.04",
+      "GWPtotal (B1)": "-47.5",
+      "GWPtotal (C1)": "0.612",
+      "GWPtotal (C2)": "1.64",
+      "GWPtotal (C3)": "2.51",
+      "GWPtotal (C4)": "14.0",
+      "GWPbiogenic": "-0.9678753",
+      "GWPfossil": "487.1176815",
+      "GWPtotal": "104.232"
+    },
+    {
+      "ID": "dd0edbff-6dec-4598-8051-95e9940366dc",
+      "Name": "Steam-hardened building material - UNIKA GmbH - UNIKA ecobluu plane elements",
+      "Conformity": "'EN 15804+A2'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "UNIKA GmbH",
+      "Registrierungsnummer": "EPD-BLU-88.0",
+      "Bezugsgroesse": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "1914.0",
+      "GWPtotal (A1-A3)": "148.99",
+      "GWPtotal (B1)": "-90.87",
+      "GWPtotal (C1)": "1.15",
+      "GWPtotal (C2)": "7.7",
+      "GWPtotal (C3)": "4.64",
+      "GWPtotal (C4)": "1.93",
+      "GWPbiogenic": "0.276",
+      "GWPfossil": "164.25",
+      "GWPtotal": "73.54"
+    }
+  ]
+}

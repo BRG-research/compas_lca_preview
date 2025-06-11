@@ -1,0 +1,17 @@
+{
+  "Material Options": [
+    "Usage - district heating (120-400 kW, according to GEG)",
+    "Usage - district heating (20-120 kW, acc. GEG)",
+    "Usage - flat collector (1m² and year), acc. GEG",
+    "Usage - gas heat pump air (20 kW, 0 °C, acc. GEG)",
+    "Usage - gas heat pump air (20 kW, 7 °C, acc. GEG)",
+    "Usage - gas heat pump air (70 kW, 0 °C, acc. GEG)",
+    "Usage - gas heat pump air (70 kW, 7 °C, acc. GEG)",
+    "Usage - tube collector (1m² and year), acc. GEG",
+    "Use - 1 kWh of final energy from gas calorific value (according to GEG)",
+    "Use - 1 kWh of final energy from gas low-temperature (according to GEG)",
+    "Use - 1 kWh of final energy from oil low temp. and calorific value (acc. GEG)",
+    "Use - 1 kWh of final energy from wood chips (according to GEG)",
+    "Use - 1 kWh of final energy from wood pellets (according to GEG)"
+  ]
+}

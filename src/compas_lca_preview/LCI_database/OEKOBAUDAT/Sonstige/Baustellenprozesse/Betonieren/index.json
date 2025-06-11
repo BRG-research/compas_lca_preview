@@ -1,0 +1,20 @@
+{
+  "type": "materials",
+  "path": "Sonstige / Baustellenprozesse / Betonieren",
+  "items": [
+    {
+      "ID": "f0ae9686-25b1-444c-8474-1f1d078cfed8",
+      "Name": "Pumping of 1 m3 concrete",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "2365.0",
+      "GWPtotal (A5)": "0.7311105",
+      "GWPbiogenic": "0.0084404",
+      "GWPfossil": "0.7225283",
+      "GWPtotal": "0.7311105"
+    }
+  ]
+}

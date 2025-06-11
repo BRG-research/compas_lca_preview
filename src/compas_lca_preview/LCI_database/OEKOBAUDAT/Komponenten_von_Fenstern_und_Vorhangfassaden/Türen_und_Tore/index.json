@@ -1,0 +1,22 @@
+{
+  "type": "categories",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Türen und Tore",
+  "items": [
+    {
+      "name": "Stahl",
+      "path": "Stahl/index.json"
+    },
+    {
+      "name": "Holz",
+      "path": "Holz/index.json"
+    },
+    {
+      "name": "Aluminium",
+      "path": "Aluminium/index.json"
+    },
+    {
+      "name": "Kunststoff",
+      "path": "Kunststoff/index.json"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "categories",
+  "path": "Dämmstoffe / Expandiertes Polystyrol (EPS)",
+  "items": [
+    {
+      "name": "EPS weiß",
+      "path": "EPS_weiß/index.json"
+    },
+    {
+      "name": "EPS grau-weiß",
+      "path": "EPS_grau-weiß/index.json"
+    },
+    {
+      "name": "EPS grau",
+      "path": "EPS_grau/index.json"
+    }
+  ]
+}

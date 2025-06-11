@@ -1,0 +1,31 @@
+{
+  "type": "materials",
+  "path": "Komposite / Systembauteile / Böden",
+  "items": [
+    {
+      "ID": "1598f156-ab6f-4419-9381-adc14634997f",
+      "Name": "Green Roof System",
+      "Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Laenderkennung": "GLO",
+      "Declaration owner": "ZinCo GmbH",
+      "Registrierungsnummer": "EPD-ZIC-20200082-CCA1-EN",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "102.7035",
+      "Density (kg/m3)": "102.7035",
+      "Schichtdicke (m)": "0.14",
+      "Umrechungsfaktor auf 1kg": "102.7035",
+      "GWPtotal (A1-A3)": "-2.67363",
+      "GWPtotal (A4)": "0.476208",
+      "GWPtotal (A5)": "0.694",
+      "GWPtotal (B1)": "0.0994",
+      "GWPtotal (C1)": "0.0512",
+      "GWPtotal (C2)": "0.238089",
+      "GWPtotal (C3)": "6.845",
+      "GWPtotal (C4)": "11.5",
+      "GWPbiogenic": "4.2712271",
+      "GWPfossil": "12.928893",
+      "GWPtotal": "17.230267"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "categories",
+  "path": "Dämmstoffe / Extrudiertes Polystyrol (XPS)",
+  "items": [
+    {
+      "name": "XPS weiß",
+      "path": "XPS_weiß/index.json"
+    }
+  ]
+}

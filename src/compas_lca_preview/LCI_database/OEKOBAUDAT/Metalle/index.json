@@ -1,0 +1,34 @@
+{
+  "type": "categories",
+  "path": "Metalle",
+  "items": [
+    {
+      "name": "Aluminium",
+      "path": "Aluminium/index.json"
+    },
+    {
+      "name": "Stahl und Eisen",
+      "path": "Stahl_und_Eisen/index.json"
+    },
+    {
+      "name": "Oberflächenbehandlung und Beschichtung von Metallen",
+      "path": "Oberflächenbehandlung_und_Beschichtung_von_Metallen/index.json"
+    },
+    {
+      "name": "Kupfer",
+      "path": "Kupfer/index.json"
+    },
+    {
+      "name": "Blei",
+      "path": "Blei/index.json"
+    },
+    {
+      "name": "Zink",
+      "path": "Zink/index.json"
+    },
+    {
+      "name": "Edelstahl",
+      "path": "Edelstahl/index.json"
+    }
+  ]
+}

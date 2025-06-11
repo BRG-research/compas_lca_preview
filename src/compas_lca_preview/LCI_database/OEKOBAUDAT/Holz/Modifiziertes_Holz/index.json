@@ -1,0 +1,14 @@
+{
+  "type": "categories",
+  "path": "Holz / Modifiziertes Holz",
+  "items": [
+    {
+      "name": "Acetyliertes Holz",
+      "path": "Acetyliertes_Holz/index.json"
+    },
+    {
+      "name": "Thermisch behandeltes Holz",
+      "path": "Thermisch_behandeltes_Holz/index.json"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "type": "materials",
+  "path": "Beschichtungen / Innenbeschichtungen / Innenfarben",
+  "items": [
+    {
+      "ID": "b0b25f5c-0982-4f75-b75b-bb28f5807b64",
+      "Name": "Application paint emulsion, interior, wear resistant",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (A1-A3)": "2.626981",
+      "GWPtotal (A5)": "0.0154288",
+      "GWPtotal (C2)": "0.0042601",
+      "GWPtotal (C4)": "0.0166149",
+      "GWPbiogenic": "0.0336226",
+      "GWPfossil": "2.6285514",
+      "GWPtotal": "2.6632848"
+    },
+    {
+      "ID": "198223f3-acee-40be-93bb-0e7b365cacfc",
+      "Name": "Lime colour",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "Flaechengewicht (kg/m2)": "0.2",
+      "GWPtotal (A1-A3)": "0.9433312",
+      "GWPtotal (C2)": "0.0046454",
+      "GWPtotal (C4)": "0.0181214",
+      "GWPbiogenic": "0.0037168",
+      "GWPfossil": "0.9619508",
+      "GWPtotal": "0.966098"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "type": "categories",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Beschläge",
+  "items": [
+    {
+      "name": "Befestigungen",
+      "path": "Befestigungen/index.json"
+    },
+    {
+      "name": "Stahlbeschläge",
+      "path": "Stahlbeschläge/index.json"
+    },
+    {
+      "name": "Kunststoffbeschläge",
+      "path": "Kunststoffbeschläge/index.json"
+    },
+    {
+      "name": "Zinkbeschläge",
+      "path": "Zinkbeschläge/index.json"
+    },
+    {
+      "name": "Messingbeschläge",
+      "path": "Messingbeschläge/index.json"
+    },
+    {
+      "name": "Fenstergriffe",
+      "path": "Fenstergriffe/index.json"
+    },
+    {
+      "name": "Edelstahlbeschläge",
+      "path": "Edelstahlbeschläge/index.json"
+    },
+    {
+      "name": "Aluminiumbeschläge",
+      "path": "Aluminiumbeschläge/index.json"
+    }
+  ]
+}

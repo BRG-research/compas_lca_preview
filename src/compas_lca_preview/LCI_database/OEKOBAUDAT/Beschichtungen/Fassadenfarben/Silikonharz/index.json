@@ -1,0 +1,22 @@
+{
+  "type": "materials",
+  "path": "Beschichtungen / Fassadenfarben / Silikonharz",
+  "items": [
+    {
+      "ID": "b974b2f9-967e-4356-80ae-d7feeb4f0d46",
+      "Name": "Application coating silicone paint",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (A1-A3)": "1.4134825",
+      "GWPtotal (A5)": "0.0122466",
+      "GWPtotal (C2)": "0.0042601",
+      "GWPtotal (C4)": "0.0166149",
+      "GWPbiogenic": "0.0145846",
+      "GWPfossil": "1.4300257",
+      "GWPtotal": "1.4466041"
+    }
+  ]
+}

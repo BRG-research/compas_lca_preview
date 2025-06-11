@@ -1,0 +1,38 @@
+{
+  "type": "materials",
+  "path": "Mineralische Baustoffe / Steine und Elemente / Glasbausteine",
+  "items": [
+    {
+      "ID": "b3bb06b1-fefb-4e57-99ee-aa113000343b",
+      "Name": "1.3.16. Glass reinforcement grid",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "0.16",
+      "GWPtotal (A1-A3)": "0.7207009",
+      "GWPtotal (C2)": "0.0007417",
+      "GWPtotal (C4)": "0.0034552",
+      "GWPbiogenic": "0.0148631",
+      "GWPfossil": "0.7097455",
+      "GWPtotal": "0.7248979"
+    },
+    {
+      "ID": "c92470df-8c3d-4586-904e-53801844edf5",
+      "Name": "Glass bricks",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "2500.0",
+      "GWPtotal (A1-A3)": "4051.5189946",
+      "GWPtotal (C2)": "12.5768019",
+      "GWPtotal (C4)": "49.0697576",
+      "GWPbiogenic": "2.4321156",
+      "GWPfossil": "4108.4009753",
+      "GWPtotal": "4113.1655541"
+    }
+  ]
+}

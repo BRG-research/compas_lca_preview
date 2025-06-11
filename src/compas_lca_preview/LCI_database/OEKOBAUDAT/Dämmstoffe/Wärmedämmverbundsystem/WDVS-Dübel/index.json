@@ -1,0 +1,24 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Wärmedämmverbundsystem / WDVS-Dübel",
+  "items": [
+    {
+      "ID": "8ede9ece-bea3-493d-bc17-ccca81ae897c",
+      "Name": "Fassadenanker Isolink®",
+      "Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Laenderkennung": "RER",
+      "Declaration owner": "Schöck Bauteile GmbH",
+      "Registrierungsnummer": "EPD-SBG-20200239-IBA1-DE",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (A1-A3)": "2.84",
+      "GWPtotal (A5)": "0.0249",
+      "GWPtotal (C2)": "0.00189",
+      "GWPtotal (C3)": "0.0404",
+      "GWPtotal (C4)": "0.00822",
+      "GWPbiogenic": "0.0163765",
+      "GWPfossil": "2.8958266",
+      "GWPtotal": "2.91541"
+    }
+  ]
+}

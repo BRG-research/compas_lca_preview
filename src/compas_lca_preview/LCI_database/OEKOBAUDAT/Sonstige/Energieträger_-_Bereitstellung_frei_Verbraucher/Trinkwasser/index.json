@@ -1,0 +1,20 @@
+{
+  "type": "materials",
+  "path": "Sonstige / Energieträger - Bereitstellung frei Verbraucher / Trinkwasser",
+  "items": [
+    {
+      "ID": "63f776af-c722-40f5-a03a-7dc8a438a3a3",
+      "Name": "Drinking water",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1000.0",
+      "GWPtotal (A1-A3)": "0.0001204",
+      "GWPbiogenic": "1.04e-05",
+      "GWPfossil": "0.00011",
+      "GWPtotal": "0.0001204"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "type": "categories",
+  "path": "Mineralische Baustoffe / Mörtel und Beton",
+  "items": [
+    {
+      "name": "Kleber und Klebemörtel",
+      "path": "Kleber_und_Klebemörtel/index.json"
+    },
+    {
+      "name": "Putz und Putzmörtel",
+      "path": "Putz_und_Putzmörtel/index.json"
+    },
+    {
+      "name": "Beton",
+      "path": "Beton/index.json"
+    },
+    {
+      "name": "Estrich trocken",
+      "path": "Estrich_trocken/index.json"
+    },
+    {
+      "name": "Mauermörtel",
+      "path": "Mauermörtel/index.json"
+    },
+    {
+      "name": "Betonzusatzmittel",
+      "path": "Betonzusatzmittel/index.json"
+    }
+  ]
+}

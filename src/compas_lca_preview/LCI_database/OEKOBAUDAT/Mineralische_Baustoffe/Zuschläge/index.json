@@ -1,0 +1,42 @@
+{
+  "type": "categories",
+  "path": "Mineralische Baustoffe / Zuschläge",
+  "items": [
+    {
+      "name": "Blähton",
+      "path": "Blähton/index.json"
+    },
+    {
+      "name": "Kraftwerksnebenprodukte",
+      "path": "Kraftwerksnebenprodukte/index.json"
+    },
+    {
+      "name": "Naturstein",
+      "path": "Naturstein/index.json"
+    },
+    {
+      "name": "Trockenschüttung",
+      "path": "Trockenschüttung/index.json"
+    },
+    {
+      "name": "Bims",
+      "path": "Bims/index.json"
+    },
+    {
+      "name": "Blähglas",
+      "path": "Blähglas/index.json"
+    },
+    {
+      "name": "Blähschiefer",
+      "path": "Blähschiefer/index.json"
+    },
+    {
+      "name": "Sand und Kies",
+      "path": "Sand_und_Kies/index.json"
+    },
+    {
+      "name": "Perlite",
+      "path": "Perlite/index.json"
+    }
+  ]
+}

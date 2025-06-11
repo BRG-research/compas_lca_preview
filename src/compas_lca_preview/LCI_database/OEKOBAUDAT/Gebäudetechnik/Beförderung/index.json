@@ -1,0 +1,14 @@
+{
+  "type": "categories",
+  "path": "Gebäudetechnik / Beförderung",
+  "items": [
+    {
+      "name": "Fahrstuhl",
+      "path": "Fahrstuhl/index.json"
+    },
+    {
+      "name": "Fahrtreppe",
+      "path": "Fahrtreppe/index.json"
+    }
+  ]
+}

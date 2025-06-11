@@ -1,0 +1,10 @@
+{
+  "type": "categories",
+  "path": "Dämmstoffe / Phenolharz-Hartschaum (PF)",
+  "items": [
+    {
+      "name": "PF-Platten",
+      "path": "PF-Platten/index.json"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Siliziumdioxid-basiert / Hydrophobe Platten",
+  "items": [
+    {
+      "ID": "0d1d1452-7492-4508-b634-5bd0cff7edd8",
+      "Name": "MICROTHERM® Flexible panels range: (Semi-)Overstitched Panels, (Semi-)Quilted Panels, Slatted Panels, Aeroguard (>160 kg/m3) and Slimflex",
+      "Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Laenderkennung": "RER",
+      "Declaration owner": "Etex Building Performance International",
+      "Registrierungsnummer": "EPD-ETE-20230096-IBA1-EN",
+      "Bezugsgroesse": "2.2",
+      "Reference": "kg",
+      "Flaechengewicht (kg/m2)": "2.2",
+      "Density (kg/m3)": "220.0",
+      "Schichtdicke (m)": "0.01",
+      "GWPtotal (A1-A3)": "7.99251",
+      "GWPtotal (A5)": "0.5579",
+      "GWPtotal (C2)": "0.02868",
+      "GWPtotal (C3)": "0.0",
+      "GWPtotal (C4)": "0.01338",
+      "GWPbiogenic": "0.0974656",
+      "GWPfossil": "8.43994",
+      "GWPtotal": "8.59247"
+    }
+  ]
+}

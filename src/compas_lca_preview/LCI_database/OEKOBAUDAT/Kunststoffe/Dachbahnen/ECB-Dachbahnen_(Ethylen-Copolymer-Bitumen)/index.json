@@ -1,0 +1,22 @@
+{
+  "type": "materials",
+  "path": "Kunststoffe / Dachbahnen / ECB-Dachbahnen (Ethylen-Copolymer-Bitumen)",
+  "items": [
+    {
+      "ID": "dcde634c-51b1-4d94-9206-cba9f9fd6822",
+      "Name": "ECB roofing membrane according to DIN 16729 (with PES fleece)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "2.32",
+      "GWPtotal (A1-A3)": "7.3771512",
+      "GWPtotal (C2)": "0.0107773",
+      "GWPtotal (C3)": "7.030348",
+      "GWPbiogenic": "-0.1151984",
+      "GWPfossil": "14.526622",
+      "GWPtotal": "14.4182766"
+    }
+  ]
+}

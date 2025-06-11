@@ -1,0 +1,61 @@
+{
+  "type": "materials",
+  "path": "Kunststoffe / Dichtmassen / Acrylat",
+  "items": [
+    {
+      "ID": "2167f54e-5f16-4274-9d65-20a6e7b621ff",
+      "Name": "Acrylate sealing compound",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (A1-A3)": "3.2353631",
+      "GWPtotal (C2)": "0.0046454",
+      "GWPtotal (C3)": "2.1890092",
+      "GWPbiogenic": "0.0152081",
+      "GWPfossil": "5.4127991",
+      "GWPtotal": "5.4290177"
+    },
+    {
+      "ID": "7c5654ac-1b7a-48b3-8173-9e29ef5dd656",
+      "Name": "FFB-ES Plus",
+      "Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Laenderkennung": "RER",
+      "Declaration owner": "fischerwerke GmbH & Co. KG",
+      "Registrierungsnummer": "EPD-DBC-FIW-20230413-IBF1-EN",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1.57",
+      "GWPtotal (A1-A3)": "1.3199",
+      "GWPtotal (A4)": "0.0511",
+      "GWPtotal (A5)": "0.173",
+      "GWPtotal (C1)": "0.000279",
+      "GWPtotal (C2)": "0.0124",
+      "GWPtotal (C3)": "0.945",
+      "GWPbiogenic": "0.5505324",
+      "GWPfossil": "1.944266",
+      "GWPtotal": "2.501679"
+    },
+    {
+      "ID": "178c0782-53a4-4933-8e1c-593d6f256ec2",
+      "Name": "FiAM Plus",
+      "Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Laenderkennung": "RER",
+      "Declaration owner": "fischerwerke GmbH & Co. KG",
+      "Registrierungsnummer": "EPD-DBC-FIW-20230414-IBF1-EN",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1.68",
+      "GWPtotal (A1-A3)": "1.3199",
+      "GWPtotal (A4)": "0.0511",
+      "GWPtotal (A5)": "0.173",
+      "GWPtotal (C1)": "0.000279",
+      "GWPtotal (C2)": "0.0124",
+      "GWPtotal (C3)": "0.945",
+      "GWPbiogenic": "0.5505324",
+      "GWPfossil": "1.944266",
+      "GWPtotal": "2.501679"
+    }
+  ]
+}

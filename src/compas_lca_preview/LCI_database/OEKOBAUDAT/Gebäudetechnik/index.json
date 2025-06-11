@@ -1,0 +1,34 @@
+{
+  "type": "categories",
+  "path": "Gebäudetechnik",
+  "items": [
+    {
+      "name": "Heizung",
+      "path": "Heizung/index.json"
+    },
+    {
+      "name": "Elektro",
+      "path": "Elektro/index.json"
+    },
+    {
+      "name": "Sanitär",
+      "path": "Sanitär/index.json"
+    },
+    {
+      "name": "Klimatisierung und Lüftung",
+      "path": "Klimatisierung_und_Lüftung/index.json"
+    },
+    {
+      "name": "Beförderung",
+      "path": "Beförderung/index.json"
+    },
+    {
+      "name": "Brandschutz",
+      "path": "Brandschutz/index.json"
+    },
+    {
+      "name": "Nutzung",
+      "path": "Nutzung/index.json"
+    }
+  ]
+}

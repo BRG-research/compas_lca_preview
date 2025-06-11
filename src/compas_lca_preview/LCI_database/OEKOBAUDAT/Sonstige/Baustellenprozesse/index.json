@@ -1,0 +1,14 @@
+{
+  "type": "categories",
+  "path": "Sonstige / Baustellenprozesse",
+  "items": [
+    {
+      "name": "Bagger/Aushub",
+      "path": "Bagger_Aushub/index.json"
+    },
+    {
+      "name": "Betonieren",
+      "path": "Betonieren/index.json"
+    }
+  ]
+}

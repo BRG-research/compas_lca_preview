@@ -1,0 +1,14 @@
+{
+  "type": "categories",
+  "path": "Dämmstoffe / Baumwolle",
+  "items": [
+    {
+      "name": "Baumwolle konventionell",
+      "path": "Baumwolle_konventionell/index.json"
+    },
+    {
+      "name": "Baumwolle ökologisch",
+      "path": "Baumwolle_ökologisch/index.json"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "categories",
+  "path": "Gebäudetechnik / Nutzung",
+  "items": [
+    {
+      "name": "Nutzung Beförderungstechnik",
+      "path": "Nutzung_Beförderungstechnik/index.json"
+    },
+    {
+      "name": "Nutzung Wärmeerzeuger (EnEV)",
+      "path": "Nutzung_Wärmeerzeuger_(EnEV)/index.json"
+    },
+    {
+      "name": "Nutzung Beleuchtung",
+      "path": "Nutzung_Beleuchtung/index.json"
+    },
+    {
+      "name": "Nutzung Lüftung und Klimatechnik",
+      "path": "Nutzung_Lüftung_und_Klimatechnik/index.json"
+    }
+  ]
+}

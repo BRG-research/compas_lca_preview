@@ -1,0 +1,30 @@
+{
+  "type": "categories",
+  "path": "Komposite / Systembauteile",
+  "items": [
+    {
+      "name": "Aussenwände",
+      "path": "Aussenwände/index.json"
+    },
+    {
+      "name": "Decken",
+      "path": "Decken/index.json"
+    },
+    {
+      "name": "Bewehrung",
+      "path": "Bewehrung/index.json"
+    },
+    {
+      "name": "Innenwände",
+      "path": "Innenwände/index.json"
+    },
+    {
+      "name": "Böden",
+      "path": "Böden/index.json"
+    },
+    {
+      "name": "Dachaufbauten",
+      "path": "Dachaufbauten/index.json"
+    }
+  ]
+}

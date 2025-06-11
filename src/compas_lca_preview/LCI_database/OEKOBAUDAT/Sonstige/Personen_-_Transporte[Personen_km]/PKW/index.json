@@ -1,0 +1,58 @@
+{
+  "type": "materials",
+  "path": "Sonstige / Personen - Transporte[Personen km] / PKW",
+  "items": [
+    {
+      "ID": "fb6cffe8-ac3e-49a6-ab80-eb6e7968293e",
+      "Name": "Car (Diesel) EURO 3",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1000",
+      "Reference": "m",
+      "GWPtotal (A4)": "0.2358807",
+      "GWPbiogenic": "-0.0062455",
+      "GWPfossil": "0.2376546",
+      "GWPtotal": "0.2358807"
+    },
+    {
+      "ID": "176bed2a-6b84-433f-bc12-05e691955d98",
+      "Name": "Car (Diesel) EURO 4",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1000",
+      "Reference": "m",
+      "GWPtotal (A4)": "0.2364283",
+      "GWPbiogenic": "-0.0062607",
+      "GWPfossil": "0.2382065",
+      "GWPtotal": "0.2364283"
+    },
+    {
+      "ID": "0ab073cb-428a-430b-b51b-96555d7f0ec8",
+      "Name": "Car (Gasoline) EURO 3",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1000",
+      "Reference": "m",
+      "GWPtotal (A4)": "0.2602611",
+      "GWPbiogenic": "0.0093334",
+      "GWPfossil": "0.2509162",
+      "GWPtotal": "0.2602611"
+    },
+    {
+      "ID": "c282671d-c54b-4173-94a7-75a8c7a4b0ec",
+      "Name": "Car (Gasoline) EURO 4",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1000",
+      "Reference": "m",
+      "GWPtotal (A4)": "0.2570222",
+      "GWPbiogenic": "0.0092199",
+      "GWPfossil": "0.247791",
+      "GWPtotal": "0.2570222"
+    }
+  ]
+}

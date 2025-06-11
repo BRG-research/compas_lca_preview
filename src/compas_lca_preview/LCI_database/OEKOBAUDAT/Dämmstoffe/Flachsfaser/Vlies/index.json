@@ -1,0 +1,22 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Flachsfaser / Vlies",
+  "items": [
+    {
+      "ID": "b7b7c6be-122f-48d9-b1c2-9b81a6b7e95c",
+      "Name": "Flax fibre fleece",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "38.0",
+      "GWPtotal (A1-A3)": "64.0657684",
+      "GWPtotal (C2)": "0.1464411",
+      "GWPtotal (C3)": "76.0705547",
+      "GWPbiogenic": "58.9266979",
+      "GWPfossil": "81.3476037",
+      "GWPtotal": "140.2827642"
+    }
+  ]
+}

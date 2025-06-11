@@ -1,0 +1,34 @@
+{
+  "type": "categories",
+  "path": "Kunststoffe / Dichtmassen",
+  "items": [
+    {
+      "name": "Polysulfid",
+      "path": "Polysulfid/index.json"
+    },
+    {
+      "name": "Acrylat",
+      "path": "Acrylat/index.json"
+    },
+    {
+      "name": "Bitumen",
+      "path": "Bitumen/index.json"
+    },
+    {
+      "name": "PUR",
+      "path": "PUR/index.json"
+    },
+    {
+      "name": "PVC",
+      "path": "PVC/index.json"
+    },
+    {
+      "name": "Kautschuk",
+      "path": "Kautschuk/index.json"
+    },
+    {
+      "name": "Silikon",
+      "path": "Silikon/index.json"
+    }
+  ]
+}

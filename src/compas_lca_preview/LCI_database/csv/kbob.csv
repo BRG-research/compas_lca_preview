@@ -1,0 +1,255 @@
+Category,Name,ID,Density (kg/m3),Reference,UBP (Total),UBP (Manufacturing),UBP (Disposal),Total Renewable Primary Energy [kWh oil-eq], Manufacturing Renewable Primary Energy [kWh oil-eq],Disposal Renewable Primary Energy [kWh oil-eq],Total Non-Renewable Primary Energy [kWh oil-eq],Manufacturing Non-Renewable Primary Energy [kWh oil-eq],Disposal Non-Renewable Primary Energy [kWh oil-eq],Global Warming Potential Total [kgCO2-eqv],Global Warming Potential Manufacturing [kgCO2-eqv],Global Warming Potential Disposal [kgCO2-eqv],Biogenic Carbon [kg C]
+Beton,Magerbeton (ohne Bewehrung),1.001,2150,kg,104,68.8,35.4,0.0103,0.00838,0.00192,0.128,0.0767,0.0516,0.0628,0.0502,0.0126,0
+Beton,"Magerbeton, NovoCon Sohlenbeton, 150 kg CEM II/C-M (F-T) (ohne Bewehrung)",01.001.01,1610,kg,104,69.1,35.2,0.0125,0.0106,0.00191,0.144,0.0923,0.0513,0.066,0.0534,0.0126,0.00304
+Beton,Hochbaubeton (ohne Bewehrung),1.002,2300,kg,153,118,35.2,0.0149,0.013,0.00191,0.175,0.123,0.0513,0.101,0.0887,0.0126,0
+Beton,"Beton Klark Sorte A, 280kg CEM II/B (ohne Bewehrung)",01.002.01,2269,kg,174,138,35.4,0.581,0.579,0.00189,0.218,0.167,0.0516,0.105,0.092,0.0127,0.0253
+Beton,"Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",01.002.02,2293,kg,180,145,35.4,0.609,0.607,0.00189,0.225,0.174,0.0516,0.11,0.097,0.0127,0.0266
+Beton,"Beton Klark Sorte B, 320kg CEM II/B (ohne Bewehrung)",01.002.03,2333,kg,187,151,35.4,0.64,0.638,0.00189,0.232,0.181,0.0516,0.114,0.101,0.0127,0.0279
+Beton,"Beton Klark Sorte C, 340kg CEM II/B (ohne Bewehrung)",01.002.04,2353,kg,192,157,35.4,0.668,0.666,0.00189,0.242,0.19,0.0516,0.119,0.107,0.0127,0.0292
+Beton,"Hochbaubeton, zirkulit® NPK A, 280kg CEM II/B (ohne Bewehrung)",01.002.05,2350,kg,145,109,35.4,0.016,0.014,0.002,0.194,0.142,0.052,0.0967,0.0837,0.013,0.00117
+Beton,"Hochbaubeton, zirkulit® NPK C, 300kg CEM II/B (ohne Bewehrung)",01.002.06,2350,kg,153,117,35.4,0.0161,0.0141,0.002,0.201,0.149,0.052,0.102,0.0888,0.013,0.00117
+Beton,"Hochbaubeton, Möckli Primärbeton, NPK A, 280 kg CEM II/B-LL (ohne Bewehrung)",01.002.07,2311.4,kg,142,106,35.2,0.0147,0.0128,0.00191,0.162,0.111,0.0513,0.0904,0.0778,0.0126,0.000687
+Beton,"Hochbaubeton, NovoCon Light C25/E30, NPK A, 280 kg CEM II/C-M (F-T) (ohne Bewehrung)",01.002.08,2311.4,kg,134,99.2,35.2,0.0146,0.0127,0.00191,0.177,0.126,0.0513,0.0836,0.071,0.0126,0.000778
+Beton,"Hochbaubeton, NovoCon C50/E25, NPK A, 280 kg CEM II/C-M (F-T) (ohne Bewehrung)",01.002.10,2272.1,kg,130,94.3,35.2,0.0144,0.0125,0.00191,0.176,0.125,0.0513,0.0839,0.0713,0.0126,0.00206
+Beton,"Hochbaubeton, NovoCon C50/E25, NPK C, 300 kg CEM II/C-M (F-T) (ohne Bewehrung)",01.002.12,2263.9,kg,137,102,35.2,0.0152,0.0133,0.00191,0.19,0.139,0.0513,0.0899,0.0773,0.0126,0.00207
+Beton,"Hochbaubeton, NovoCon RC-M10/E20, NPK A, 280 kg CEM II/C-M (F-T) (ohne Bewehrung)",01.002.11,2252.8,kg,129,93.3,35.2,0.0144,0.0125,0.00191,0.178,0.126,0.0513,0.0844,0.0718,0.0126,0.00247
+Beton,Tiefbaubeton (ohne Bewehrung),1.003,2350,kg,163,128,35.1,0.016,0.0141,0.0019,0.189,0.138,0.0513,0.109,0.0963,0.0125,0
+Beton,Bohrpfahlbeton (ohne Bewehrung),1.004,2325,kg,174,139,35.1,0.0172,0.0153,0.0019,0.197,0.146,0.0512,0.119,0.107,0.0125,0
+Beton,"Betonfertigteil, hochfester Beton, ab Werk",1.041,2770,kg,440,409,31,0.0758,0.0741,0.00168,0.697,0.652,0.0453,0.276,0.265,0.0111,0
+Beton,"Betonfertigteil, Normalbeton, ab Werk",1.042,2500,kg,282,248,33.9,0.0948,0.093,0.00184,0.432,0.383,0.0495,0.177,0.165,0.0121,0
+Beton,Hanfbeton,1.043,600,kg,665,663,1.69,0.899,0.899,0.000016,0.959,0.959,0.000296,0.324,0.324,0.0000732,0.0649
+Beton,"Hanfbeton, ARBIO",01.043.01,600,kg,639,638,1.69,0.865,0.865,0.000016,0.922,0.922,0.000296,0.312,0.312,0.0000732,0.0649
+Mauersteine,Backstein,2.001,900,kg,371,328,42.5,0.0806,0.0783,0.00221,0.787,0.734,0.0526,0.266,0.254,0.0127,0
+Mauersteine,"Backstein, perlitgefüllt, zzwancor",02.001.01,575,kg,420,378,42.5,0.105,0.103,0.00221,0.914,0.861,0.0526,0.283,0.27,0.0127,0
+Mauersteine,Kalksandstein,2.002,1400,kg,258,216,42.5,0.039,0.0368,0.00221,0.389,0.337,0.0526,0.162,0.149,0.0127,0
+Mauersteine,"Kalksandstein, FBB",02.002.01,1600,kg,196,153,42.5,0.0347,0.0325,0.00221,0.315,0.263,0.0526,0.115,0.102,0.0127,0
+Mauersteine,"Kalksandstein, Hunziker Kalksandstein AG",02.002.02,1600,kg,190,148,42.5,0.0167,0.0145,0.00221,0.287,0.235,0.0526,0.106,0.0938,0.0127,0
+Mauersteine,Leichtlehmstein,2.003,700,kg,353,311,42.5,0.793,0.791,0.00221,0.764,0.711,0.0526,0.18,0.167,0.0127,0
+Mauersteine,"Leichtzementstein, Blähton",2.004,1200,kg,609,566,42.5,0.0564,0.0541,0.00221,1.42,1.37,0.0526,0.428,0.415,0.0127,0
+Mauersteine,"Leichtzementstein, Naturbims",2.005,1200,kg,322,280,42.5,0.0367,0.0345,0.00221,0.363,0.311,0.0526,0.212,0.2,0.0127,0
+Mauersteine,Porenbetonstein,2.006,500,kg,573,531,42.5,0.0709,0.0687,0.00221,0.86,0.807,0.0526,0.426,0.413,0.0127,0
+Mauersteine,Zementstein,2.007,1700,kg,214,172,42.5,0.0263,0.0241,0.00221,0.225,0.173,0.0526,0.126,0.114,0.0127,0
+Mauersteine,"Erdstein, aus gepresster Erde, Terrabloc",02.007.01,1850,kg,136,84,51.6,0.01,0.01,0,0.142,0.129,0.013,0.057,0.054,0.003,0
+Mauersteine,"Hanfsteine, Schönthaler AG",02.007.02,300,kg,824,751,72.1,1.81,1.8,0.00431,1.91,1.77,0.145,0.372,0.338,0.0334,0.15
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Betongranulat 1,3.021,1500,kg,43.3,3.16,40.2,0.00374,0.00148,0.00226,0.0616,0.00905,0.0526,0.014,0.00132,0.0126,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Betonziegel,3.001,2300,kg,326,284,42.5,0.038,0.0358,0.00221,0.468,0.416,0.0526,0.209,0.196,0.0127,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Faserzement-Dachschindel,3.002,1800,kg,1100,1030,67.8,0.496,0.495,0.0016,2.16,2.11,0.0528,0.699,0.686,0.0132,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Faserzementplatte gross,3.003,1800,kg,1510,1450,67.8,0.62,0.619,0.0016,2.92,2.87,0.0528,1.03,1.02,0.0132,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Faserzement-Wellplatte,3.004,1800,kg,1060,991,67.8,0.557,0.556,0.0016,1.78,1.72,0.0528,0.649,0.636,0.0132,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Flachglas beschichtet,3.005,2500,kg,1990,1920,68.8,0.263,0.251,0.0121,4.64,4.53,0.109,1.2,1.18,0.0191,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Flachglas unbeschichtet,3.006,2500,kg,1790,1720,68.8,0.143,0.131,0.0121,4.08,3.97,0.109,1.14,1.12,0.0191,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Gipsfaserplatte,3.007,1200,kg,873,801,71.5,0.098,0.0938,0.00418,2.47,2.39,0.0781,0.552,0.533,0.0186,0.0449
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Gipsfaserplatte Fermacell,03.007.01,1180,kg,596,524,71.4,0.69,0.686,0.0041,1.47,1.4,0.0781,0.335,0.317,0.0186,0.0617
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Gipskartonplatte,3.008,850,kg,523,452,71.7,0.089,0.0848,0.00417,1.33,1.25,0.0778,0.301,0.283,0.0187,0.018
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Gips-Wandbauplatte / Vollgipsplatte,3.016,1000,kg,531,459,71.3,0.0323,0.0281,0.00419,1.45,1.37,0.0783,0.317,0.298,0.0185,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Glasfaserbeton Ecomur,03.023.01,2240,kg,1335.9,1300,35.9,0.51092,0.509,0.00192,2.2022,2.15,0.0522,0.8858,0.873,0.0128,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Hartsandsteinplatte,3.009,2500,kg,112,69.3,42.5,0.046,0.0438,0.00221,0.275,0.223,0.0526,0.0406,0.028,0.0127,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Kalksteinplatte,3.017,2500,kg,141,98.3,42.5,0.0261,0.0239,0.00221,0.338,0.286,0.0526,0.0736,0.061,0.0127,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Keramik-/Steinzeugplatte,3.01,2600,kg,4100,4060,42.5,0.212,0.21,0.00221,3.72,3.67,0.0526,0.793,0.78,0.0127,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Kies gebrochen 1,3.011,1450,kg,64.8,24.6,40.2,0.00776,0.0055,0.00226,0.0847,0.0321,0.0526,0.0176,0.00501,0.0126,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Mischgranulat 1,3.022,1600,kg,41,0.828,40.2,0.00233,0.0000665,0.00226,0.053,0.000456,0.0526,0.0133,0.00071,0.0126,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Rundkies 1,3.012,1650,kg,59.4,19.2,40.2,0.00405,0.00179,0.00226,0.0682,0.0156,0.0526,0.0157,0.00305,0.0126,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Sand 1,3.013,1500,kg,59.4,19.2,40.2,0.00405,0.00179,0.00226,0.0682,0.0156,0.0526,0.0157,0.00305,0.0126,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Sanitärkeramik,3.014,2000,kg,4680,4640,42.5,0.367,0.365,0.00221,11.1,11.1,0.0526,2.38,2.37,0.0127,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Stampflehm,3.02,2000,kg,80.1,32,48.2,0.00514,0.00487,0.00027,0.0795,0.0745,0.00496,0.0194,0.0183,0.00115,0
+"Mineralische Platten, Schüttungen, Steine und Ziegel",Tonziegel,3.015,1700,kg,514,479,35.6,0.0357,0.0338,0.00193,1.11,1.06,0.052,0.385,0.373,0.0127,0
+Mörtel und Putze,Baukleber/Einbettmörtel mineralisch,4.008,1400,kg,633,590,42.5,0.175,0.173,0.00208,1.53,1.47,0.0524,0.406,0.393,0.0127,0
+Mörtel und Putze,Baukleber/Einbettmörtel mineralisch Leichtzuschlag,4.01,1100,kg,638,595,42.5,0.154,0.152,0.00208,1.61,1.56,0.0524,0.426,0.414,0.0127,0
+Mörtel und Putze,Baukleber/Einbettmörtel organisch,4.002,1670,kg,1390,1350,42.5,0.163,0.161,0.00208,4.15,4.1,0.0524,0.777,0.764,0.0127,0
+Mörtel und Putze,Gips-Kalk-Putz,4.017,925,kg,251,209,42.5,0.0649,0.0629,0.00208,0.674,0.622,0.0524,0.158,0.145,0.0127,0
+Mörtel und Putze,Gips-/Weissputz,4.001,1100,kg,241,199,42.5,0.0633,0.0612,0.00208,0.68,0.628,0.0524,0.151,0.138,0.0127,0
+Mörtel und Putze,Kunststoffputz (Dispersionsputz),4.003,1540,kg,1740,1700,42.5,0.238,0.236,0.00208,5.2,5.15,0.0524,0.97,0.957,0.0127,0
+Mörtel und Putze,Kalk-Zement/Zement-Kalk-Putz,4.013,1550,kg,396,353,42.5,0.136,0.134,0.00208,0.715,0.662,0.0524,0.263,0.251,0.0127,0
+Mörtel und Putze,Lehmputz,4.004,1800,kg,96.2,53.7,42.5,0.019,0.0169,0.00208,0.172,0.12,0.0524,0.0323,0.0195,0.0127,0
+Mörtel und Putze,Leichtputz mineralisch,4.015,1000,kg,574,532,42.5,0.164,0.162,0.00208,1.23,1.18,0.0524,0.373,0.36,0.0127,0
+Mörtel und Putze,Silikatputz (Dispersionssilikatputz),4.011,1880,kg,1880,1840,42.5,0.278,0.276,0.00208,5.49,5.43,0.0524,1.08,1.07,0.0127,0
+Mörtel und Putze,Silikonharzputz,4.012,1670,kg,2010,1970,42.5,0.361,0.359,0.00208,6.09,6.04,0.0524,1.14,1.13,0.0127,0
+Mörtel und Putze,Sumpfkalkputz,4.016,1350,kg,745,702,42.5,0.13,0.128,0.00208,1.77,1.72,0.0524,0.51,0.497,0.0127,0
+Mörtel und Putze,"Unterlagsboden Anhydrit, 60 mm",4.005,2000,kg,215,172,42.5,0.0323,0.0301,0.00221,0.429,0.376,0.0526,0.0911,0.0784,0.0127,0
+Mörtel und Putze,"Unterlagsboden Zement, 85 mm",4.006,1850,kg,206,163,42.5,0.0366,0.0344,0.00221,0.231,0.179,0.0526,0.12,0.107,0.0127,0
+Mörtel und Putze,Wärmedämmputz EPS,4.007,250,kg,964,921,42.5,0.151,0.148,0.00208,1.79,1.74,0.0524,0.727,0.714,0.0127,0
+Mörtel und Putze,Weisszementputz,4.014,1550,kg,507,464,42.5,0.141,0.139,0.00208,0.901,0.848,0.0524,0.353,0.341,0.0127,0
+Mörtel und Putze,Zementputz,4.009,1550,kg,391,348,42.5,0.128,0.126,0.00208,0.654,0.602,0.0524,0.261,0.248,0.0127,0
+"Fenster, Sonnenschutz, Fassadenplatten","Fassade, Pfosten-Riegel, Alu/Glas",5.008,,qm,329000,313000,15500,73.2,72.8,0.49,703,698,5.23,182,169,13.1,0
+"Fenster, Sonnenschutz, Fassadenplatten","Fassadenplatte, Aluverbund, 4 mm",5.022,,qm,74900,66600,8270,24,24,0.0511,192,192,0.87,43.3,35.7,7.65,0
+"Fenster, Sonnenschutz, Fassadenplatten","Fassadenplatte, Glasfaserbeton Ecomur, 15mm",05.028.01,,qm,44886.24,43680,1206.24,17.166912,17.1024,0.064512,73.99392,72.24,1.75392,29.76288,29.3328,0.43008,0
+"Fenster, Sonnenschutz, Fassadenplatten","Fassadenplatte, Glasfaserbeton Ecomur, 18mm",05.028.02,,qm,53836.77,52390,1446.77,20.590076,20.5127,0.077376,88.74866,86.645,2.10366,35.69774,35.1819,0.51584,0
+"Fenster, Sonnenschutz, Fassadenplatten","Fassadenplatte, Hochdrucklaminatplatte (HPL), 8.1 mm",5.023,,qm,73400,58400,15000,84.4,84.2,0.205,198,195,3.05,46,33.3,12.6,3.28
+"Fenster, Sonnenschutz, Fassadenplatten","Fassadenplatte, Kalkstein, 30 mm",5.025,,qm,11000,7670,3310,2.04,1.87,0.172,26.4,22.3,4.1,5.74,4.75,0.989,0
+"Fenster, Sonnenschutz, Fassadenplatten","Fassadenplatte, Kunststoff glasfaserverstärkt (GFK), 1.6 mm",5.024,,qm,31700,25700,6000,3.63,3.6,0.0291,75.4,74.7,0.654,22.1,16.6,5.51,0
+"Fenster, Sonnenschutz, Fassadenplatten",Fensterrahmen Aluminium,5.004,,qm,246000,230000,16200,77.5,77.4,0.107,553,551,1.98,132,117,14.9,0
+"Fenster, Sonnenschutz, Fassadenplatten","Fensterrahmen Aluminium, WICLINE 75evo, hergestellt mit Hydro CIRCAL 75R",05.004.01,,qm,177000,171000,6240,53.9,53.9,0.0156,193,193,0.48,55.6,49.6,5.98,0
+"Fenster, Sonnenschutz, Fassadenplatten",Fensterrahmen Holz,5.005,,qm,77700,70600,7120,190,190,0.0357,172,170,2,36.2,30.3,5.89,7.5
+"Fenster, Sonnenschutz, Fassadenplatten","Fensterrahmen Holz, Saphir integral 67/55, G. Baumgartner AG",05.005.01,,qm,59300,55400,3960,114,114,0.0221,139,138,1.23,25.4,22,3.36,4.11
+"Fenster, Sonnenschutz, Fassadenplatten",Fensterrahmen Holz-Metall,5.006,,qm,134000,126000,8230,179,179,0.0369,300,298,1.89,65.7,58.6,7.11,6.25
+"Fenster, Sonnenschutz, Fassadenplatten","Fensterrahmen Holz-Metall, Saphir integral 55/55, G. Baumgartner AG",05.006.01,,qm,79600,71900,7640,113,113,0.0309,193,191,1.46,38,31.1,6.9,3.81
+"Fenster, Sonnenschutz, Fassadenplatten",Fensterrahmen Kunststoff/PVC ,5.007,,qm,115000,103000,11800,15.6,15.1,0.494,328,323,5.31,63.4,53.2,10.2,0
+"Fenster, Sonnenschutz, Fassadenplatten","Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K, Dicke 24 mm",5.001,,qm,70700,65800,4910,10.5,10.2,0.277,167,165,2.66,44.3,40.7,3.6,0
+"Fenster, Sonnenschutz, Fassadenplatten","Isolierverglasung 2-fach, Ug-Wert 1.1 W/m2K, Dicke 18 mm",5.009,,qm,78900,74800,4090,13.2,12.9,0.272,195,192,2.58,48.6,45.7,2.84,0
+"Fenster, Sonnenschutz, Fassadenplatten","Isolierverglasung 2-fach, ESG, Ug-Wert 1.1 W/m2K",5.01,,qm,87000,82100,4910,18.9,18.7,0.277,216,214,2.66,52.1,48.5,3.6,0
+"Fenster, Sonnenschutz, Fassadenplatten","Isolierverglasung 2-fach, VSG, Ug-Wert 1.1 W/m2K",5.002,,qm,128000,119000,8730,21.7,21.2,0.424,324,320,4.12,79.3,72.6,6.68,0
+"Fenster, Sonnenschutz, Fassadenplatten","Isolierverglasung 2-fach, ESG/VSG, Ug-Wert 1.1 W/m2K",5.011,,qm,144000,136000,8730,30.1,29.7,0.424,373,369,4.12,87.1,80.4,6.68,0
+"Fenster, Sonnenschutz, Fassadenplatten","Isolierverglasung 3-fach, Ug-Wert 0.5 W/m2K, Dicke 36 mm",5.003,,qm,128000,121000,6830,23.3,22.9,0.412,320,316,3.93,78.3,73.4,4.92,0
+"Fenster, Sonnenschutz, Fassadenplatten","Isolierverglasung 3-fach, Ug-Wert 0.6 W/m2K, Dicke 40 mm",5.012,,qm,110000,102000,7680,16.5,16.1,0.417,255,251,4.02,67.8,62.1,5.7,0
+"Fenster, Sonnenschutz, Fassadenplatten","Isolierverglasung 3-fach, ESG/ESG, Ug-Wert 0.6 W/m2K",5.013,,qm,143000,135000,7680,33.5,33.1,0.417,353,349,4.02,83.3,77.6,5.7,0
+"Fenster, Sonnenschutz, Fassadenplatten","Isolierverglasung 3-fach, ESG/ESG/ESG, Ug-Wert 0.6 W/m2K",5.014,,qm,159000,151000,7680,41.9,41.5,0.417,402,398,4.02,91.1,85.4,5.7,0
+"Fenster, Sonnenschutz, Fassadenplatten","Isolierverglasung 3-fach, VSG, Ug-Wert 0.6 W/m2K",5.015,,qm,168000,156000,11500,27.5,27,0.564,412,406,5.48,103,94,8.78,0
+"Fenster, Sonnenschutz, Fassadenplatten","Isolierverglasung 3-fach, ESG/VSG, Ug-Wert 0.6 W/m2K",5.016,,qm,185000,174000,11500,36.3,35.7,0.564,464,459,5.48,111,103,8.78,0
+"Fenster, Sonnenschutz, Fassadenplatten",Putzträgerplatte kunstharzgebunden 13 mm,5.02,,qm,16600,16400,268,3.61,3.6,0.0139,44.3,44,0.331,8.11,8.03,0.0799,0
+"Fenster, Sonnenschutz, Fassadenplatten",Putzträgerplatte mineralisch gebunden 12.5 mm,5.021,,qm,9910,9300,612,2.44,2.41,0.0318,19.1,18.3,0.757,6.31,6.12,0.183,0
+"Fenster, Sonnenschutz, Fassadenplatten","Rahmenverbreiterung, PVC",5.026,,qm,99700,66500,33300,42,41,1.06,306,294,12.5,69.7,39.5,30.1,0.778
+"Fenster, Sonnenschutz, Fassadenplatten","Rahmenverbreiterung, Spanplatte",5.027,,qm,43500,35900,7590,94.5,94.4,0.123,124,121,3.52,26.1,19.5,6.59,6.68
+"Fenster, Sonnenschutz, Fassadenplatten","Sonnenschutz, Ausstellstoren motorisiert",5.018,,qm,150000,148000,2110,35.9,35.9,0.0296,283,282,0.542,67.8,65.9,1.91,0
+"Fenster, Sonnenschutz, Fassadenplatten","Sonnenschutz, Lamellenstoren motorisiert",5.017,,qm,133000,131000,1620,32.3,32.2,0.0259,249,248,0.434,59.9,58.5,1.47,0
+"Fenster, Sonnenschutz, Fassadenplatten","Sonnenschutz, Rollladen motorisiert",5.019,,qm,168000,167000,800,44.3,44.3,0.022,313,313,0.406,74.7,74,0.694,0
+Metallbaustoffe,"Aluminiumblech, blank",6.001,2690,kg,12500,12500,19.8,5.23,5.23,0.000788,24.8,24.8,0.0314,5.58,5.57,0.00792,0
+Metallbaustoffe,"Aluminiumprofil, blank",6.002,2690,kg,11500,11400,19.8,5.27,5.26,0.000788,25.6,25.6,0.0314,5.7,5.69,0.00792,0
+Metallbaustoffe,"Aluminiumprofil blank, WICONA, hergestellt mit Hydro CIRCAL 75R",06.002.01,2690,kg,12700,12700,19.8,4.26,4.26,0.000788,8.88,8.85,0.0314,2.67,2.66,0.00792,0
+Metallbaustoffe,Armierungsstahl,6.003,7850,kg,1590,1570,19.5,0.362,0.36,0.00202,3.44,3.39,0.0505,0.785,0.773,0.0122,0
+Metallbaustoffe,"Armierungsstahl, Stahl Gerlafingen",06.003.01,7850,kg,1110,1090,19.5,0.393,0.391,0.00202,2.66,2.61,0.0505,0.482,0.47,0.0122,0
+Metallbaustoffe,Blei,6.014,11340,kg,3810,3790,19.8,0.248,0.247,0.000788,3.84,3.81,0.0314,1.02,1.01,0.00792,0
+Metallbaustoffe,Chromnickelstahlblech 18/8 blank,6.004,7900,kg,9710,9690,11.1,2.41,2.41,0.000582,14.6,14.5,0.0272,4.12,4.11,0.00693,0
+Metallbaustoffe,Chromnickelstahlblech 18/8 verzinnt,6.005,7900,kg,13000,13000,11.1,2.69,2.69,0.000582,22.3,22.2,0.0272,5.88,5.87,0.00693,0
+Metallbaustoffe,Chromstahlblech blank,6.006,7700,kg,7080,7070,11.1,0.981,0.98,0.000582,8.53,8.51,0.0272,2.74,2.73,0.00693,0
+Metallbaustoffe,Chromstahlblech verzinnt,6.007,7700,kg,10400,10400,11.1,1.25,1.25,0.000582,16.2,16.2,0.0272,4.49,4.48,0.00693,0
+Metallbaustoffe,"Kupferblech, blank",6.008,8900,kg,24500,24500,19.8,1.64,1.64,0.000788,8.9,8.87,0.0314,2.2,2.2,0.00792,0
+Metallbaustoffe,Messing-/Baubronzeblech,6.009,8300,kg,25500,25400,19.8,1.9,1.89,0.000788,11.1,11,0.0314,2.71,2.7,0.00792,0
+Metallbaustoffe,"Stahlblech, blank",6.01,7850,kg,5260,5250,11.1,0.628,0.628,0.000582,7.8,7.77,0.0272,2.8,2.79,0.00693,0
+Metallbaustoffe,"Stahlblech, verzinkt",6.011,7850,kg,15200,15200,11.1,1.4,1.4,0.000582,15.6,15.6,0.0272,4.49,4.48,0.00693,0
+Metallbaustoffe,"Stahlprofil, blank",6.012,7850,kg,1290,1280,11.1,0.255,0.254,0.000582,3.38,3.35,0.0272,0.737,0.73,0.00693,0
+Metallbaustoffe,Titanzinkblech,6.013,7200,kg,27800,27800,19.8,2.61,2.61,0.000788,17.5,17.4,0.0314,4.03,4.02,0.00792,0
+Holz und Holzwerkstoffe,3- und 5-Schicht Massivholzplatte,7.001,453,kg,1010,932,80.3,13.3,13.3,0.00617,2.18,2.09,0.0923,0.469,0.414,0.0553,0.433
+Holz und Holzwerkstoffe,Balkenschichtholz,7.021,439,kg,790,716,73.8,8.59,8.58,0.00615,1.56,1.47,0.091,0.342,0.293,0.0492,0.446
+Holz und Holzwerkstoffe,Brettschichtholz,7.003,439,kg,769,696,73.8,8.14,8.14,0.00615,1.53,1.44,0.091,0.335,0.286,0.0492,0.446
+Holz und Holzwerkstoffe,"Brettschichtholz, Produktion Schweiz",07.003.01,439,kg,681,607,73.8,8.01,8,0.00615,1.2,1.11,0.091,0.253,0.204,0.0492,0.447
+Holz und Holzwerkstoffe,Furniersperrholz,7.022,823,kg,1970,1870,106,9.25,9.25,0.00624,5.08,4.98,0.0977,1.02,0.942,0.0798,0.41
+Holz und Holzwerkstoffe,Hartfaserplatte,7.004,955,kg,1770,1700,68.4,7.05,7.04,0.00614,4.12,4.04,0.0899,1.07,1.03,0.0441,0.455
+Holz und Holzwerkstoffe,"Holzwolle-Leichtbauplatte, zementgebunden",7.005,400,kg,770,685,85.2,2.04,2.03,0.00977,1.27,1.1,0.17,0.534,0.498,0.0357,0.138
+Holz und Holzwerkstoffe,Konstruktionsvollholz,7.023,436,kg,689,620,68.4,8.28,8.28,0.00614,1.24,1.15,0.0899,0.288,0.244,0.0441,0.45
+Holz und Holzwerkstoffe,"Massivholz Buche / Eiche, kammergetrocknet, gehobelt",7.008,675,kg,436,373,62.9,7.28,7.27,0.00612,0.662,0.574,0.0888,0.152,0.113,0.039,0.451
+Holz und Holzwerkstoffe,"Massivholz Buche / Eiche, kammergetrocknet, gehobelt, Produktion Schweiz",07.008.01,675,kg,396,333,62.9,7.39,7.39,0.00612,0.572,0.483,0.0888,0.122,0.0833,0.039,0.451
+Holz und Holzwerkstoffe,"Massivholz Buche / Eiche, kammergetrocknet, rau",7.007,675,kg,392,329,62.9,7.12,7.11,0.00612,0.568,0.479,0.0888,0.135,0.0962,0.039,0.451
+Holz und Holzwerkstoffe,"Massivholz Buche / Eiche, kammergetrocknet, rau, Produktion Schweiz",07.007.01,675,kg,356,293,62.9,7.22,7.22,0.00612,0.485,0.396,0.0888,0.109,0.07,0.039,0.451
+Holz und Holzwerkstoffe,"Massivholz Buche / Eiche, luftgetrocknet, rau",7.006,705,kg,323,260,62.9,6.21,6.2,0.00612,0.478,0.39,0.0888,0.12,0.0812,0.039,0.413
+Holz und Holzwerkstoffe,"Massivholz Buche / Eiche, luftgetrocknet, rau, Produktion Schweiz",07.006.01,705,kg,290,227,62.9,6.3,6.29,0.00612,0.402,0.314,0.0888,0.0979,0.0589,0.039,0.413
+Holz und Holzwerkstoffe,"Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt",7.011,465,kg,476,413,62.9,6.05,6.04,0.00612,0.777,0.688,0.0888,0.173,0.134,0.039,0.451
+Holz und Holzwerkstoffe,"Massivholz Fichte / Tanne / Lärche, kammergetr., gehobelt, Produktion Schweiz",07.011.01,465,kg,459,396,62.9,5.93,5.93,0.00612,0.733,0.644,0.0888,0.156,0.117,0.039,0.451
+Holz und Holzwerkstoffe,"Massivholz Fichte / Tanne, kammergetr., Vollholzhaus holzpur",07.011.02,420,kg,430,367,62.9,9.98,9.97,0.00612,0.467,0.379,0.0888,0.133,0.0944,0.039,0.451
+Holz und Holzwerkstoffe,"Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt",7.01,485,kg,401,338,62.9,5.21,5.21,0.00612,0.673,0.584,0.0888,0.156,0.117,0.039,0.413
+Holz und Holzwerkstoffe,"Massivholz Fichte / Tanne / Lärche, luftgetr., gehobelt, Produktion Schweiz",07.010.01,485,kg,385,322,62.9,5.11,5.1,0.00612,0.633,0.544,0.0888,0.142,0.103,0.039,0.413
+Holz und Holzwerkstoffe,"Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau",7.009,485,kg,317,254,62.9,4.98,4.97,0.00612,0.509,0.421,0.0888,0.129,0.0904,0.039,0.413
+Holz und Holzwerkstoffe,"Massivholz Fichte / Tanne / Lärche, luftgetrocknet, rau, Produktion Schweiz",07.009.01,485,kg,306,243,62.9,4.88,4.87,0.00612,0.478,0.389,0.0888,0.12,0.0809,0.039,0.413
+Holz und Holzwerkstoffe,"Mitteldichte Faserplatte (MDF), UF-gebunden",7.012,685,kg,1550,1420,128,5.85,5.85,0.0063,4.47,4.37,0.102,0.954,0.854,0.1,0.396
+Holz und Holzwerkstoffe,"OSB Platte, PF-gebunden, Feuchtbereich",7.013,605,kg,1030,922,106,8.26,8.25,0.00624,2.71,2.61,0.0977,0.563,0.483,0.0798,0.444
+Holz und Holzwerkstoffe,Röhrenspanplatte,7.024,272,kg,1340,1230,106,6.89,6.88,0.00624,3.65,3.55,0.0977,0.813,0.733,0.0798,0.429
+Holz und Holzwerkstoffe,"Spanplatte, PF-gebunden, Feuchtbereich",7.015,640,kg,886,780,106,4.37,4.36,0.00624,2.56,2.46,0.0977,0.529,0.45,0.0798,0.417
+Holz und Holzwerkstoffe,"Spanplatte, UF-gebunden, beschichtet, Trockenbereich",7.016,640,kg,1210,1090,122,4.69,4.69,0.00627,3.7,3.6,0.0985,0.735,0.641,0.0945,0.417
+Holz und Holzwerkstoffe,"Spanplatte, UF-gebunden, Trockenbereich",7.014,640,kg,886,780,106,4.37,4.36,0.00624,2.56,2.46,0.0977,0.529,0.45,0.0798,0.417
+Holz und Holzwerkstoffe,"Sperrholz/Multiplex, PF-gebunden, Feuchtbereich",7.018,500,kg,2870,2770,106,10.1,10.1,0.00624,6.94,6.84,0.0977,1.43,1.35,0.0798,0.41
+Holz und Holzwerkstoffe,"Sperrholz/Multiplex, UF-gebunden, Trockenbereich",7.017,500,kg,2140,2030,106,10,10,0.00624,4.7,4.6,0.0977,0.948,0.868,0.0798,0.41
+Holz und Holzwerkstoffe,"Stabschichtholz, Buche, fagus",07.019.01,700,kg,1010,926,84.4,9.46,9.46,0.00691,1.86,1.75,0.108,0.367,0.306,0.0615,0.477
+"Klebstoffe, Fugendichtungsmassen",2-Komponenten Klebstoff,8.001,1500,kg,10100,9910,236,0.355,0.353,0.00225,24.3,24.2,0.0558,4.84,4.65,0.187,0
+"Klebstoffe, Fugendichtungsmassen",Heissbitumen,8.002,1000,kg,2040,1800,236,0.0665,0.0643,0.00225,15,14.9,0.0558,1.09,0.906,0.187,0
+"Klebstoffe, Fugendichtungsmassen",Kautschukdichtungsmasse,8.003,1500,kg,6870,6630,236,0.296,0.294,0.00225,24.4,24.4,0.0558,2.42,2.23,0.187,0
+"Klebstoffe, Fugendichtungsmassen",Polysulfiddichtungsmasse,8.004,1600,kg,2890,2660,236,0.422,0.42,0.00225,7.8,7.75,0.0558,1.72,1.53,0.187,0
+"Klebstoffe, Fugendichtungsmassen",Silicon-Fugenmasse,8.005,1000,kg,4570,4340,236,1.87,1.87,0.00225,14.5,14.4,0.0558,2.91,2.72,0.187,0
+"Dichtungsbahnen, Schutzfolien",Dampfbremse bituminös,9.001,1100,kg,5220,2790,2430,0.669,0.654,0.0148,13.5,13.2,0.266,3.64,1.31,2.33,0
+"Dichtungsbahnen, Schutzfolien",Dampfbremse Polyethylen (PE),9.002,920,kg,6930,4120,2810,0.864,0.853,0.0111,24.8,24.6,0.209,5.42,2.75,2.67,0
+"Dichtungsbahnen, Schutzfolien",Dichtungsbahn bituminös,9.003,1100,kg,4350,1920,2430,0.279,0.264,0.0148,12.3,12,0.266,3.33,1,2.33,0
+"Dichtungsbahnen, Schutzfolien","Bituminöse Dichtungsbahn, swissporBIKUPLAN ECO",09.003.11,1267,kg,3510,1080,2430,0.224,0.209,0.0148,6.13,5.86,0.266,2.92,0.588,2.33,0
+"Dichtungsbahnen, Schutzfolien","Bituminöse Dichtungsbahn, swissporBIKUTOP",09.003.01,1269,kg,4060,1630,2430,0.242,0.227,0.0148,10.3,10,0.266,3.24,0.907,2.33,0
+"Dichtungsbahnen, Schutzfolien","Bituminöse Dichtungsbahn, swissporBIKUTOP ECO",09.003.02,1256,kg,3420,983,2430,0.221,0.206,0.0148,5.54,5.27,0.266,2.88,0.55,2.33,0
+"Dichtungsbahnen, Schutzfolien",Dichtungsbahn Gummi (EPDM),9.004,1100,kg,8110,4860,3240,0.844,0.83,0.0133,24.7,24.4,0.224,5.84,2.74,3.1,0
+"Dichtungsbahnen, Schutzfolien",Dichtungsbahn Polyolefin (FPO),9.005,1000,kg,7880,5070,2810,0.421,0.41,0.0111,23.1,22.9,0.209,5.18,2.52,2.67,0
+"Dichtungsbahnen, Schutzfolien",Kraftpapier,9.006,650,kg,3450,3250,206,13,13,0.0128,7.73,7.56,0.172,1.67,1.61,0.058,0.404
+"Dichtungsbahnen, Schutzfolien",Polyethylenfolie (PE),9.007,920,kg,6930,4120,2810,0.864,0.853,0.0111,24.8,24.6,0.209,5.42,2.75,2.67,0
+"Dichtungsbahnen, Schutzfolien",Polyethylenvlies (PE),9.008,920,kg,7090,4280,2810,0.548,0.537,0.0111,26,25.7,0.209,5.63,2.96,2.67,0
+Wärmedämmstoffe,Aerogel-Vlies,10.014,150,kg,73600,73200,408,12.6,12.5,0.012,230,229,0.174,48.7,48.4,0.289,0
+Wärmedämmstoffe,Blähperlit,10.012,102,kg,1460,1410,42.5,0.167,0.164,0.00221,4.46,4.4,0.0526,1.05,1.04,0.0127,0
+Wärmedämmstoffe,Blähvermiculit,10.011,102,kg,687,645,42.5,0.0508,0.0486,0.00221,1.56,1.51,0.0526,0.394,0.382,0.0127,0
+Wärmedämmstoffe,Flachsfasern,10.016,30,kg,2940,2570,370,5.97,5.96,0.0126,5.32,5.17,0.154,1.01,0.777,0.235,0.44
+Wärmedämmstoffe,"Flachsfasern, MAGRIPOL, Premium",10.016.01,30,kg,2880,2510,370,5.91,5.89,0.0126,5.18,5.03,0.154,0.983,0.749,0.235,0.44
+Wärmedämmstoffe,"Flachsfasern, feuerfest",10.017,30,kg,3530,3160,370,5.47,5.46,0.0126,7.51,7.36,0.154,1.45,1.22,0.235,0.44
+Wärmedämmstoffe,"Flachsfasern, feuerfest, MAGRIPOL, Premium+",10.017.01,30,kg,3460,3090,370,5.41,5.4,0.0126,7.35,7.2,0.154,1.42,1.18,0.235,0.44
+Wärmedämmstoffe,Glaswolle,10.001,60,kg,1960,1850,116,2.35,2.34,0.0107,5.46,5.33,0.133,1.1,1.04,0.0592,0
+Wärmedämmstoffe,"Glaswolle, Isover, phenolbasiertes Bindemittel",10.001.01,60,kg,1830,1710,116,2.28,2.27,0.0107,5.13,4.99,0.133,1.03,0.97,0.0592,0
+Wärmedämmstoffe,"Glaswolle, Isover, pflanzliches Bindemittel",10.001.03,60,kg,1700,1580,116,2.45,2.44,0.0107,3.66,3.53,0.133,0.89,0.831,0.0592,0
+Wärmedämmstoffe,"Glaswolle, SUPAFIL",10.001.02,35,kg,2060,1940,116,0.317,0.306,0.0107,5.89,5.76,0.133,1.14,1.08,0.0592,0
+Wärmedämmstoffe,Korkplatte,10.002,120,kg,2170,1990,172,7.95,7.94,0.0125,6.24,6.09,0.148,1.11,1.07,0.0387,0.496
+Wärmedämmstoffe,Phenolharz (PF),10.003,40,kg,10000,6730,3280,0.618,0.606,0.0117,33.5,33.3,0.202,7.26,4.17,3.09,0
+Wärmedämmstoffe,Polystyrol expandiert (EPS),10.004,27,kg,9800,6520,3280,0.524,0.512,0.0117,30,29.8,0.202,7.6,4.51,3.09,0
+Wärmedämmstoffe,"Polystyrol expandiert, SwissporEPS",10.004.01,16.8,kg,8790,5510,3280,0.729,0.718,0.0117,26.7,26.5,0.202,6.95,3.86,3.09,0
+Wärmedämmstoffe,Polystyrol extrudiert (XPS),10.005,32,kg,19700,16500,3280,0.671,0.659,0.0117,29.4,29.2,0.202,14.4,11.3,3.09,0
+Wärmedämmstoffe,"Polystyrol extrudiert, SwissporXPS",10.005.01,34.3,kg,8880,5600,3280,1.37,1.36,0.0117,25.5,25.3,0.202,6.96,3.87,3.09,0
+Wärmedämmstoffe,Polyurethan (PUR/PIR),10.006,30,kg,10400,7490,2920,0.83,0.813,0.0176,30.1,29.5,0.682,7.44,4.79,2.65,0
+Wärmedämmstoffe,"Polyurethan, SwissporPIR",10.006.01,30,kg,9830,6910,2920,1.03,1.02,0.0176,28,27.3,0.682,7.08,4.43,2.65,0
+Wärmedämmstoffe,Schaumglas,10.007,132,kg,1760,1710,42.5,1.88,1.88,0.00221,5.16,5.11,0.0526,1.19,1.17,0.0127,0
+Wärmedämmstoffe,"Schaumglas, GLAPOR",10.007.01,120,kg,1020,979,42.5,0.206,0.203,0.00221,3.15,3.1,0.0526,0.707,0.694,0.0127,0
+Wärmedämmstoffe,Schaumglasschotter,10.013,137,kg,499,457,42.5,0.262,0.26,0.00221,1.74,1.69,0.0526,0.16,0.148,0.0127,0
+Wärmedämmstoffe,"Schaumglasschotter, Misapor",10.013.01,137,kg,434,392,42.5,0.246,0.243,0.00221,1.55,1.5,0.0526,0.132,0.12,0.0127,0
+Wärmedämmstoffe,Steinwolle,10.008,86,kg,1360,1240,116,1.65,1.64,0.0107,3.23,3.1,0.133,0.816,0.757,0.0592,0
+Wärmedämmstoffe,"Steinwolle, Flumroc",10.008.01,86,kg,1100,982,116,2.01,2,0.0107,2.55,2.41,0.133,0.617,0.558,0.0592,0
+Wärmedämmstoffe,Strohballenwand,10.015,215,kg,586,586,0,4.87,4.87,0,0.229,0.229,0,0.0956,0.0956,0,0.368
+Wärmedämmstoffe,Weichfaserplatte,10.009,147.5,kg,1400,1180,227,7.11,7.1,0.0126,3.42,3.27,0.151,0.725,0.633,0.0921,0.436
+Wärmedämmstoffe,Zellulosefasern,10.01,47,kg,556,395,161,0.259,0.245,0.0137,1.05,0.882,0.165,0.28,0.209,0.0709,0.404
+Wärmedämmstoffe,"Zellulosefasern, Isofloc",10.010.01,47,kg,470,309,161,0.24,0.226,0.0137,0.848,0.683,0.165,0.233,0.163,0.0709,0.404
+Bodenbeläge,"2K-Fliessbelag Industrie (Epoxidharz), 2.25 mm",11.001,,qm,41700,33500,8240,1.55,1.47,0.0816,65.1,62.8,2.26,18.4,11.1,7.24,0
+Bodenbeläge,"2K-Fliessbelag Wohnen/Verwaltung (Epoxidharz, PU), 2 mm",11.002,,qm,25800,21300,4540,2.07,2.01,0.0613,62,60.5,1.45,13.9,10,3.87,0
+Bodenbeläge,"Gummigranulat versiegelt, 7.5 mm",11.003,,qm,38800,25400,13400,2.56,2.41,0.14,113,110,2.73,26.8,14.9,11.9,0
+Bodenbeläge,"Gussasphalt, 27.5 mm",11.004,,qm,33700,24600,9070,3.44,3.28,0.155,126,120,5.4,15.9,14.7,1.22,0
+Bodenbeläge,"Hartbeton einschichtig, 27.5 mm",11.005,,qm,26600,24100,2460,2.32,2.19,0.127,46.6,43.5,3.04,16.4,15.7,0.733,0
+Bodenbeläge,"Hartbeton zweischichtig, 35 mm",11.006,,qm,27200,24100,3120,2.35,2.19,0.162,41.8,37.9,3.87,16.4,15.4,0.932,0
+Bodenbeläge,"Kautschuk, 2 mm",11.007,,qm,24200,20400,3750,9.91,9.85,0.0665,60.8,59.8,0.925,14.1,11,3.19,0
+Bodenbeläge,"Keramik-/Steinzeugplatte, 9 mm",11.008,,qm,86800,73100,13800,4.49,3.77,0.715,83.1,66,17,18.2,14,4.11,0
+Bodenbeläge,"Kork Fertigparkett, 10.5 mm",11.009,,qm,15500,13400,2130,39.2,39.1,0.1,45.2,43.8,1.36,9.07,7.77,1.3,2.73
+Bodenbeläge,"Kork PVC-beschichtet, 3.2 mm",11.01,,qm,12000,7890,4060,8.39,8.29,0.0971,34.7,33.3,1.43,8.28,4.75,3.52,0.604
+Bodenbeläge,"Korkparkett geölt/versiegelt, 5.3 mm",11.011,,qm,5970,3830,2130,12.3,12.2,0.1,12.1,10.7,1.36,3.26,1.96,1.3,0.921
+Bodenbeläge,"Kunststeinplatte zementgebunden, 10 mm",11.012,,qm,25700,6100,19600,1.78,0.762,1.02,30.4,6.04,24.3,10.4,4.51,5.86,0
+Bodenbeläge,"Laminat, 8.5 mm",11.013,,qm,16600,13600,2970,38.3,38.2,0.108,42.7,41.3,1.45,10.4,8.1,2.3,2.42
+Bodenbeläge,"Linoleum, 2.5 mm",11.014,,qm,15800,15100,728,19.3,19.3,0.0362,26.3,25.9,0.437,6.36,5.84,0.516,0.786
+Bodenbeläge,"Natursteinplatte geschliffen, 15 mm",11.015,,qm,41900,40200,1720,19.8,19.7,0.0893,118,116,2.13,16.8,16.3,0.514,0
+Bodenbeläge,"Natursteinplatte geschliffen, Europa, 15 mm",11.015.01,,qm,40700,39000,1720,19.9,19.8,0.0893,117,115,2.13,16.6,16.1,0.514,0
+Bodenbeläge,"Natursteinplatte geschliffen, Schweiz, 15 mm",11.015.02,,qm,34800,33100,1720,19.2,19.1,0.0893,104,102,2.13,13.4,12.8,0.514,0
+Bodenbeläge,"Natursteinplatte geschliffen, Übersee, 15 mm",11.015.03,,qm,44500,42800,1720,19.9,19.8,0.0893,122,120,2.13,17.9,17.4,0.514,0
+Bodenbeläge,"Natursteinplatte geschnitten, 15 mm",11.016,,qm,32000,30200,1720,13.5,13.4,0.0893,87.6,85.5,2.13,13.4,12.9,0.514,0
+Bodenbeläge,"Natursteinplatte poliert, 15 mm",11.017,,qm,69700,68000,1720,25.2,25.1,0.0893,144,142,2.13,19.6,19.1,0.514,0
+Bodenbeläge,"Parkett 2-Schicht werkversiegelt, 11 mm",11.018,,qm,16100,15600,490,87.7,87.6,0.0376,42.3,41.7,0.563,7.8,7.47,0.337,2.69
+Bodenbeläge,"Parkett 3-Schicht werkversiegelt, 15 mm",11.019,,qm,18100,17500,635,145,145,0.0487,40.3,39.6,0.729,8.09,7.65,0.437,3.54
+Bodenbeläge,"Parkett Mosaik werkversiegelt, 8 mm",11.02,,qm,9020,8670,352,90,89.9,0.0343,23.3,22.8,0.497,3.57,3.35,0.218,2.23
+Bodenbeläge,"PVC homogen, 2 mm",11.021,,qm,20600,13500,7140,2.29,1.98,0.303,58.2,55,3.19,14.4,8.16,6.22,0
+Bodenbeläge,"Steinholz versiegelt, 16.5 mm",11.022,,qm,16400,15400,935,0.99,0.942,0.0485,25.1,24,1.16,12.9,12.7,0.279,0
+Bodenbeläge,"Synthetische thermoplastische Beläge (TPO), 2 mm",11.023,,qm,20000,9510,10400,3.22,3.19,0.0303,43.3,42.6,0.638,16,5.87,10.1,0
+Bodenbeläge,Teppich Kunstfaser getuftet,11.024,,qm,21100,14700,6470,0.6,0.582,0.0187,50,49.6,0.394,16.7,10.5,6.25,0
+Bodenbeläge,Teppich Nadelfilz,11.025,,qm,12700,8700,4010,0.615,0.604,0.0116,34.3,34,0.244,9.84,5.98,3.87,0
+Bodenbeläge,Teppich Naturfaser,11.026,,qm,15300,13200,2070,10.9,10.9,0.0241,15.5,15.1,0.414,5.08,3.22,1.85,1.01
+Bodenbeläge,"Terrazzo versiegelt, 40 mm",11.027,,qm,28100,24100,4040,4.23,4.02,0.21,40.5,35.6,5,17.3,16.1,1.21,0
+Türen,"Aussentüre, Aluminium, Glaseinsatz",12.005,,qm,394000,377000,17300,118,117,0.49,911,906,5.34,216,201,14.8,0
+Türen,"Aussentüre, Aluminium, Paneelfüllung",12.006,,qm,385000,374000,10500,143,142,0.0263,837,836,0.792,192,182,10,0
+Türen,"Aussentüre, Holz",12.008,,qm,125000,116000,9270,283,283,0.14,265,261,4.17,62.2,54.6,7.64,15.5
+Türen,"Aussentüre, Holz, aluminiumbeplankt",12.001,,qm,231000,222000,9270,329,329,0.14,505,501,4.17,116,108,7.64,15.5
+Türen,"Aussentüre, Holz, Glaseinsatz",12.002,,qm,161000,148000,12100,247,247,0.321,359,352,6.31,85.7,76,9.7,13
+Türen,"Innentüre, Aluminium, Glaseinsatz",12.007,,qm,316000,305000,10500,104,104,0.339,722,719,3.6,166,157,8.71,0
+Türen,"Innentüre, Funktionstüre, Holz, Holzrahmen",12.009,,qm,87800,79300,8530,280,280,0.181,190,185,4.87,44.3,37.4,6.86,17.3
+Türen,"Innentüre, Funktionstüre, Holz, Stahlzarge",12.012,,qm,181000,173000,7920,232,232,0.173,357,352,4.35,96.8,90.4,6.46,13.7
+Türen,"Innentüre, Zimmertüre, Holz, Glaseinsatz, Holzrahmen",12.004,,qm,109000,99800,8890,201,200,0.279,255,249,5.24,59.7,52.8,6.92,11
+Türen,"Innentüre, Zimmertüre, Holz, Glaseinsatz, Stahlzarge",12.011,,qm,202000,193000,8270,153,153,0.271,421,416,4.71,112,106,6.53,7.46
+Türen,"Innentüre, Zimmertüre, Holz, Holzrahmen",12.003,,qm,64500,57800,6700,206,206,0.125,141,137,3.44,32.3,26.9,5.39,12.4
+Türen,"Innentüre, Zimmertüre, Holz, Stahlzarge",12.01,,qm,158000,151000,6090,159,158,0.117,307,304,2.92,84.8,79.9,5,8.83
+Rohre,Acrylnitril-Butadien-Styrol (ABS),13.001,1050,kg,9770,6790,2980,0.437,0.416,0.0213,30,29.2,0.739,7.67,4.92,2.75,0
+Rohre,Gusseisen,13.005,7850,kg,5670,5660,11.1,0.279,0.279,0.000582,5.48,5.45,0.0272,2.09,2.09,0.00693,0
+Rohre,Polyethylen (PE),13.002,960,kg,6020,3570,2450,0.544,0.53,0.0143,23.2,23,0.209,4.75,2.38,2.37,0
+Rohre,Polypropylen (PP),13.003,910,kg,6050,3600,2450,0.428,0.413,0.0143,22.7,22.5,0.209,4.78,2.4,2.37,0
+Rohre,Polyvinylchlorid (PVC),13.004,1390,kg,6240,3880,2370,0.646,0.543,0.103,19.5,18.4,1.1,4.49,2.38,2.1,0
+"Anstrichstoffe, Beschichtungen","Anstrich, lösemittelverdünnbar, 2 Anstriche",14.002,,qm,2260,2190,70.7,0.452,0.451,0.000674,6.57,6.55,0.0167,0.975,0.919,0.0562,0
+"Anstrichstoffe, Beschichtungen","Anstrich, wasserverdünnbar, 2 Anstriche",14.001,,qm,1220,1150,70.7,0.143,0.143,0.000674,4.17,4.15,0.0167,0.701,0.645,0.0562,0
+"Anstrichstoffe, Beschichtungen","Bitumenemulsion, 1 Anstrich",14.003,,qm,428,369,59,0.0173,0.0167,0.000562,1.85,1.84,0.014,0.181,0.134,0.0468,0
+"Anstrichstoffe, Beschichtungen","Emaillieren, Metall",14.004,,qm,16400,16400,0,4.16,4.16,0,43.5,43.5,0,8.11,8.11,0,0
+"Anstrichstoffe, Beschichtungen","Pulverbeschichten, Aluminium",14.005,,qm,6260,6260,0,0.599,0.599,0,16.6,16.6,0,3.64,3.64,0,0
+"Anstrichstoffe, Beschichtungen","Pulverbeschichten, Stahl",14.006,,qm,6760,6760,0,0.721,0.721,0,21.1,21.1,0,4.38,4.38,0,0
+"Anstrichstoffe, Beschichtungen","Verchromen, Stahl",14.007,,qm,6320,6320,0,0.876,0.876,0,4.45,4.45,0,0.609,0.609,0,0
+"Anstrichstoffe, Beschichtungen","Verzinken, Stahl",14.008,,qm,29500,29500,0,2.65,2.65,0,25.5,25.5,0,6.09,6.09,0,0
+Kunststoffe,"Plexiglas (PMMA, Acrylglas)",15.001,1180,kg,14800,11700,3090,0.385,0.371,0.0137,40.2,40,0.21,11.6,8.68,2.92,0
+Kunststoffe,Polyamid (PA) glasfaserverstärkt,15.002,1360,kg,15200,12300,2910,0.999,0.979,0.0198,40.3,39.6,0.687,11.5,8.89,2.62,0
+Kunststoffe,Polycarbonat (PC),15.003,1200,kg,15900,12800,3090,0.426,0.412,0.0137,31.8,31.6,0.21,11.4,8.49,2.92,0
+Kunststoffe,Polyester (UP) glasfaserverstärkt,15.004,1500,kg,13800,10700,3090,1.51,1.5,0.0137,31.3,31.1,0.21,9.84,6.92,2.92,0
+Kunststoffe,Polystyrol (PS),15.005,1050,kg,8170,4880,3280,0.111,0.0971,0.0135,24.6,24.4,0.208,6.72,3.64,3.08,0

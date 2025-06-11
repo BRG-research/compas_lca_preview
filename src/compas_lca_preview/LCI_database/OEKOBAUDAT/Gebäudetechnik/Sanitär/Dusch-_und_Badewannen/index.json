@@ -1,0 +1,44 @@
+{
+  "type": "materials",
+  "path": "Gebäudetechnik / Sanitär / Dusch- und Badewannen",
+  "items": [
+    {
+      "ID": "c71cd5b5-b766-470f-a04b-4f39408777e9",
+      "Name": "Acrylic bath and shower tub",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (A1-A3)": "4.2716985",
+      "GWPtotal (C2)": "0.0080309",
+      "GWPtotal (C3)": "3.1578954",
+      "GWPtotal (C4)": "0.0008988",
+      "GWPbiogenic": "-0.259709",
+      "GWPfossil": "7.6965559",
+      "GWPtotal": "7.4385235"
+    },
+    {
+      "ID": "2556af6f-0e61-42f4-9bca-8bd35c7521e0",
+      "Name": "Acrylic bathtubs, shower trays and bath panels",
+      "Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Laenderkennung": "GLO",
+      "Declaration owner": "DURAVIT AG",
+      "Registrierungsnummer": "EPD-DUR-20210239-IBC1-DE",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "17.91",
+      "Schichtdicke (m)": "0.004",
+      "GWPtotal (A1)": "71.9",
+      "GWPtotal (A2)": "1.67",
+      "GWPtotal (A3)": "4.17",
+      "GWPtotal (C1)": "0.0",
+      "GWPtotal (C2)": "2.29",
+      "GWPtotal (C3)": "0.0",
+      "GWPtotal (C4)": "27.2",
+      "GWPbiogenic": "-0.338087",
+      "GWPfossil": "107.56",
+      "GWPtotal": "107.23"
+    }
+  ]
+}

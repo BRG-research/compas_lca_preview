@@ -1,0 +1,31 @@
+
+# In this file you can specify which IfcBuildingElement subtypes should be included in the data extraction process.
+# This file is only relevant for the first step of the data extraction (step_01a_extract_all), and will not affect any downstream steps
+
+Include All IfcBuildingElement Entities: true  # Set to true to include everything by default
+
+# IfcBuildingElement (SCHEMA IFC 2X3) subtypes
+IfcBeam: true
+IfcBearing: true
+IfcBuildingElementProxy: true
+IfcChimney: true
+IfcColumn: true
+IfcCovering: true
+IfcCurtainWall: true
+IfcDeepFoundatoin: true
+IfcDoor: true
+IfcFooting: true
+IfcMember: true
+IfcPlate: true
+IfcPile: true
+IfcRailing: true
+IfcRamp: true
+IfcRampFlight: true
+IfcRoof: true
+IfcShadingDevice: true
+IfcSlab: true
+IfcStair: true
+IfcStairFlight: true
+IfcWall: true
+IfcWallStandardCase: true
+IfcWindow: true

@@ -1,0 +1,18 @@
+{
+  "type": "categories",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Zubehör für Fenster, Fassaden, Türen und Tore",
+  "items": [
+    {
+      "name": "Fingerschutzsysteme",
+      "path": "Fingerschutzsysteme/index.json"
+    },
+    {
+      "name": "Feuer-/Rauchschutzsysteme",
+      "path": "Feuer-_Rauchschutzsysteme/index.json"
+    },
+    {
+      "name": "Sonnenschutzsysteme",
+      "path": "Sonnenschutzsysteme/index.json"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "materials",
+  "path": "Metalle / Edelstahl / Befestigungsmittel",
+  "items": [
+    {
+      "ID": "ed6d477a-a4c3-4a96-9a28-24e256db88e3",
+      "Name": "Stainless Steel screws",
+      "Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Laenderkennung": "RER",
+      "Declaration owner": "Würth Group / Adolf Würth GmbH & Co. KG",
+      "Registrierungsnummer": "EPD-AWU-20230569-CBA1-EN",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "1.0",
+      "GWPtotal (A1-A3)": "6.8834608",
+      "GWPtotal (A4)": "0.0066885",
+      "GWPtotal (A5)": "0.1204659",
+      "GWPtotal (C1)": "0.0426362",
+      "GWPtotal (C2)": "0.0043432",
+      "GWPtotal (C3)": "0.0",
+      "GWPtotal (C4)": "0.0",
+      "GWPbiogenic": "0.0011947",
+      "GWPfossil": "7.0411245",
+      "GWPtotal": "7.0575945"
+    }
+  ]
+}

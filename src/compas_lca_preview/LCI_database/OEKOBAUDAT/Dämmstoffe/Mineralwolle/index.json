@@ -1,0 +1,18 @@
+{
+  "type": "categories",
+  "path": "Dämmstoffe / Mineralwolle",
+  "items": [
+    {
+      "name": "Mineralwolle",
+      "path": "Mineralwolle/index.json"
+    },
+    {
+      "name": "Glaswolle",
+      "path": "Glaswolle/index.json"
+    },
+    {
+      "name": "Steinwolle",
+      "path": "Steinwolle/index.json"
+    }
+  ]
+}

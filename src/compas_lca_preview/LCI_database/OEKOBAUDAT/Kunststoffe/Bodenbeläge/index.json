@@ -1,0 +1,26 @@
+{
+  "type": "categories",
+  "path": "Kunststoffe / Bodenbeläge",
+  "items": [
+    {
+      "name": "Gummi-/Kautschuk-Bodenbeläge",
+      "path": "Gummi-_Kautschuk-Bodenbeläge/index.json"
+    },
+    {
+      "name": "Textile Bodenbeläge",
+      "path": "Textile_Bodenbeläge/index.json"
+    },
+    {
+      "name": "Mehrschichtig modulare Bodenbeläge",
+      "path": "Mehrschichtig_modulare_Bodenbeläge/index.json"
+    },
+    {
+      "name": "Linoleum-Bodenbeläge",
+      "path": "Linoleum-Bodenbeläge/index.json"
+    },
+    {
+      "name": "PVC-Bodenbeläge",
+      "path": "PVC-Bodenbeläge/index.json"
+    }
+  ]
+}

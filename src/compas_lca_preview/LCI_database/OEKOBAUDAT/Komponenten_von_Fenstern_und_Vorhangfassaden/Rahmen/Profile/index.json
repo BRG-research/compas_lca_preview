@@ -1,0 +1,26 @@
+{
+  "type": "categories",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Rahmen / Profile",
+  "items": [
+    {
+      "name": "Aluminium",
+      "path": "Aluminium/index.json"
+    },
+    {
+      "name": "Aluminium thermisch getrennt",
+      "path": "Aluminium_thermisch_getrennt/index.json"
+    },
+    {
+      "name": "Stahl",
+      "path": "Stahl/index.json"
+    },
+    {
+      "name": "PVC",
+      "path": "PVC/index.json"
+    },
+    {
+      "name": "Holz",
+      "path": "Holz/index.json"
+    }
+  ]
+}

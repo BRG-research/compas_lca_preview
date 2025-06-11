@@ -1,0 +1,22 @@
+{
+  "type": "materials",
+  "path": "Metalle / Edelstahl / Edelstahlbleche",
+  "items": [
+    {
+      "ID": "deae7522-47b9-47a8-b9a3-176db7c250ae",
+      "Name": "Stainless steel sheet",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7900.0",
+      "GWPtotal (A1-A3)": "3.6582408",
+      "GWPtotal (C1)": "0.0",
+      "GWPtotal (C2)": "0.0034059",
+      "GWPbiogenic": "0.0017459",
+      "GWPfossil": "3.6564813",
+      "GWPtotal": "3.6616467"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "categories",
+  "path": "Dämmstoffe / Polyethylen",
+  "items": [
+    {
+      "name": "Schaum",
+      "path": "Schaum/index.json"
+    }
+  ]
+}

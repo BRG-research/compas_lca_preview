@@ -1,0 +1,38 @@
+{
+  "type": "materials",
+  "path": "Gebäudetechnik / Beförderung / Fahrtreppe",
+  "items": [
+    {
+      "ID": "bc3826fe-b0e7-49f4-a037-24da26c3705b",
+      "Name": "Escalator basic component (dependent on lifting height)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "pcs.",
+      "GWPtotal (A1-A3)": "2536.458861",
+      "GWPtotal (C2)": "9.3450295",
+      "GWPtotal (C3)": "24.9322139",
+      "GWPtotal (C4)": "2.5348936",
+      "GWPbiogenic": "-7.8560342",
+      "GWPfossil": "2578.9220213",
+      "GWPtotal": "2573.270998"
+    },
+    {
+      "ID": "a81cb40d-1453-4670-a247-6a368ac63556",
+      "Name": "Escalator basic component (independent of lifting height)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "pcs.",
+      "GWPtotal (A1-A3)": "12362.3209957",
+      "GWPtotal (C2)": "48.3202855",
+      "GWPtotal (C3)": "80.6706092",
+      "GWPtotal (C4)": "13.656792",
+      "GWPbiogenic": "13.91619",
+      "GWPfossil": "12482.1348419",
+      "GWPtotal": "12504.9686824"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Füllungen / Opake Füllungen",
+  "items": [
+    {
+      "ID": "d0c5f885-d25e-4838-a269-cc5b676b79eb",
+      "Name": "Glass ceramic -  MAGNA Glaskeramik GmbH - MAGNA glass ceramic (2022)",
+      "Conformity": "'EN 15804+A2'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "MAGNA Glaskeramik GmbH",
+      "Registrierungsnummer": "EPD-MGK-23.1",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "52.3",
+      "Schichtdicke (m)": "0.023",
+      "GWPtotal (A1-A3)": "32.9",
+      "GWPtotal (A5)": "0.0659",
+      "GWPtotal (C1)": "0.0",
+      "GWPtotal (C2)": "0.104",
+      "GWPtotal (C3)": "0.0535",
+      "GWPtotal (C4)": "0.77",
+      "GWPbiogenic": "0.4151023",
+      "GWPfossil": "33.3853",
+      "GWPtotal": "33.8934"
+    },
+    {
+      "ID": "22fc9344-b3d4-4fb9-8d53-44be798491b8",
+      "Name": "Rolling shutter (plastics)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "6.24",
+      "GWPtotal (A1-A3)": "23.2706938",
+      "GWPtotal (C1)": "0.0004623",
+      "GWPtotal (C2)": "0.0262422",
+      "GWPtotal (C3)": "9.0140243",
+      "GWPbiogenic": "0.0982303",
+      "GWPfossil": "32.1988786",
+      "GWPtotal": "32.3114226"
+    },
+    {
+      "ID": "447dea90-8a8f-44f5-9451-3e15ce5fab10",
+      "Name": "Sun protection (metal blinds)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "2.391",
+      "GWPtotal (A1-A3)": "23.8394612",
+      "GWPtotal (C1)": "0.0001574",
+      "GWPtotal (C2)": "0.0097173",
+      "GWPtotal (C3)": "0.0",
+      "GWPbiogenic": "0.0539318",
+      "GWPfossil": "23.7886197",
+      "GWPtotal": "23.8493358"
+    }
+  ]
+}

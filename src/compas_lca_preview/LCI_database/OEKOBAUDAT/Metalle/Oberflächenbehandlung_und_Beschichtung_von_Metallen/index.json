@@ -1,0 +1,18 @@
+{
+  "type": "categories",
+  "path": "Metalle / Oberflächenbehandlung und Beschichtung von Metallen",
+  "items": [
+    {
+      "name": "Anodisieren von Aluminium",
+      "path": "Anodisieren_von_Aluminium/index.json"
+    },
+    {
+      "name": "(Nass-) Lackieren von Metallen",
+      "path": "(Nass-)_Lackieren_von_Metallen/index.json"
+    },
+    {
+      "name": "Pulverbeschichten",
+      "path": "Pulverbeschichten/index.json"
+    }
+  ]
+}

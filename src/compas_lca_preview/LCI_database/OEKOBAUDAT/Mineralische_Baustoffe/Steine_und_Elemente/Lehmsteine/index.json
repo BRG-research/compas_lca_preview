@@ -1,0 +1,55 @@
+{
+  "type": "materials",
+  "path": "Mineralische Baustoffe / Steine und Elemente / Lehmsteine",
+  "items": [
+    {
+      "ID": "4c009f04-44e1-42e3-a32e-4929294debab",
+      "Name": "Adobe",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "1200.0",
+      "GWPtotal (A1-A3)": "98.0970989",
+      "GWPtotal (C2)": "4.8264735",
+      "GWPtotal (C3)": "4.3555692",
+      "GWPbiogenic": "0.2575754",
+      "GWPfossil": "106.8530443",
+      "GWPtotal": "107.2791416"
+    },
+    {
+      "ID": "c0915390-0e80-4253-9345-71fd83ef3c99",
+      "Name": "Clay panel",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "14.0",
+      "GWPtotal (A1-A3)": "0.642254",
+      "GWPtotal (C2)": "0.051996",
+      "GWPtotal (C3)": "1.8235781",
+      "GWPbiogenic": "0.0055577",
+      "GWPfossil": "2.4091041",
+      "GWPtotal": "2.5178281"
+    },
+    {
+      "ID": "4b42a944-ff7e-4540-a46b-c21074255143",
+      "Name": "Rammed earth wall",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "2000.0",
+      "GWPtotal (A1-A3)": "9.9609959",
+      "GWPtotal (C1)": "0.7134482",
+      "GWPtotal (C2)": "8.0441224",
+      "GWPtotal (C3)": "7.259282",
+      "GWPbiogenic": "0.0147255",
+      "GWPfossil": "25.6316556",
+      "GWPtotal": "25.9778485"
+    }
+  ]
+}

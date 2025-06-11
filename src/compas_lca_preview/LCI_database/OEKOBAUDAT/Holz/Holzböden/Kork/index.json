@@ -1,0 +1,54 @@
+{
+  "type": "materials",
+  "path": "Holz / Holzböden / Kork",
+  "items": [
+    {
+      "ID": "dfb4dceb-e6a4-4fd8-bb42-f06b4e414e38",
+      "Name": "Cork slab, 4 mm (generic)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "1.8",
+      "GWPtotal (A1-A3)": "-1.6408624",
+      "GWPtotal (C2)": "0.0066852",
+      "GWPtotal (C3)": "2.7729514",
+      "GWPbiogenic": "0.0040173",
+      "GWPfossil": "1.1258818",
+      "GWPtotal": "1.1387743"
+    },
+    {
+      "ID": "b49b3145-9b55-46db-9a28-2359355f398e",
+      "Name": "Cork slab, 6 mm (generic)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "2.7",
+      "GWPtotal (A1-A3)": "-2.4612935",
+      "GWPtotal (C2)": "0.0100278",
+      "GWPtotal (C3)": "4.1594272",
+      "GWPbiogenic": "0.0060259",
+      "GWPfossil": "1.6888226",
+      "GWPtotal": "1.7081614"
+    },
+    {
+      "ID": "348671a9-852b-4bb0-bcc3-3847e5e4a843",
+      "Name": "Cork slab, 8 mm (generic)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "3.6",
+      "GWPtotal (A1-A3)": "-3.2817247",
+      "GWPtotal (C2)": "0.0133704",
+      "GWPtotal (C3)": "5.5459029",
+      "GWPbiogenic": "0.0080345",
+      "GWPfossil": "2.2517635",
+      "GWPtotal": "2.2775486"
+    }
+  ]
+}

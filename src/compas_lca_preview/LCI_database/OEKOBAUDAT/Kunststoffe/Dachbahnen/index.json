@@ -1,0 +1,34 @@
+{
+  "type": "categories",
+  "path": "Kunststoffe / Dachbahnen",
+  "items": [
+    {
+      "name": "TPO-Dachbahnen (FPO)",
+      "path": "TPO-Dachbahnen_(FPO)/index.json"
+    },
+    {
+      "name": "PVC-Dachbahnen",
+      "path": "PVC-Dachbahnen/index.json"
+    },
+    {
+      "name": "Bitumen-Dachbahnen",
+      "path": "Bitumen-Dachbahnen/index.json"
+    },
+    {
+      "name": "PIB-Dachbahnen (Polyisobutylen)",
+      "path": "PIB-Dachbahnen_(Polyisobutylen)/index.json"
+    },
+    {
+      "name": "ECB-Dachbahnen (Ethylen-Copolymer-Bitumen)",
+      "path": "ECB-Dachbahnen_(Ethylen-Copolymer-Bitumen)/index.json"
+    },
+    {
+      "name": "Elastomer-Dachbahnen",
+      "path": "Elastomer-Dachbahnen/index.json"
+    },
+    {
+      "name": "EVA-Dachbahnen (Etylen-Vinylacetat)",
+      "path": "EVA-Dachbahnen_(Etylen-Vinylacetat)/index.json"
+    }
+  ]
+}

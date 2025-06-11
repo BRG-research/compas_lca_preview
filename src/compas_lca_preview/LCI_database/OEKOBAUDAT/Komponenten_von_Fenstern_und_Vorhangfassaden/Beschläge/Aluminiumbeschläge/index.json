@@ -1,0 +1,68 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Beschläge / Aluminiumbeschläge",
+  "items": [
+    {
+      "ID": "93b2e57a-cb78-49e4-8f95-152863f992cc",
+      "Name": "Window fitting for double sash window",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "pcs.",
+      "GWPtotal (A1-A3)": "9.2293947",
+      "GWPtotal (C1)": "0.0",
+      "GWPtotal (C2)": "0.0027258",
+      "GWPtotal (C3)": "0.0",
+      "GWPbiogenic": "0.1510271",
+      "GWPfossil": "9.0774656",
+      "GWPtotal": "9.2321206"
+    },
+    {
+      "ID": "789daaf4-7ef9-473d-87d0-75ae66481c65",
+      "Name": "Window fitting for horizontal sliding window",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "pcs.",
+      "GWPtotal (A1-A3)": "6.0989233",
+      "GWPtotal (C1)": "0.0",
+      "GWPtotal (C2)": "0.0023842",
+      "GWPbiogenic": "0.1562216",
+      "GWPfossil": "5.9419655",
+      "GWPtotal": "6.1013075"
+    },
+    {
+      "ID": "b30999ac-b5a1-4ccd-bfcf-b9310b458db6",
+      "Name": "Window fitting for tilt and turn window",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "pcs.",
+      "GWPtotal (A1-A3)": "13.3927985",
+      "GWPtotal (C1)": "0.0",
+      "GWPtotal (C2)": "0.0059274",
+      "GWPtotal (C3)": "0.0",
+      "GWPbiogenic": "0.0617049",
+      "GWPfossil": "13.3268775",
+      "GWPtotal": "13.3987259"
+    },
+    {
+      "ID": "ee51a65b-991f-453f-bfbc-4d45fcbafe17",
+      "Name": "Window fitting for vertical sliding window",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "pcs.",
+      "GWPtotal (A1-A3)": "11.4827678",
+      "GWPtotal (C1)": "0.0",
+      "GWPtotal (C2)": "0.0031675",
+      "GWPbiogenic": "0.0255984",
+      "GWPfossil": "11.4474634",
+      "GWPtotal": "11.4859353"
+    }
+  ]
+}

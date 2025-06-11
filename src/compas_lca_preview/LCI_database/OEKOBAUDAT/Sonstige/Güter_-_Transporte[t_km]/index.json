@@ -1,0 +1,22 @@
+{
+  "type": "categories",
+  "path": "Sonstige / Güter - Transporte[t km]",
+  "items": [
+    {
+      "name": "Binnenschiff",
+      "path": "Binnenschiff/index.json"
+    },
+    {
+      "name": "Seeschiff",
+      "path": "Seeschiff/index.json"
+    },
+    {
+      "name": "LKW",
+      "path": "LKW/index.json"
+    },
+    {
+      "name": "Bahn",
+      "path": "Bahn/index.json"
+    }
+  ]
+}

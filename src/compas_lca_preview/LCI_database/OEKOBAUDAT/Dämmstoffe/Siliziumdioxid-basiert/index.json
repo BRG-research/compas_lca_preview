@@ -1,0 +1,14 @@
+{
+  "type": "categories",
+  "path": "Dämmstoffe / Siliziumdioxid-basiert",
+  "items": [
+    {
+      "name": "Vakuumisolationspaneele",
+      "path": "Vakuumisolationspaneele/index.json"
+    },
+    {
+      "name": "Hydrophobe Platten",
+      "path": "Hydrophobe_Platten/index.json"
+    }
+  ]
+}

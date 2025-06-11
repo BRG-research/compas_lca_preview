@@ -1,0 +1,14 @@
+{
+  "type": "categories",
+  "path": "Dämmstoffe / Stroh",
+  "items": [
+    {
+      "name": "Strohballen",
+      "path": "Strohballen/index.json"
+    },
+    {
+      "name": "Strohplatten",
+      "path": "Strohplatten/index.json"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "type": "materials",
+  "path": "Mineralische Baustoffe / Zuschläge / Perlite",
+  "items": [
+    {
+      "ID": "ad49148a-69c3-41b5-9cbb-d93a31f1fd17",
+      "Name": "Perlites 0-1",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (A1-A3)": "0.0437696",
+      "GWPbiogenic": "-0.0001603",
+      "GWPfossil": "0.0436317",
+      "GWPtotal": "0.0437696"
+    },
+    {
+      "ID": "d69a69ca-9323-4a28-81f7-ed8b457080c6",
+      "Name": "Perlites 0-3",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (A1-A3)": "0.5950229",
+      "GWPbiogenic": "0.0004041",
+      "GWPfossil": "0.5942975",
+      "GWPtotal": "0.5950229"
+    }
+  ]
+}

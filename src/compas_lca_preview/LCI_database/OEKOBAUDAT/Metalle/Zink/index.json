@@ -1,0 +1,10 @@
+{
+  "type": "categories",
+  "path": "Metalle / Zink",
+  "items": [
+    {
+      "name": "Zinkbleche",
+      "path": "Zinkbleche/index.json"
+    }
+  ]
+}

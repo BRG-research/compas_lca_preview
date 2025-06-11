@@ -1,0 +1,61 @@
+{
+  "type": "materials",
+  "path": "End of Life / Generisch / Metalle",
+  "items": [
+    {
+      "ID": "8835b216-e9b0-4d07-8f0d-47af00d4a64a",
+      "Name": "End of Life of Aluminium",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "2700.0",
+      "GWPtotal (C4)": "0.0007481",
+      "GWPbiogenic": "-5.1e-06",
+      "GWPfossil": "0.0007488",
+      "GWPtotal": "0.0007481"
+    },
+    {
+      "ID": "4340b8dd-a92b-413f-92ca-0657b8f191e3",
+      "Name": "End of Life stainless steel",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (C4)": "0.0007481",
+      "GWPbiogenic": "-5.1e-06",
+      "GWPfossil": "0.0007488",
+      "GWPtotal": "0.0007481"
+    },
+    {
+      "ID": "aef7e06a-2eea-4be1-be5e-7c4201890534",
+      "Name": "End of Life steel profile",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0",
+      "GWPtotal (C4)": "0.0007481",
+      "GWPbiogenic": "-5.1e-06",
+      "GWPfossil": "0.0007488",
+      "GWPtotal": "0.0007481"
+    },
+    {
+      "ID": "d63aa653-c3bb-4c7e-8386-d8f67b9a5a50",
+      "Name": "End of Life steel sheet galvanized",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "7850.0",
+      "GWPtotal (C4)": "0.0007481",
+      "GWPbiogenic": "-5.1e-06",
+      "GWPfossil": "0.0007488",
+      "GWPtotal": "0.0007481"
+    }
+  ]
+}

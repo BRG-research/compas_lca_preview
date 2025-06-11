@@ -1,0 +1,21 @@
+{
+  "type": "materials",
+  "path": "Mineralische Baustoffe / Bindemittel / Lehm",
+  "items": [
+    {
+      "ID": "a60489dc-32f2-4ff6-83d2-eb8f4f630ebd",
+      "Name": "Clay powder",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (A1-A3)": "0.3523211",
+      "GWPtotal (C2)": "0.0040221",
+      "GWPtotal (C3)": "0.0036296",
+      "GWPbiogenic": "-3.28e-05",
+      "GWPfossil": "0.3597819",
+      "GWPtotal": "0.3599728"
+    }
+  ]
+}

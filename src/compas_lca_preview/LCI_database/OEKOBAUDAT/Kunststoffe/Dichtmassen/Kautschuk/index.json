@@ -1,0 +1,21 @@
+{
+  "type": "materials",
+  "path": "Kunststoffe / Dichtmassen / Kautschuk",
+  "items": [
+    {
+      "ID": "a2f0ddd4-a64e-4be8-a844-922013a2ac37",
+      "Name": "Rubber sealing compound",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (A1-A3)": "3.8453641",
+      "GWPtotal (C2)": "0.0046454",
+      "GWPtotal (C3)": "3.0303224",
+      "GWPbiogenic": "0.0239704",
+      "GWPfossil": "6.855172",
+      "GWPtotal": "6.8803319"
+    }
+  ]
+}

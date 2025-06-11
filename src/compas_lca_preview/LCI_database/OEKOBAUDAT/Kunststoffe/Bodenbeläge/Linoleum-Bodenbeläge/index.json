@@ -1,0 +1,38 @@
+{
+  "type": "materials",
+  "path": "Kunststoffe / Bodenbeläge / Linoleum-Bodenbeläge",
+  "items": [
+    {
+      "ID": "a7c7dd86-4cbe-487c-89f9-1bdd8ebdabec",
+      "Name": "Cork linoleum floor covering",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "3.1",
+      "GWPtotal (A1-A3)": "3.7583107",
+      "GWPtotal (C2)": "0.0105584",
+      "GWPtotal (C3)": "3.346181",
+      "GWPbiogenic": "0.1282589",
+      "GWPfossil": "6.8560424",
+      "GWPtotal": "7.1150501"
+    },
+    {
+      "ID": "ed391263-0e6d-43dd-ad3e-43607545f281",
+      "Name": "Linoleum",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "3.0",
+      "GWPtotal (A1-A3)": "3.7112442",
+      "GWPtotal (C2)": "0.0102178",
+      "GWPtotal (C3)": "3.3420675",
+      "GWPbiogenic": "0.1279765",
+      "GWPfossil": "6.8056966",
+      "GWPtotal": "7.0635296"
+    }
+  ]
+}

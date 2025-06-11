@@ -1,0 +1,23 @@
+{
+  "type": "materials",
+  "path": "Holz / Holzwerkstoffe / Wood-Plastic-Composites",
+  "items": [
+    {
+      "ID": "591b693f-8cfe-41fc-877d-68c730d9c31d",
+      "Name": "3.2.09. Wood Plastic Composite (WPC) decking board",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "18.36",
+      "GWPtotal (A1-A3)": "4.506693",
+      "GWPtotal (C1)": "9.68e-05",
+      "GWPtotal (C2)": "0.0742427",
+      "GWPtotal (C3)": "43.1847691",
+      "GWPbiogenic": "0.0962169",
+      "GWPfossil": "47.6190657",
+      "GWPtotal": "47.7658016"
+    }
+  ]
+}

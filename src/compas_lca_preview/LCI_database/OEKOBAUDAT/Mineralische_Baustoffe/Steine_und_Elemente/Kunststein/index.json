@@ -1,0 +1,25 @@
+{
+  "type": "materials",
+  "path": "Mineralische Baustoffe / Steine und Elemente / Kunststein",
+  "items": [
+    {
+      "ID": "514d0f56-13d8-45a3-9267-01be064d6ce3",
+      "Name": "Artificial stone slab (epoxy-resin bound)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "52.0",
+      "GWPtotal (A1-A3)": "26.3535837",
+      "GWPtotal (A4)": "18.5341794",
+      "GWPtotal (C1)": "0.0171305",
+      "GWPtotal (C2)": "0.2415611",
+      "GWPtotal (C3)": "0.4028168",
+      "GWPtotal (C4)": "0.0",
+      "GWPbiogenic": "0.4577481",
+      "GWPfossil": "45.0678748",
+      "GWPtotal": "45.5492715"
+    }
+  ]
+}

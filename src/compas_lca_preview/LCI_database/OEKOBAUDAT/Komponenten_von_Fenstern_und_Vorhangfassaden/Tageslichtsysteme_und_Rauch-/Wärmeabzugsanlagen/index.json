@@ -1,0 +1,14 @@
+{
+  "type": "categories",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Tageslichtsysteme und Rauch- / Wärmeabzugsanlagen",
+  "items": [
+    {
+      "name": "Rauch-/Wärmeabzugsanlagen",
+      "path": "Rauch-_Wärmeabzugsanlagen/index.json"
+    },
+    {
+      "name": "Oberlichter",
+      "path": "Oberlichter/index.json"
+    }
+  ]
+}

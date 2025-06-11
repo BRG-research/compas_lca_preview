@@ -1,0 +1,40 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Rahmen / Profile / Stahl",
+  "items": [
+    {
+      "ID": "1e56bbe7-38f8-40a5-817b-8fa10c56a66e",
+      "Name": "Steel mullion-transom system",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "m",
+      "GWPtotal (A1-A3)": "36.666186",
+      "GWPtotal (C1)": "0.0024806",
+      "GWPtotal (C2)": "0.0402153",
+      "GWPtotal (C3)": "3.4167425",
+      "GWPbiogenic": "0.3666599",
+      "GWPfossil": "39.7466681",
+      "GWPtotal": "40.1256243"
+    },
+    {
+      "ID": "076ce1f1-3060-4634-b4e4-c4d5442fe653",
+      "Name": "Steel mullion-transom system with triple glazing",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "21.4",
+      "GWPtotal (A1-A3)": "98.8411513",
+      "GWPtotal (C1)": "0.0024806",
+      "GWPtotal (C2)": "0.1637579",
+      "GWPtotal (C3)": "6.1945819",
+      "GWPtotal (C4)": "0.4652173",
+      "GWPbiogenic": "0.5962329",
+      "GWPfossil": "104.9856559",
+      "GWPtotal": "105.667189"
+    }
+  ]
+}

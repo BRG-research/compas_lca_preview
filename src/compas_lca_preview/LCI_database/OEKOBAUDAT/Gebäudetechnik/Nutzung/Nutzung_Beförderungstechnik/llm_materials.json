@@ -1,0 +1,8 @@
+{
+  "Material Options": [
+    "Kerberos Tripod Barrier-E01",
+    "Usage - elevator average usage (200.000 rides/a)",
+    "Usage - elevator high usage (400.000 rides/a)",
+    "Usage - elevator low usage (100.000 rides/a)"
+  ]
+}

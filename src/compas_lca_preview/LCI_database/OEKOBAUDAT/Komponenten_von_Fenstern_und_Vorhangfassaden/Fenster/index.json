@@ -1,0 +1,26 @@
+{
+  "type": "categories",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Fenster",
+  "items": [
+    {
+      "name": "Holzfenster",
+      "path": "Holzfenster/index.json"
+    },
+    {
+      "name": "Holz-Metallfenster",
+      "path": "Holz-Metallfenster/index.json"
+    },
+    {
+      "name": "Kunststofffenster",
+      "path": "Kunststofffenster/index.json"
+    },
+    {
+      "name": "Sonstige Fenster",
+      "path": "Sonstige_Fenster/index.json"
+    },
+    {
+      "name": "Metallfenster",
+      "path": "Metallfenster/index.json"
+    }
+  ]
+}

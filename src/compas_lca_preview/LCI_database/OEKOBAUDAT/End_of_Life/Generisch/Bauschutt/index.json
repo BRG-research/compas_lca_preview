@@ -1,0 +1,45 @@
+{
+  "type": "materials",
+  "path": "End of Life / Generisch / Bauschutt",
+  "items": [
+    {
+      "ID": "9c1b485e-c801-42ad-bb59-fe209392fc98",
+      "Name": "Construction rubble landfill",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (C4)": "0.0149622",
+      "GWPbiogenic": "-0.0001028",
+      "GWPfossil": "0.0149752",
+      "GWPtotal": "0.0149622"
+    },
+    {
+      "ID": "a28ca150-de06-4a99-9b8e-6dbb381f69e1",
+      "Name": "Construction rubble processing",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (C3)": "0.0028408",
+      "GWPbiogenic": "-5.8e-05",
+      "GWPfossil": "0.0028565",
+      "GWPtotal": "0.0028408"
+    },
+    {
+      "ID": "16d08b28-16ca-4918-882f-a3fe11055cb4",
+      "Name": "Inert matter landfill",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (C4)": "0.0149622",
+      "GWPbiogenic": "-0.0001028",
+      "GWPfossil": "0.0149752",
+      "GWPtotal": "0.0149622"
+    }
+  ]
+}

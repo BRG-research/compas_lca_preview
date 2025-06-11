@@ -1,0 +1,63 @@
+{
+  "type": "materials",
+  "path": "Komposite / Systembauteile / Dachaufbauten",
+  "items": [
+    {
+      "ID": "7d3f45ad-d97f-467e-ae88-80e125400622",
+      "Name": "Green roof extensive (without stainless steel railing)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "113.0",
+      "GWPtotal (A1-A3)": "4.8763316",
+      "GWPtotal (A4)": "0.8398427",
+      "GWPtotal (C1)": "0.0002199",
+      "GWPtotal (C2)": "0.4343923",
+      "GWPtotal (C3)": "5.5108746",
+      "GWPtotal (C4)": "16.299619",
+      "GWPbiogenic": "5.2797648",
+      "GWPfossil": "22.5458355",
+      "GWPtotal": "27.9612802"
+    },
+    {
+      "ID": "c07b726a-507d-4b18-a766-b54b64186174",
+      "Name": "Green roof extensive with stainless steel railing",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "116.0",
+      "GWPtotal (A1-A3)": "14.9514517",
+      "GWPtotal (A4)": "0.8622087",
+      "GWPtotal (C1)": "0.0002199",
+      "GWPtotal (C2)": "0.443686",
+      "GWPtotal (C3)": "5.5108746",
+      "GWPtotal (C4)": "16.299619",
+      "GWPbiogenic": "5.2829242",
+      "GWPfossil": "32.6369938",
+      "GWPtotal": "38.0680599"
+    },
+    {
+      "ID": "4029b66c-591d-4bdf-9842-f34aa74c8f40",
+      "Name": "Green roof intensive with stainless steel railing",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "494.0",
+      "GWPtotal (A1-A3)": "3.9624348",
+      "GWPtotal (A4)": "3.6838268",
+      "GWPtotal (C1)": "0.0005277",
+      "GWPtotal (C2)": "1.8085059",
+      "GWPtotal (C3)": "12.1291395",
+      "GWPtotal (C4)": "68.428183",
+      "GWPbiogenic": "5.056438",
+      "GWPfossil": "84.3551772",
+      "GWPtotal": "90.0126176"
+    }
+  ]
+}

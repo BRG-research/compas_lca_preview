@@ -1,0 +1,18 @@
+{
+  "type": "categories",
+  "path": "Beschichtungen / Reaktionsharze",
+  "items": [
+    {
+      "name": "Reaktionsharze auf PU-Basis",
+      "path": "Reaktionsharze_auf_PU-Basis/index.json"
+    },
+    {
+      "name": "Reaktionsharze auf Methacrylatbasis",
+      "path": "Reaktionsharze_auf_Methacrylatbasis/index.json"
+    },
+    {
+      "name": "Reaktionsharze auf Epoxidharzbasis",
+      "path": "Reaktionsharze_auf_Epoxidharzbasis/index.json"
+    }
+  ]
+}

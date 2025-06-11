@@ -1,0 +1,58 @@
+{
+  "type": "materials",
+  "path": "Sonstige / Güter - Transporte[t km] / LKW",
+  "items": [
+    {
+      "ID": "49bf7941-ef0e-44d1-ba17-98ff0dae08c6",
+      "Name": "Delivery Van",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1000",
+      "Reference": "t*km",
+      "GWPtotal (A4)": "0.2606997",
+      "GWPbiogenic": "0.0013283",
+      "GWPfossil": "0.2544592",
+      "GWPtotal": "0.2606997"
+    },
+    {
+      "ID": "96115e68-18fe-4cdb-a1e4-ef38d0965929",
+      "Name": "Small truck",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1000",
+      "Reference": "t*km",
+      "GWPtotal (A4)": "0.155537",
+      "GWPbiogenic": "0.0007874",
+      "GWPfossil": "0.1518377",
+      "GWPtotal": "0.155537"
+    },
+    {
+      "ID": "bb74d2a2-249a-4245-a1bb-7bde61f2f613",
+      "Name": "Truck",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1000",
+      "Reference": "t*km",
+      "GWPtotal (A4)": "0.1106714",
+      "GWPbiogenic": "0.0005628",
+      "GWPfossil": "0.1080272",
+      "GWPtotal": "0.1106714"
+    },
+    {
+      "ID": "330f8948-8463-4b63-a14a-3fedcc175180",
+      "Name": "Truck-trailer",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1000",
+      "Reference": "t*km",
+      "GWPtotal (A4)": "0.0843104",
+      "GWPbiogenic": "0.0004276",
+      "GWPfossil": "0.0823015",
+      "GWPtotal": "0.0843104"
+    }
+  ]
+}

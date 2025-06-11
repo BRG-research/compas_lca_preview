@@ -1,0 +1,46 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Dämmelemente / Isokörbe",
+  "items": [
+    {
+      "ID": "c5d07bee-d468-4468-bd69-93f019a4123b",
+      "Name": "HALFEN Iso-ElemenT HIT-HP/SP",
+      "Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Laenderkennung": "RER",
+      "Declaration owner": "Leviat GmbH",
+      "Registrierungsnummer": "EPD-HAL-20230142-IBC1-EN",
+      "Bezugsgroesse": "1",
+      "Reference": "m",
+      "Laengengewicht (kg/m)": "21.42",
+      "GWPtotal (A1-A3)": "28.84",
+      "GWPtotal (A4)": "0.144",
+      "GWPtotal (A5)": "1.03",
+      "GWPtotal (C1)": "0.0139901",
+      "GWPtotal (C2)": "0.0729",
+      "GWPtotal (C3)": "11.5",
+      "GWPtotal (C4)": "0.0926",
+      "GWPbiogenic": "0.129114",
+      "GWPfossil": "41.5889",
+      "GWPtotal": "41.6934901"
+    },
+    {
+      "ID": "465df431-4227-44fe-a5bf-148106f5ad8e",
+      "Name": "Schöck Isokorb® (X)T Typ Q",
+      "Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Laenderkennung": "RER",
+      "Declaration owner": "Schöck Bauteile GmbH",
+      "Registrierungsnummer": "EPD-SBG-20210313-IBC1-DE",
+      "Bezugsgroesse": "1",
+      "Reference": "pcs.",
+      "GWPtotal (A1-A3)": "6.99",
+      "GWPtotal (A5)": "3.2545",
+      "GWPtotal (C1)": "0.0508018",
+      "GWPtotal (C2)": "0.075863",
+      "GWPtotal (C3)": "0.0198523",
+      "GWPtotal (C4)": "0.31025",
+      "GWPbiogenic": "-0.0001",
+      "GWPfossil": "10.692688",
+      "GWPtotal": "10.701267"
+    }
+  ]
+}

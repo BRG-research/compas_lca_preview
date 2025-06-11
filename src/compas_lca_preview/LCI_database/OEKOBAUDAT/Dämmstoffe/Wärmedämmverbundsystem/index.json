@@ -1,0 +1,14 @@
+{
+  "type": "categories",
+  "path": "Dämmstoffe / Wärmedämmverbundsystem",
+  "items": [
+    {
+      "name": "Wärmedämmverbundsystem",
+      "path": "Wärmedämmverbundsystem/index.json"
+    },
+    {
+      "name": "WDVS-Dübel",
+      "path": "WDVS-Dübel/index.json"
+    }
+  ]
+}

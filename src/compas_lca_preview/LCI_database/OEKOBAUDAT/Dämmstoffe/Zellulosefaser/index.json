@@ -1,0 +1,14 @@
+{
+  "type": "categories",
+  "path": "Dämmstoffe / Zellulosefaser",
+  "items": [
+    {
+      "name": "Zellulose-Einblas-Dämmstoff",
+      "path": "Zellulose-Einblas-Dämmstoff/index.json"
+    },
+    {
+      "name": "Zelluloseplatten",
+      "path": "Zelluloseplatten/index.json"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "categories",
+  "path": "End of Life",
+  "items": [
+    {
+      "name": "Generisch",
+      "path": "Generisch/index.json"
+    }
+  ]
+}

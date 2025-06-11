@@ -1,0 +1,22 @@
+{
+  "type": "materials",
+  "path": "Holz / Modifiziertes Holz / Thermisch behandeltes Holz",
+  "items": [
+    {
+      "ID": "ee8691c4-00f9-4724-bb79-8043c62ce41e",
+      "Name": "Thermally treated wood (1 m3, 409 kg/m3)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "409.0",
+      "GWPtotal (A1-A3)": "-196.3877745",
+      "GWPtotal (C2)": "1.5190271",
+      "GWPtotal (C3)": "760.1320072",
+      "GWPbiogenic": "1.2083931",
+      "GWPfossil": "563.4915821",
+      "GWPtotal": "565.2632598"
+    }
+  ]
+}

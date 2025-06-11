@@ -1,0 +1,22 @@
+{
+  "type": "categories",
+  "path": "Metalle / Edelstahl",
+  "items": [
+    {
+      "name": "Edelstahl Trinkwasserrohre",
+      "path": "Edelstahl_Trinkwasserrohre/index.json"
+    },
+    {
+      "name": "Befestigungsmittel",
+      "path": "Befestigungsmittel/index.json"
+    },
+    {
+      "name": "Edelstahlprofile",
+      "path": "Edelstahlprofile/index.json"
+    },
+    {
+      "name": "Edelstahlbleche",
+      "path": "Edelstahlbleche/index.json"
+    }
+  ]
+}

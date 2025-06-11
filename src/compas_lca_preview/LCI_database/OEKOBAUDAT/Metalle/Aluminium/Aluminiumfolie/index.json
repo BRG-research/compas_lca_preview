@@ -1,0 +1,22 @@
+{
+  "type": "materials",
+  "path": "Metalle / Aluminium / Aluminiumfolie",
+  "items": [
+    {
+      "ID": "a665af6b-a140-47a9-bb0d-c5c2b70f8c28",
+      "Name": "Aluminium foil (d=0.1 mm)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "0.28",
+      "GWPtotal (A1-A3)": "3.1891205",
+      "GWPtotal (C2)": "0.0011928",
+      "GWPtotal (C3)": "0.0",
+      "GWPbiogenic": "0.005663",
+      "GWPfossil": "3.1840419",
+      "GWPtotal": "3.1903133"
+    }
+  ]
+}

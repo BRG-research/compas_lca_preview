@@ -1,0 +1,27 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Antriebssysteme / mechanisch",
+  "items": [
+    {
+      "ID": "368476df-7ee1-4559-8fe8-dfdfefa69781",
+      "Name": "Floor spring BTS 65",
+      "Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Laenderkennung": "CN",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Registrierungsnummer": "EPD-DOR-20220165-CBA1-EN",
+      "Bezugsgroesse": "1",
+      "Reference": "pcs.",
+      "Stueckgewicht (kg)": "4.1",
+      "GWPtotal (A1-A3)": "11.8398301",
+      "GWPtotal (A4)": "0.1699142",
+      "GWPtotal (A5)": "0.1063354",
+      "GWPtotal (C1)": "0.0",
+      "GWPtotal (C2)": "0.0175627",
+      "GWPtotal (C3)": "0.0119473",
+      "GWPtotal (C4)": "0.0019783",
+      "GWPbiogenic": "0.009726",
+      "GWPfossil": "12.1296676",
+      "GWPtotal": "12.147568"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "type": "categories",
+  "path": "Beschichtungen",
+  "items": [
+    {
+      "name": "Grundierungen",
+      "path": "Grundierungen/index.json"
+    },
+    {
+      "name": "Bituminöse Anstriche",
+      "path": "Bituminöse_Anstriche/index.json"
+    },
+    {
+      "name": "Reaktionsharze",
+      "path": "Reaktionsharze/index.json"
+    },
+    {
+      "name": "Fassadenfarben",
+      "path": "Fassadenfarben/index.json"
+    },
+    {
+      "name": "Lacke und Lasuren",
+      "path": "Lacke_und_Lasuren/index.json"
+    },
+    {
+      "name": "Innenbeschichtungen",
+      "path": "Innenbeschichtungen/index.json"
+    }
+  ]
+}

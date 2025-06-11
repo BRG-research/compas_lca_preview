@@ -1,0 +1,23 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Blähperlit / Platten",
+  "items": [
+    {
+      "ID": "5d087386-ed6b-4786-b37b-87164384927b",
+      "Name": "Expanded perlite insulation boards for interior use",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "140.0",
+      "GWPtotal (A1-A3)": "534.9427845",
+      "GWPtotal (C1)": "0.0461205",
+      "GWPtotal (C2)": "0.6503568",
+      "GWPtotal (C3)": "19.4672429",
+      "GWPbiogenic": "0.6880268",
+      "GWPfossil": "554.0248118",
+      "GWPtotal": "555.1065046"
+    }
+  ]
+}

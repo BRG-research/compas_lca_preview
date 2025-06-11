@@ -1,0 +1,23 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Dämmelemente / Tragende Wärmedämmelemente",
+  "items": [
+    {
+      "ID": "efb296ec-9a09-4344-99c7-faa3cc805541",
+      "Name": "2.25.01. Load-bearing thermal insulation elements",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "m",
+      "Laengengewicht (kg/m)": "11.86",
+      "GWPtotal (A1-A3)": "25.8767853",
+      "GWPtotal (C1)": "0.0037703",
+      "GWPtotal (C2)": "0.0520346",
+      "GWPtotal (C3)": "2.1467721",
+      "GWPbiogenic": "0.086638",
+      "GWPfossil": "27.9608547",
+      "GWPtotal": "28.0793624"
+    }
+  ]
+}

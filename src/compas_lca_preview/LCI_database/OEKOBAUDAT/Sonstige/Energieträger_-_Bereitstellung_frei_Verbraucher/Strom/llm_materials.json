@@ -1,0 +1,27 @@
+{
+  "Material Options": [
+    "Electricity from biogas (1 kWh)",
+    "Electricity from biomass (1 kWh)",
+    "Electricity from hydropower",
+    "Electricity from photovoltaik (1 kWh)",
+    "Electricity from wind power",
+    "Electricity grid mix 2017",
+    "Electricity grid mix 2018",
+    "Electricity grid mix 2019",
+    "Electricity grid mix 2020",
+    "Electricity grid mix 2021",
+    "Electricity grid mix scenario 2030",
+    "Electricity grid mix scenario 2040",
+    "Electricity grid mix scenario 2050",
+    "Electricity mix scenario 2030 (progressive, based on \"Angora KN2050\")",
+    "Electricity mix scenario 2040 (progressive, based on \"Angora KN2050\")",
+    "Electricity mix scenario 2050 (progressive, based on \"Angora KN2050\")",
+    "Photovoltaic system 1000 kWh/m²*a",
+    "Photovoltaic system 1000 kWh/m²*a (no electricity credits)",
+    "Photovoltaic system 1200 kWh/m²*a",
+    "Photovoltaic system 1200 kWh/m²*a (no electricity credits)",
+    "Residual electricity mix 2030 (based on \"EU Reference Scenario 2020\")",
+    "Residual electricity mix 2040 (based on \"EU Reference Scenario 2020\")",
+    "Residual electricity mix 2050 (based on \"EU Reference Scenario 2020\")"
+  ]
+}

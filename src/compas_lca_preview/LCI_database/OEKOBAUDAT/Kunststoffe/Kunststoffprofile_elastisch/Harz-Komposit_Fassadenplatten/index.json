@@ -1,0 +1,22 @@
+{
+  "type": "materials",
+  "path": "Kunststoffe / Kunststoffprofile elastisch / Harz-Komposit Fassadenplatten",
+  "items": [
+    {
+      "ID": "f0da3c81-3912-4ea2-8e6b-bc9c789e859e",
+      "Name": "HPL board",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "1400.0",
+      "GWPtotal (A1-A3)": "-128.8852988",
+      "GWPtotal (C2)": "4.7683216",
+      "GWPtotal (C3)": "1823.0192225",
+      "GWPbiogenic": "6.7592483",
+      "GWPfossil": "1688.6013979",
+      "GWPtotal": "1698.9022453"
+    }
+  ]
+}

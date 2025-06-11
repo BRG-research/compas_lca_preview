@@ -1,0 +1,48 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Beschläge / Kunststoffbeschläge",
+  "items": [
+    {
+      "ID": "20c24cbe-4c17-45f6-9539-144d43099b25",
+      "Name": "Access manager 92 00",
+      "Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Registrierungsnummer": "EPD-DOR-20210193-CBA2-EN",
+      "Bezugsgroesse": "1",
+      "Reference": "pcs.",
+      "Stueckgewicht (kg)": "4.0",
+      "GWPtotal (A1-A3)": "5.92289",
+      "GWPtotal (A4)": "0.0172",
+      "GWPtotal (A5)": "0.102",
+      "GWPtotal (B6)": "413.0",
+      "GWPtotal (C2)": "0.000782",
+      "GWPtotal (C3)": "0.22",
+      "GWPtotal (C4)": "6.87e-05",
+      "GWPbiogenic": "0.8991689",
+      "GWPfossil": "417.1663453",
+      "GWPtotal": "419.2629407"
+    },
+    {
+      "ID": "671a8c95-a3f8-4010-937e-c72940f66504",
+      "Name": "Access manager 92 30",
+      "Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Registrierungsnummer": "EPD-DOR-20210181-CBA2-EN",
+      "Bezugsgroesse": "1",
+      "Reference": "pcs.",
+      "Stueckgewicht (kg)": "0.923",
+      "GWPtotal (A1-A3)": "15.86446",
+      "GWPtotal (A4)": "0.0636",
+      "GWPtotal (A5)": "0.375",
+      "GWPtotal (B6)": "413.0",
+      "GWPtotal (C2)": "0.00298",
+      "GWPtotal (C3)": "1.08",
+      "GWPtotal (C4)": "0.000405",
+      "GWPbiogenic": "0.8928567",
+      "GWPfossil": "428.257792",
+      "GWPtotal": "430.386445"
+    }
+  ]
+}

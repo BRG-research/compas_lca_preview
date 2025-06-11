@@ -1,0 +1,128 @@
+# === Target Layer of Material Inference ===
+Target Layer of Material Inference:
+  Material Name: true
+  Thickness: true
+  Thickness Unit: true
+  Layer Number: true
+
+Building Element Context:
+  _include: true
+
+  Element Metadata:
+    _include: true
+    Name: true
+    UID: true
+    GlobalId: true
+    Type: true
+    ObjectType: true
+    Classification:
+      _include: true
+      IfcEntity: true
+      Identification: true
+      System Name: true
+      Name: true
+    Decomposes:
+      _include: true
+      Name: true
+      IfcEntity: true
+      GlobalId: true
+    Is Decomposed By:
+      _include: true
+      Name: true
+      IfcEntity: true
+      GlobalId: true
+
+  Other Material Layers:
+    _include: true
+    Material Name: true
+    Thickness: true
+    Thickness Unit: true
+    Layer Number: true
+
+  Layer Set Metadata:
+    _include: true
+
+  Element Geometry Data:
+    _include: true
+    Quantities (IFC):
+      _include: true
+      Width: true
+      Width unit: true
+      Length: true
+      Length unit: true
+      Height: true
+      Height unit: true
+      Gross Side Area: true
+      Gross Side Area unit: true
+      Net Side Area: true
+      Net Side Area unit: true
+      Gross Footprint Area: true
+      Gross Footprint Area unit: true
+      Net Footprint Area: true
+      Net Footprint Area unit: true
+      Gross Volume: true
+      Gross Volume unit: true
+      Net Volume: true
+      Net Volume unit: true
+    Quantities (COMPAS):
+      _include: true
+      Net Volume: true
+      Net Volume unit: true
+      Entire Surface Area: true
+      Entire Surface Area unit: true
+    Bounding Box Dimensions (OBB - local frame): true
+    Bounding Box Volume: true
+    Real Volume to Bounding Box Volume Ratio: true
+    Geometric Representation: true
+    Face Count (tessellated element): true
+    Vertex Count (tessellated element): true
+    Edge Count (tessellated element): true
+    Primary Object Axis (Cardinal Direction): true
+
+  Element Property Sets:
+    _include: true
+    Psets Element: true
+    Psets Object Type: true
+
+  Element Relationships:
+    _include: true
+    Nests:
+      _include: true
+      Name: true
+      IfcEntity: true
+      GlobalId: true
+    Is Nested By:
+      _include: true
+      Name: true
+      IfcEntity: true
+      GlobalId: true
+    Covers:
+      _include: true
+      Name: true
+      IfcEntity: true
+      GlobalId: true
+    Is Covered By:
+      _include: true
+      Name: true
+      Material: true
+    Has Openings:
+      _include: true
+      IfcEntity: true
+      GlobalId: true
+      OpeningType: true
+    Assigned Groups:
+      _include: true
+      IfcEntity: true
+      Group Name: true
+      Group Description: true
+
+  Element Location:
+    _include: false
+    Storeys Map: true
+    Element Located in Storey: true
+    Spatial Relationship:
+      _include: true
+      name: true
+      type: true
+
+CompilationGroupID: true

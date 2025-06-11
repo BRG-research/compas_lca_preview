@@ -1,0 +1,26 @@
+{
+  "type": "categories",
+  "path": "Mineralische Baustoffe",
+  "items": [
+    {
+      "name": "Zuschläge",
+      "path": "Zuschläge/index.json"
+    },
+    {
+      "name": "Steine und Elemente",
+      "path": "Steine_und_Elemente/index.json"
+    },
+    {
+      "name": "Mörtel und Beton",
+      "path": "Mörtel_und_Beton/index.json"
+    },
+    {
+      "name": "Bindemittel",
+      "path": "Bindemittel/index.json"
+    },
+    {
+      "name": "Asphalt",
+      "path": "Asphalt/index.json"
+    }
+  ]
+}

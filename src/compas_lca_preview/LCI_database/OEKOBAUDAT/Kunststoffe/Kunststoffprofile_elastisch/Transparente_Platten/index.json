@@ -1,0 +1,70 @@
+{
+  "type": "materials",
+  "path": "Kunststoffe / Kunststoffprofile elastisch / Transparente Platten",
+  "items": [
+    {
+      "ID": "b2ba83d3-0427-404c-8c27-f551d0a26bd3",
+      "Name": "Transparent board PC",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "1200.0",
+      "GWPtotal (A1-A3)": "5964.0196362",
+      "GWPtotal (C2)": "4.0871328",
+      "GWPtotal (C3)": "3658.2961924",
+      "GWPbiogenic": "45.2799305",
+      "GWPfossil": "9578.2917298",
+      "GWPtotal": "9626.4029615"
+    },
+    {
+      "ID": "f7646e58-4d38-4bc0-b908-e4207c9f2a89",
+      "Name": "Transparent board PMMA, cast",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "1190.0",
+      "GWPtotal (A1-A3)": "6370.4531303",
+      "GWPtotal (C2)": "4.0530734",
+      "GWPtotal (C3)": "2886.8017752",
+      "GWPbiogenic": "61.6441963",
+      "GWPfossil": "9197.9999124",
+      "GWPtotal": "9261.3079789"
+    },
+    {
+      "ID": "7a265769-b70e-4cbb-a9ac-f6af4e55f8a6",
+      "Name": "Transparent board PMMA, extruded",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "1190.0",
+      "GWPtotal (A1-A3)": "5877.2672516",
+      "GWPtotal (C2)": "4.0530734",
+      "GWPtotal (C3)": "2886.8017752",
+      "GWPbiogenic": "33.9911784",
+      "GWPfossil": "8732.5620756",
+      "GWPtotal": "8768.1221002"
+    },
+    {
+      "ID": "2e60360a-61f1-4d86-a537-a50a3d4165ba",
+      "Name": "Transparent board PVC",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "1220.0",
+      "GWPtotal (A1-A3)": "3900.629915",
+      "GWPtotal (C2)": "5.667395",
+      "GWPtotal (C3)": "2999.0479792",
+      "GWPbiogenic": "32.7531254",
+      "GWPfossil": "6868.2678848",
+      "GWPtotal": "6905.3452892"
+    }
+  ]
+}

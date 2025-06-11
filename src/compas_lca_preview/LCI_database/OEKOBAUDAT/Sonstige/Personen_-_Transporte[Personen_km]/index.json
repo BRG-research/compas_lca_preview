@@ -1,0 +1,10 @@
+{
+  "type": "categories",
+  "path": "Sonstige / Personen - Transporte[Personen km]",
+  "items": [
+    {
+      "name": "PKW",
+      "path": "PKW/index.json"
+    }
+  ]
+}

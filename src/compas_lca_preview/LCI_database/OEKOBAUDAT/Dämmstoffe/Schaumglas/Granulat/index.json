@@ -1,0 +1,27 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Schaumglas / Granulat",
+  "items": [
+    {
+      "ID": "5dd08fc1-0bba-4b6b-9ca0-1692ab2b088e",
+      "Name": "GLAPOR cellular glass gravel",
+      "Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "GLAPOR Werk Mitterteich GmbH",
+      "Registrierungsnummer": "EPD-GLP-20230178-CBA2-EN",
+      "Bezugsgroesse": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "138.5",
+      "GWPtotal (A1-A3)": "38.7464824",
+      "GWPtotal (A4)": "7.1699593",
+      "GWPtotal (A5)": "0.2440602",
+      "GWPtotal (C1)": "0.2440602",
+      "GWPtotal (C2)": "7.1699593",
+      "GWPtotal (C3)": "0.0",
+      "GWPtotal (C4)": "0.83345",
+      "GWPbiogenic": "0.028469",
+      "GWPfossil": "55.38893",
+      "GWPtotal": "54.4079713"
+    }
+  ]
+}

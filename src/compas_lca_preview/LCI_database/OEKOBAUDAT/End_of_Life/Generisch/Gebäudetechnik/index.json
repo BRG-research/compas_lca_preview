@@ -1,0 +1,50 @@
+{
+  "type": "materials",
+  "path": "End of Life / Generisch / Gebäudetechnik",
+  "items": [
+    {
+      "ID": "c4956667-65c1-4790-86a9-17ecc3974301",
+      "Name": "End of life copper pipes (blank)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (C2)": "0.009146",
+      "GWPtotal (C3)": "0.0",
+      "GWPtotal (C4)": "0.0014962",
+      "GWPbiogenic": "-0.0001763",
+      "GWPfossil": "0.010682",
+      "GWPtotal": "0.0106423"
+    },
+    {
+      "ID": "4cb14a57-96d5-4f53-891b-13c3c9c54fb8",
+      "Name": "End of life copper pipes (sheathed)",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (C2)": "0.009146",
+      "GWPtotal (C3)": "0.0",
+      "GWPtotal (C4)": "0.0014962",
+      "GWPbiogenic": "-0.0001763",
+      "GWPfossil": "0.010682",
+      "GWPtotal": "0.0106423"
+    },
+    {
+      "ID": "ec18b1e0-a652-4453-81a8-80083e8f3184",
+      "Name": "End of life stoneware pipe",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (C2)": "0.0066598",
+      "GWPtotal (C4)": "0.0149622",
+      "GWPbiogenic": "-0.0002982",
+      "GWPfossil": "0.0217032",
+      "GWPtotal": "0.021622"
+    }
+  ]
+}

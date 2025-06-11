@@ -1,0 +1,59 @@
+{
+  "type": "materials",
+  "path": "Gebäudetechnik / Elektro / Schalter und Steckdosen",
+  "items": [
+    {
+      "ID": "cd14449e-1231-4f12-babc-99bf9a598691",
+      "Name": "Electric socket",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "pcs.",
+      "GWPtotal (A1-A3)": "0.3826212",
+      "GWPtotal (C2)": "0.0006184",
+      "GWPtotal (C3)": "0.0",
+      "GWPtotal (C4)": "0.0013841",
+      "GWPbiogenic": "0.0018505",
+      "GWPfossil": "0.3824152",
+      "GWPtotal": "0.3846236"
+    },
+    {
+      "ID": "c2d904ce-485d-4fa2-8606-4e108d0bddcc",
+      "Name": "EntriWorX Unit 92 40",
+      "Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Registrierungsnummer": "EPD-DOR-20220087-CBA3-EN",
+      "Bezugsgroesse": "1",
+      "Reference": "pcs.",
+      "Stueckgewicht (kg)": "1.08",
+      "GWPtotal (A1-A3)": "15.86446",
+      "GWPtotal (A4)": "0.0636",
+      "GWPtotal (A5)": "0.375",
+      "GWPtotal (B6)": "413.0",
+      "GWPtotal (C2)": "0.00298",
+      "GWPtotal (C3)": "1.08",
+      "GWPtotal (C4)": "0.000405",
+      "GWPbiogenic": "0.8928567",
+      "GWPfossil": "428.257792",
+      "GWPtotal": "430.386445"
+    },
+    {
+      "ID": "ec113894-769a-464d-acc7-52b01f0c1775",
+      "Name": "Rocker lightswitch",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "pcs.",
+      "GWPtotal (A1-A3)": "0.4397998",
+      "GWPtotal (C2)": "0.0006344",
+      "GWPtotal (C3)": "0.0",
+      "GWPtotal (C4)": "0.00142",
+      "GWPbiogenic": "0.002758",
+      "GWPfossil": "0.4389667",
+      "GWPtotal": "0.4418543"
+    }
+  ]
+}

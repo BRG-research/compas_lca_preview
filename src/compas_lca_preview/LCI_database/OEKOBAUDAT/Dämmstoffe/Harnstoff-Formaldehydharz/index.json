@@ -1,0 +1,10 @@
+{
+  "type": "categories",
+  "path": "Dämmstoffe / Harnstoff-Formaldehydharz",
+  "items": [
+    {
+      "name": "Ortschaum",
+      "path": "Ortschaum/index.json"
+    }
+  ]
+}

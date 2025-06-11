@@ -1,0 +1,10 @@
+{
+  "type": "categories",
+  "path": "Dämmstoffe / Ortschaum",
+  "items": [
+    {
+      "name": "Mineralisch",
+      "path": "Mineralisch/index.json"
+    }
+  ]
+}

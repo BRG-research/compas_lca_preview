@@ -1,0 +1,10 @@
+{
+  "type": "categories",
+  "path": "Dämmstoffe / Flachsfaser",
+  "items": [
+    {
+      "name": "Vlies",
+      "path": "Vlies/index.json"
+    }
+  ]
+}

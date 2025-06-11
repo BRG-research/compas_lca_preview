@@ -1,0 +1,24 @@
+{
+  "material_options": [
+    "Beton Klark Sorte A, 280kg CEM II/B (ohne Bewehrung)",
+    "Beton Klark Sorte A, 300kg CEM II/B (ohne Bewehrung)",
+    "Beton Klark Sorte B, 320kg CEM II/B (ohne Bewehrung)",
+    "Beton Klark Sorte C, 340kg CEM II/B (ohne Bewehrung)",
+    "Betonfertigteil, hochfester Beton, ab Werk",
+    "Betonfertigteil, Normalbeton, ab Werk",
+    "Bohrpfahlbeton (ohne Bewehrung)",
+    "Hanfbeton",
+    "Hanfbeton, ARBIO",
+    "Hochbaubeton (ohne Bewehrung)",
+    "Hochbaubeton, Möckli Primärbeton, NPK A, 280 kg CEM II/B-LL (ohne Bewehrung)",
+    "Hochbaubeton, NovoCon C50/E25, NPK A, 280 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+    "Hochbaubeton, NovoCon C50/E25, NPK C, 300 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+    "Hochbaubeton, NovoCon Light C25/E30, NPK A, 280 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+    "Hochbaubeton, NovoCon RC-M10/E20, NPK A, 280 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+    "Hochbaubeton, zirkulit® NPK A, 280kg CEM II/B (ohne Bewehrung)",
+    "Hochbaubeton, zirkulit® NPK C, 300kg CEM II/B (ohne Bewehrung)",
+    "Magerbeton (ohne Bewehrung)",
+    "Magerbeton, NovoCon Sohlenbeton, 150 kg CEM II/C-M (F-T) (ohne Bewehrung)",
+    "Tiefbaubeton (ohne Bewehrung)"
+  ]
+}

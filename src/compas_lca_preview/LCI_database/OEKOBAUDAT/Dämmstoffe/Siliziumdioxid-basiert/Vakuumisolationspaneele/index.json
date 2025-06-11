@@ -1,0 +1,22 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Siliziumdioxid-basiert / Vakuumisolationspaneele",
+  "items": [
+    {
+      "ID": "852b71e6-404e-4056-b87f-34686f292adc",
+      "Name": "2.24.01. Vacuum panel, unlaminated",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "4.5",
+      "GWPtotal (A1-A3)": "69.0633594",
+      "GWPtotal (C2)": "0.0209043",
+      "GWPtotal (C4)": "0.29608",
+      "GWPbiogenic": "0.2219144",
+      "GWPfossil": "69.1156787",
+      "GWPtotal": "69.3803438"
+    }
+  ]
+}

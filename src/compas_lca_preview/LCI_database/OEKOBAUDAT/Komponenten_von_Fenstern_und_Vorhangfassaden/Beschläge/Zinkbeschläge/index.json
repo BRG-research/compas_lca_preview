@@ -1,0 +1,48 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Beschläge / Zinkbeschläge",
+  "items": [
+    {
+      "ID": "8ef35f6e-56d5-4982-8907-4a1bcdea1081",
+      "Name": "Cencon ATM Cash Vault Security System",
+      "Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Laenderkennung": "US",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Registrierungsnummer": "EPD-DOR-20220168-CBA5-EN",
+      "Bezugsgroesse": "1",
+      "Reference": "pcs.",
+      "Stueckgewicht (kg)": "0.982",
+      "GWPtotal (A1-A3)": "15.938",
+      "GWPtotal (A4)": "1.717",
+      "GWPtotal (A5)": "0.026",
+      "GWPtotal (C2)": "0.004",
+      "GWPtotal (C3)": "0.841",
+      "GWPtotal (C4)": "0.0007597",
+      "GWPbiogenic": "0.0492076",
+      "GWPfossil": "18.466755",
+      "GWPtotal": "18.5267597"
+    },
+    {
+      "ID": "639da311-4225-47b0-973d-7186d2f277b2",
+      "Name": "c-lever pro",
+      "Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "dormakaba International Holding GmbH",
+      "Registrierungsnummer": "EPD-DOR-20210011-CCA2-EN",
+      "Bezugsgroesse": "1",
+      "Reference": "pcs.",
+      "Stueckgewicht (kg)": "2.143",
+      "GWPtotal (A1-A3)": "13.3825",
+      "GWPtotal (A4)": "0.0187",
+      "GWPtotal (A5)": "0.272",
+      "GWPtotal (B6)": "3.76e-05",
+      "GWPtotal (C1)": "0.0",
+      "GWPtotal (C2)": "0.00844",
+      "GWPtotal (C3)": "0.0966",
+      "GWPtotal (C4)": "0.00087",
+      "GWPbiogenic": "0.1036663",
+      "GWPfossil": "13.6843924",
+      "GWPtotal": "13.7791476"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "categories",
+  "path": "Komposite",
+  "items": [
+    {
+      "name": "Systembauteile",
+      "path": "Systembauteile/index.json"
+    }
+  ]
+}

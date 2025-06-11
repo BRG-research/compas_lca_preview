@@ -1,0 +1,40 @@
+{
+  "type": "materials",
+  "path": "Mineralische Baustoffe / Steine und Elemente / Steinzeug",
+  "items": [
+    {
+      "ID": "7a1aea2e-9e9b-4aa5-b84b-37d5635733a4",
+      "Name": "Stoneware pipes DN 250",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "m",
+      "Laengengewicht (kg/m)": "51.0",
+      "GWPtotal (A1-A3)": "27.0814649",
+      "GWPtotal (C1)": "0.0181929",
+      "GWPtotal (C2)": "0.2565668",
+      "GWPtotal (C3)": "0.4278598",
+      "GWPbiogenic": "0.07053",
+      "GWPfossil": "27.6906266",
+      "GWPtotal": "27.7840844"
+    },
+    {
+      "ID": "4c3e5ffc-6876-48a0-816a-01095fbb488d",
+      "Name": "Stoneware pipes DN 400",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "m",
+      "Laengengewicht (kg/m)": "142.0",
+      "GWPtotal (A1-A3)": "53.2245151",
+      "GWPtotal (C1)": "0.0506548",
+      "GWPtotal (C2)": "0.7143623",
+      "GWPtotal (C3)": "1.1912959",
+      "GWPbiogenic": "0.1187176",
+      "GWPfossil": "54.9909333",
+      "GWPtotal": "55.1808281"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "type": "materials",
+  "path": "Mineralische Baustoffe / Steine und Elemente / Dachziegel",
+  "items": [
+    {
+      "ID": "592ffe6e-4c21-4a24-ba67-273acbfca373",
+      "Name": "Roof tile",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "45.0",
+      "GWPtotal (A1-A3)": "16.5883394",
+      "GWPtotal (C1)": "0.0135963",
+      "GWPtotal (C2)": "0.1917041",
+      "GWPtotal (C3)": "0.3196597",
+      "GWPbiogenic": "0.0273546",
+      "GWPfossil": "17.0644287",
+      "GWPtotal": "17.1132995"
+    },
+    {
+      "ID": "a6d60a75-7a4e-4dfc-87cc-fd40f68d279a",
+      "Name": "Roofing tiles (including accessories)",
+      "Conformity": "'DIN EN 15804+A2' / 'ISO 14025'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Bundesverband der Deutschen Ziegelindustrie e.V.",
+      "Registrierungsnummer": "EPD-BDZ-20210268-IBG2-DE",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "40.0",
+      "Density (kg/m3)": "2020.0",
+      "Schichtdicke (m)": "0.015",
+      "Umrechungsfaktor auf 1kg": "40.0",
+      "GWPtotal (A1-A3)": "12.329",
+      "GWPtotal (A4)": "0.787",
+      "GWPtotal (A5)": "0.261",
+      "GWPtotal (C1)": "0.0",
+      "GWPtotal (C2)": "0.0656",
+      "GWPtotal (C3)": "0.1",
+      "GWPtotal (C4)": "0.041",
+      "GWPbiogenic": "0.0187639",
+      "GWPfossil": "13.5511",
+      "GWPtotal": "13.5836"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "type": "categories",
+  "path": "Sonstige / Energieträger - Bereitstellung frei Verbraucher",
+  "items": [
+    {
+      "name": "Biogas",
+      "path": "Biogas/index.json"
+    },
+    {
+      "name": "Fernwärme",
+      "path": "Fernwärme/index.json"
+    },
+    {
+      "name": "Trinkwasser",
+      "path": "Trinkwasser/index.json"
+    },
+    {
+      "name": "Strom",
+      "path": "Strom/index.json"
+    },
+    {
+      "name": "Heizöl",
+      "path": "Heizöl/index.json"
+    },
+    {
+      "name": "Flüssiggas",
+      "path": "Flüssiggas/index.json"
+    },
+    {
+      "name": "Erdgas",
+      "path": "Erdgas/index.json"
+    },
+    {
+      "name": "Pflanzenölkraftstoff",
+      "path": "Pflanzenölkraftstoff/index.json"
+    },
+    {
+      "name": "Holz-Pellets",
+      "path": "Holz-Pellets/index.json"
+    }
+  ]
+}

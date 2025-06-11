@@ -1,0 +1,50 @@
+{
+  "type": "materials",
+  "path": "Dämmstoffe / Stroh / Strohballen",
+  "items": [
+    {
+      "ID": "e45e2b55-a8c4-4037-bc7d-e3718c4e28f3",
+      "Name": "2.23.01. Straw insulation",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "100.0",
+      "GWPtotal (A1-A3)": "-98.0263314",
+      "GWPtotal (C2)": "0.3405944",
+      "GWPtotal (C3)": "148.1183213",
+      "GWPbiogenic": "-0.0072254",
+      "GWPfossil": "50.1367505",
+      "GWPtotal": "50.4325843"
+    },
+    {
+      "ID": "00fe2655-02ad-4ded-925a-af9b8f1a27c8",
+      "Name": "FASBA e.V. Baustroh 100 kg/m³ GaBi - 2024",
+      "Conformity": "'EN 15804+A2 (EF 3.1)' / 'ISO 14025'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "FASBA e.V.",
+      "Registrierungsnummer": "BAU-EPD-2024-1-GaBi-Baustroh",
+      "Bezugsgroesse": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "100.0",
+      "GWPtotal (A1-A3)": "-129.3847585",
+      "GWPtotal (A4)": "2.1034894",
+      "GWPtotal (A5)": "1.5470418",
+      "GWPtotal (B1)": "0.0",
+      "GWPtotal (B2)": "0.0",
+      "GWPtotal (B3)": "0.0",
+      "GWPtotal (B4)": "0.0",
+      "GWPtotal (B5)": "0.0",
+      "GWPtotal (B6)": "0.0",
+      "GWPtotal (B7)": "0.0",
+      "GWPtotal (C1)": "0.0",
+      "GWPtotal (C2)": "1.0094852",
+      "GWPtotal (C3)": "151.8598599",
+      "GWPtotal (C4)": "0.0",
+      "GWPbiogenic": "149.412658",
+      "GWPfossil": "28.6886255",
+      "GWPtotal": "27.1351178"
+    }
+  ]
+}

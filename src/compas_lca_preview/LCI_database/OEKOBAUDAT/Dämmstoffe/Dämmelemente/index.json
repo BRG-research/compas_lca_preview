@@ -1,0 +1,14 @@
+{
+  "type": "categories",
+  "path": "Dämmstoffe / Dämmelemente",
+  "items": [
+    {
+      "name": "Tragende Wärmedämmelemente",
+      "path": "Tragende_Wärmedämmelemente/index.json"
+    },
+    {
+      "name": "Isokörbe",
+      "path": "Isokörbe/index.json"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "categories",
+  "path": "Dämmstoffe / Polyurethan-Hartschaum (PU)",
+  "items": [
+    {
+      "name": "PU Blockschaum",
+      "path": "PU_Blockschaum/index.json"
+    },
+    {
+      "name": "PIR-Hartschaum",
+      "path": "PIR-Hartschaum/index.json"
+    },
+    {
+      "name": "PU mit Aluminium",
+      "path": "PU_mit_Aluminium/index.json"
+    },
+    {
+      "name": "PU mit Mineralvlies",
+      "path": "PU_mit_Mineralvlies/index.json"
+    }
+  ]
+}

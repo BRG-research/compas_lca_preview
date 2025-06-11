@@ -1,0 +1,22 @@
+{
+  "type": "materials",
+  "path": "Metalle / Blei / Bleibleche",
+  "items": [
+    {
+      "ID": "8aef9045-4b5f-4362-954f-2edda71f63e6",
+      "Name": "Lead sheets",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "Density (kg/m3)": "11342.0",
+      "GWPtotal (A1-A3)": "1.2624989",
+      "GWPtotal (C1)": "0.0",
+      "GWPtotal (C2)": "0.003714",
+      "GWPbiogenic": "0.0031264",
+      "GWPfossil": "1.2626136",
+      "GWPtotal": "1.2662129"
+    }
+  ]
+}

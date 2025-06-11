@@ -1,0 +1,21 @@
+{
+  "type": "materials",
+  "path": "Kunststoffe / Rohre / Regen-/Grauwasserrohre",
+  "items": [
+    {
+      "ID": "183aa7d9-93cc-4851-8b92-a5180db247cc",
+      "Name": "Rain drain pipe PVC",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (A1-A3)": "2.3898051",
+      "GWPtotal (C2)": "0.0042601",
+      "GWPtotal (C3)": "2.2535061",
+      "GWPbiogenic": "-0.0040472",
+      "GWPfossil": "4.6490879",
+      "GWPtotal": "4.6475713"
+    }
+  ]
+}

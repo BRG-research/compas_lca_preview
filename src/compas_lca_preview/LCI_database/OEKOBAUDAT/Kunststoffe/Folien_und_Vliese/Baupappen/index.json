@@ -1,0 +1,22 @@
+{
+  "type": "materials",
+  "path": "Kunststoffe / Folien und Vliese / Baupappen",
+  "items": [
+    {
+      "ID": "94c64884-f86e-44b1-9e55-8570cce6f43d",
+      "Name": "Kraft paper",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "qm",
+      "Flaechengewicht (kg/m2)": "0.08",
+      "GWPtotal (A1-A3)": "-0.0810982",
+      "GWPtotal (C2)": "0.0002971",
+      "GWPtotal (C3)": "0.1283732",
+      "GWPbiogenic": "0.0001745",
+      "GWPfossil": "0.047021",
+      "GWPtotal": "0.0475721"
+    }
+  ]
+}

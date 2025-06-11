@@ -1,0 +1,51 @@
+{
+  "type": "materials",
+  "path": "Komponenten von Fenstern und Vorhangfassaden / Dichtungskomponenten / -materialien / Elastomer-Fugenbänder",
+  "items": [
+    {
+      "ID": "1ce3e0f7-c189-469a-903d-1c1948fe2d15",
+      "Name": "Elastomer joint tape, polysulfide",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (A1-A3)": "8.7711956",
+      "GWPtotal (C2)": "0.0046454",
+      "GWPtotal (C3)": "1.1794334",
+      "GWPbiogenic": "0.0962492",
+      "GWPfossil": "9.8551242",
+      "GWPtotal": "9.9552744"
+    },
+    {
+      "ID": "72b45474-39fa-4723-8069-a58eda55f014",
+      "Name": "Elastomer joint tape, polyurethane",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (A1-A3)": "4.2718628",
+      "GWPtotal (C2)": "0.0046454",
+      "GWPtotal (C3)": "2.6542886",
+      "GWPbiogenic": "0.0026147",
+      "GWPfossil": "6.9268398",
+      "GWPtotal": "6.9307968"
+    },
+    {
+      "ID": "4ff98099-91cf-44da-8b19-1dcc8b77baa9",
+      "Name": "Elastomer joint tape, silicone rubber",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "kg",
+      "GWPtotal (A1-A3)": "8.2634905",
+      "GWPtotal (C2)": "0.0046454",
+      "GWPtotal (C3)": "1.5159586",
+      "GWPbiogenic": "0.096325",
+      "GWPfossil": "9.6809128",
+      "GWPtotal": "9.7840945"
+    }
+  ]
+}

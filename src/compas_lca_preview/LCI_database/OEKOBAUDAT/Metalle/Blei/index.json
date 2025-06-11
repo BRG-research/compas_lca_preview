@@ -1,0 +1,10 @@
+{
+  "type": "categories",
+  "path": "Metalle / Blei",
+  "items": [
+    {
+      "name": "Bleibleche",
+      "path": "Bleibleche/index.json"
+    }
+  ]
+}

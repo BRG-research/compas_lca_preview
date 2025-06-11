@@ -1,0 +1,52 @@
+{
+  "type": "materials",
+  "path": "Mineralische Baustoffe / Zuschläge / Trockenschüttung",
+  "items": [
+    {
+      "ID": "2904609f-ecc4-49c3-8de0-82cdc697640e",
+      "Name": "Dry fill - Cemwood GmbH - Leveling fill CW",
+      "Conformity": "'EN 15804+A2'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Cemwood GmbH",
+      "Registrierungsnummer": "EPD-AGS-31.1",
+      "Bezugsgroesse": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "320.0",
+      "biogener Kohlenstoffgehalt in kg": "75.5",
+      "GWPtotal (A1-A3)": "-207.38",
+      "GWPtotal (A4)": "6.97",
+      "GWPtotal (A5)": "9.4",
+      "GWPtotal (B1)": "0.0",
+      "GWPtotal (B2)": "0.0",
+      "GWPtotal (B3)": "0.0",
+      "GWPtotal (B4)": "0.0",
+      "GWPtotal (B5)": "0.0",
+      "GWPtotal (B6)": "0.0",
+      "GWPtotal (B7)": "0.0",
+      "GWPtotal (C1)": "0.0",
+      "GWPtotal (C2)": "2.71",
+      "GWPtotal (C3)": "0.0",
+      "GWPtotal (C4)": "4.66",
+      "GWPbiogenic": "-281.37568",
+      "GWPfossil": "96.99",
+      "GWPtotal": "-183.64"
+    },
+    {
+      "ID": "c4c0957c-0e8a-4445-8672-0fc21714751b",
+      "Name": "Mineral-modified dry filling material",
+      "Conformity": "'EN 15804+A2 (EF 3.1)'",
+      "Laenderkennung": "DE",
+      "Declaration owner": "Sphera Solutions GmbH",
+      "Bezugsgroesse": "1",
+      "Reference": "m3",
+      "Density (kg/m3)": "360.0",
+      "GWPtotal (A1-A3)": "-137.863531",
+      "GWPtotal (C1)": "0.0438803",
+      "GWPtotal (C2)": "1.3370409",
+      "GWPtotal (C3)": "449.6062366",
+      "GWPbiogenic": "0.5584959",
+      "GWPfossil": "312.080113",
+      "GWPtotal": "313.1236269"
+    }
+  ]
+}
