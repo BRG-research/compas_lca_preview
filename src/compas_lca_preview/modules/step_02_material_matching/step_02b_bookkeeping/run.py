@@ -4,7 +4,7 @@ from .methods.update_metadata_file import update_metadata
 from pathlib import Path
 import compas_lca_preview
 
-def bookkeeper(project_path=None):
+def bookkeeper(project_path=None, master_config_path=None):
 
 
     # Root folders of all unfiltered source files
@@ -15,7 +15,8 @@ def bookkeeper(project_path=None):
     metadata_file_path = Path(f"{project_path}/step_01_data_extraction/step_01c_dissect_layers/metadata_step_01c.json")
 
     # Master config path
-    master_config_path = Path(f"{compas_lca_preview.HERE}/configs/master_config.yaml")
+    if master_config_path is None:
+        master_config_path = Path(f"{compas_lca_preview.HERE}/configs/master_config.yaml")
     master_config = load_yaml_config(master_config_path)
     config_database = master_config.get("database_config", {}).get("database")
 

@@ -6,13 +6,14 @@ from .methods.update_boq import append_emissions_to_csv
 import compas_lca_preview
 
 
-def gross_emissions(project_path=None):
+def gross_emissions(project_path=None, master_config_path=None):
 
     # Input BoQ CSV file
     input_boq = Path(f"{project_path}/step_01_data_extraction/step_01c_dissect_layers/BoQ_step_01c.csv")
 
     # Master config path
-    master_config_path = Path(f"{compas_lca_preview.HERE}/configs/master_config.yaml")
+    if master_config_path is None:
+        master_config_path = Path(f"{compas_lca_preview.HERE}/configs/master_config.yaml")
     master_config = load_yaml_config(master_config_path)
     config_database = master_config.get("database_config", {}).get("database")
 

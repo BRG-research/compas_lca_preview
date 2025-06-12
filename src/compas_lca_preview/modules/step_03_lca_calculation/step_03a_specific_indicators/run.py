@@ -7,10 +7,11 @@ from pathlib import Path
 import compas_lca_preview
 
 
-def append_indicators(project_path=None):
+def append_indicators(project_path=None, master_config_path=None):
 
     # Master config path
-    master_config_path = Path(f"{compas_lca_preview.HERE}/configs/master_config.yaml")
+    if master_config_path is None:
+        master_config_path = Path(f"{compas_lca_preview.HERE}/configs/master_config.yaml")
     master_config = load_yaml_config(master_config_path)
     config_database = master_config.get("database_config", {}).get("database")
     boq_path = Path(f"{project_path}/step_01_data_extraction/step_01c_dissect_layers/BoQ_step_01c.csv")

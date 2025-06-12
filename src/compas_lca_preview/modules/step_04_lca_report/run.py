@@ -12,10 +12,11 @@ def make_path(*parts):
 
 
 
-def create_report(project_path=None):
+def create_report(project_path=None, master_config_path=None):
 
     # Load config
-    master_config_path = Path(f"{compas_lca_preview.HERE}/configs/master_config.yaml")
+    if master_config_path is None:
+        master_config_path = Path(f"{compas_lca_preview.HERE}/configs/master_config.yaml")
     master_config = load_yaml_config(master_config_path)
     config_database = master_config.get("database_config", {}).get("database")
 

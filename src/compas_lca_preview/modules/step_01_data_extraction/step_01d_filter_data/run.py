@@ -11,9 +11,10 @@ import os
 
 
 
-def filter_data_sheets(project_path=None):
+def filter_data_sheets(project_path=None, master_config_path=None):
     # Load master config
-    master_config_path = Path(f"{compas_lca_preview.HERE}/configs/master_config.yaml")
+    if master_config_path is None:
+        master_config_path = Path(f"{compas_lca_preview.HERE}/configs/master_config.yaml")
     master_config = load_yaml_config(master_config_path)
 
     filter_mode = master_config.get("filter_config", {}).get("mode")

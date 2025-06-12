@@ -6,7 +6,7 @@ from .methods.helpers_io import load_ifc_file, load_yaml_config, get_single_ifc_
 
 import compas_lca_preview
 
-def extract_all(ifc_input_file=None, project_path=None):
+def extract_all(ifc_input_file=None, project_path=None, master_config_path=None):
 
     start_time = time.time()
 
@@ -20,7 +20,8 @@ def extract_all(ifc_input_file=None, project_path=None):
     out_directory_elements = Path(f"{project_path}/step_01_data_extraction/step_01a_extract_all/Elements")
     out_directory_boq = Path(f"{project_path}/step_01_data_extraction/step_01a_extract_all")
     entity_config_path = f"{compas_lca_preview.HERE}/configs/data_filters/entity_selection.yaml"
-    master_config_path = f"{compas_lca_preview.HERE}/configs/master_config.yaml"
+    if master_config_path is None:
+        master_config_path = f"{compas_lca_preview.HERE}/configs/master_config.yaml"
 
     # Load the extraction configuration from a YAML file
     entity_config = load_yaml_config(entity_config_path)

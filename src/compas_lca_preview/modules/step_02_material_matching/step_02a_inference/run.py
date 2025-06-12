@@ -30,12 +30,13 @@ def match_bim_files(input_dir, output_dir, lci_base_dir, mode_label, config):
         )
 
 
-def material_matcher(project_path=None, llm_api_key=None):
+def material_matcher(project_path=None, llm_api_key=None, master_config_path=None):
 
     # setup paths & directories
     input_elements = Path(f"{project_path}/step_01_data_extraction/step_01d_filter_data/Elements")
     input_target_layers = Path(f"{project_path}/step_01_data_extraction/step_01d_filter_data/Target_Layers")
-    master_config_path = Path(f"{compas_lca_preview.HERE}/configs/master_config.yaml")
+    if master_config_path is None:
+        master_config_path = Path(f"{compas_lca_preview.HERE}/configs/master_config.yaml")
     master_config = load_yaml_config(master_config_path)
     config_database = master_config.get("database_config", {}).get("database")
 
