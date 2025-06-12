@@ -45,7 +45,7 @@ material_inference_config:
   model: "gpt-4o"
 
   # insert the API key in single quotation marks (')
-  api_key: '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'  # Replace with your actual API key
+  api_key: ''  # Replace with your actual API key
   
   max_tokens: 2048
 

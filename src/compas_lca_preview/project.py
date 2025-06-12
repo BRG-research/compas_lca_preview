@@ -1,39 +1,40 @@
 class Project:
-    def __init__(self, ifc_input_file=None, project_path=None):
+    def __init__(self, ifc_input_file=None, project_path=None, llm_api_key=None):
         self.ifc_input_file = ifc_input_file
         self.project_path = project_path
+        self.llm_api_key = llm_api_key
 
     def run(self, module_name):
         if module_name == "01a":
-            from modules.step_01_data_extraction.step_01a_extract_all.run import extract_all
+            from .modules.step_01_data_extraction.step_01a_extract_all.run import extract_all
             extract_all(ifc_input_file=self.ifc_input_file, project_path=self.project_path)
         elif module_name == "01b":
-            from modules.step_01_data_extraction.step_01b_aggregate_elements.run import aggregate_elements
+            from .modules.step_01_data_extraction.step_01b_aggregate_elements.run import aggregate_elements
             aggregate_elements(project_path=self.project_path)
         elif module_name == "01c":
-            from modules.step_01_data_extraction.step_01c_dissect_layers.run import dissect_layers
+            from .modules.step_01_data_extraction.step_01c_dissect_layers.run import dissect_layers
             dissect_layers(project_path=self.project_path)
         elif module_name == "01d":
-            from modules.step_01_data_extraction.step_01d_filter_data.run import filter_data_sheets
+            from .modules.step_01_data_extraction.step_01d_filter_data.run import filter_data_sheets
             filter_data_sheets(project_path=self.project_path)
         
         elif module_name == "02a":
-            from modules.step_02_material_matching.step_02a_inference.run import material_matcher
-            material_matcher(project_path=self.project_path)
+            from .modules.step_02_material_matching.step_02a_inference.run import material_matcher
+            material_matcher(project_path=self.project_path, llm_api_key=self.llm_api_key)
         elif module_name == "02b":
-            from modules.step_02_material_matching.step_02b_bookkeeping.run import bookkeeper
+            from .modules.step_02_material_matching.step_02b_bookkeeping.run import bookkeeper
             bookkeeper(project_path=self.project_path)
 
         elif module_name == "03a":
-            from modules.step_03_lca_calculation.step_03a_specific_indicators.run import append_indicators
+            from .modules.step_03_lca_calculation.step_03a_specific_indicators.run import append_indicators
             append_indicators(project_path=self.project_path)
 
         elif module_name == "03b":
-            from modules.step_03_lca_calculation.step_03b_gross_emissions.run import gross_emissions
+            from .modules.step_03_lca_calculation.step_03b_gross_emissions.run import gross_emissions
             gross_emissions(project_path=self.project_path)
 
         elif module_name == "04":
-            from modules.step_04_lca_report.run import create_report
+            from .modules.step_04_lca_report.run import create_report
             create_report(project_path=self.project_path)
 
         else:

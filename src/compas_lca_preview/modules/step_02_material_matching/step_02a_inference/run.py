@@ -30,7 +30,7 @@ def match_bim_files(input_dir, output_dir, lci_base_dir, mode_label, config):
         )
 
 
-def material_matcher(project_path=None):
+def material_matcher(project_path=None, llm_api_key=None):
 
     # setup paths & directories
     input_elements = Path(f"{project_path}/step_01_data_extraction/step_01d_filter_data/Elements")
@@ -68,6 +68,12 @@ def material_matcher(project_path=None):
         category_index_path = Path(f"{compas_lca_preview.HERE}/LCI_database/OEKOBAUDAT/index.json")
         simplify_lci_lists_oekobaudat(lci_base_dir, var_include_density)
     
+
+    # Set API key
+    if llm_api_key is not None:
+        master_config["category_inference_config"]["api_key"] = llm_api_key
+        master_config["material_inference_config"]["api_key"] = llm_api_key
+
     # Match elements
     match_bim_files(
         input_dir=input_elements,
