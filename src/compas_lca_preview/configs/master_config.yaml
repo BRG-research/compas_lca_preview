@@ -9,6 +9,11 @@
 # Also the database choice determines the output significantly
 # =================================================================
 
+# === Project Settings ===
+project_config:
+  input_ifc_file: ""
+  project_path: ""
+
 
 # === Database Settings ===
 # Choose the LCA database that should be used for the material matching & LCA calculation
@@ -124,7 +129,7 @@ extraction_config:
   entity_config_path: "config/data_filters/entity_selection.yaml"
 
   # Calculate BREP related quantities (area, volume) with compas_occ
-  brep_enabled: true
+  brep_enabled: false
 
   # Specify maximum time (seconds) for BREP processing
   brep_timeout: 30

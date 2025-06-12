@@ -6,11 +6,11 @@ import yaml
 from pathlib import Path
 
 # Function to load an IFC file using COMPAS-IFC
-def load_ifc_file(filepath):
+def load_ifc_file(filepath, brep_toggle):
     if not os.path.exists(filepath):
         raise FileNotFoundError(f"The file '{filepath}' does not exist.")
     try:
-        model = Model(filepath, use_occ=False)  # COMPAS-IFC Model class
+        model = Model(filepath, use_occ=brep_toggle, load_geometries=brep_toggle)  # COMPAS-IFC Model class
         return model
     except Exception as e:
         raise RuntimeError(f"Failed to load IFC file: {e}")

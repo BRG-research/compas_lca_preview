@@ -1,8 +1,22 @@
+import yaml
+
 class Project:
-    def __init__(self, ifc_input_file=None, project_path=None, llm_api_key=None):
+    def __init__(self, ifc_input_file=None, project_path=None, llm_api_key=None, master_config_path=None):
         self.ifc_input_file = ifc_input_file
         self.project_path = project_path
         self.llm_api_key = llm_api_key
+        # Load master config if path provided
+        if master_config_path:
+            with open(master_config_path, 'r') as f:
+                master_config = yaml.safe_load(f)
+
+            # Update attributes from config
+            if 'project_config' in master_config:
+                project_config = master_config['project_config']
+                if not self.ifc_input_file:
+                    self.ifc_input_file = project_config.get('input_ifc_file')
+                if not self.project_path:
+                    self.project_path = project_config.get('project_path')
 
     def run(self, module_name):
         if module_name == "01a":
@@ -41,15 +55,15 @@ class Project:
             raise ValueError(f"Module {module_name} not found")
 
 if __name__ == "__main__":
-    # project = Project(ifc_input_file="data/Duplex.ifc", project_path="temp/hilo_test")
-    # project.run("01a")
+    project = Project(ifc_input_file="data/Duplex.ifc", project_path="temp/hilo_test")
+    project.run("01a")
     # project.run("01b")
     # project.run("01c")
     # project.run("01d")
 
-    project = Project(project_path="temp/SBE")
-    project.run("02a")
-    project.run("02b")
-    project.run("03a")
-    project.run("03b")
-    project.run("04")
+    # project = Project(project_path="temp/SBE")
+    # project.run("02a")
+    # project.run("02b")
+    # project.run("03a")
+    # project.run("03b")
+    # project.run("04")

@@ -34,7 +34,7 @@ def extract_all(ifc_input_file=None, project_path=None):
 
     try:
         # Load the IFC file
-        model = load_ifc_file(ifc_input_file)
+        model = load_ifc_file(ifc_input_file, brep_toggle)
 
         # Extract element data and save each IfcBuildingElement separately
         extractor(
