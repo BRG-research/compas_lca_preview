@@ -1,0 +1,12 @@
+# Include all data files in the LCI_database directory
+recursive-include src/compas_lca_preview/LCI_database *
+
+# Include all configuration files
+recursive-include src/compas_lca_preview/configs *
+
+# Include any other important files
+include README.md
+include LICENSE
+include CHANGELOG.md
+include requirements.txt
+include requirements-dev.txt 

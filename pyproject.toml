@@ -55,6 +55,11 @@ optional-dependencies = { dev = { file = "requirements-dev.txt" } }
 [tool.setuptools.packages.find]
 where = ["src"]
 
+[tool.setuptools.package-data]
+"compas_lca_preview" = ["**/*"]
+"compas_lca_preview.LCI_database" = ["**/*"]
+"compas_lca_preview.configs" = ["**/*"]
+
 # ============================================================================
 # replace pytest.ini
 # ============================================================================
