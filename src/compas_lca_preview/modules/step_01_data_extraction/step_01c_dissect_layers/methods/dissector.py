@@ -326,6 +326,9 @@ def dissector_boq(compiled_boq_path, target_layer_directory, elements_directory,
     dissected_layers = load_dissected_layers(target_layer_directory)
     non_dissected_elements = load_material_descriptors(elements_directory)
 
+    print(f"Loaded {len(dissected_layers)} dissected layers")
+    print(f"Loaded {len(non_dissected_elements)} non-dissected elements")
+
     # Load compiled BoQ
     rows = []
     with open(compiled_boq_path, "r", newline='', encoding="utf-8-sig") as cf:
@@ -376,6 +379,9 @@ def dissector_boq(compiled_boq_path, target_layer_directory, elements_directory,
         ]
     output_filename = "BoQ_step_01c.csv"
     output_path = os.path.join(output_folder, output_filename)
+
+    print(f"New BoQ with dissected layers written to {output_path}")
+    print(f"Total items in BoQ: {len(final_rows)}")
 
     with open(output_path, "w", newline='', encoding="utf-8-sig") as outf:
         writer = csv.DictWriter(outf, fieldnames=output_fieldnames)

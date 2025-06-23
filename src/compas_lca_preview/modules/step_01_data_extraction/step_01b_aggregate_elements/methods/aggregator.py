@@ -146,6 +146,10 @@ def aggregator_element(source_folder, elements_unique_folder, data_folder):
 
     groups_count = len(compiled_overview)
 
+    print(f"Total aggregation groups generated (and representative elements for inference): {groups_count}")
+    print(f"Total compiled elements: {total_compiled_elements}")
+    print(f"Total unique elements: {total_unique_elements}")
+
     return overview_path, groups_count, total_compiled_elements, total_unique_elements
 
 
@@ -254,6 +258,9 @@ def aggregator_boq(boq_path, overview_path, data_folder):
 
     # Combine directory + filename
     output_path = os.path.join(data_folder, output_filename)
+
+    print(f"Aggregated BOQ saved to {output_path}")
+    print(f"Total BoQ items count: {len(final_rows)}")
 
     with open(output_path, "w", newline='', encoding="utf-8-sig") as outf:
         writer = csv.DictWriter(outf, fieldnames=output_fieldnames)

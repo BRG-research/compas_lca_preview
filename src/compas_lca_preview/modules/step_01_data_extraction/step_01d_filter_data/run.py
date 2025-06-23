@@ -57,6 +57,7 @@ def filter_data_sheets(project_path=None, master_config_path=None):
     if use_pset_filter and pset_key_file:
         selected_keys = load_selected_keys(pset_key_file)
 
+    item_count = 0
 
     # Process element files
     for file_path in element_input_dir.glob("*.json"):
@@ -72,6 +73,7 @@ def filter_data_sheets(project_path=None, master_config_path=None):
             if not os.path.exists(element_output_dir):
                 os.makedirs(element_output_dir, exist_ok=True)
             save_json(filtered, element_output_dir / file_path.name)
+            item_count +=1
         except Exception as e:
             print(e)
             continue
@@ -94,9 +96,12 @@ def filter_data_sheets(project_path=None, master_config_path=None):
             if not os.path.exists(target_layer_output_dir):
                 os.makedirs(target_layer_output_dir, exist_ok=True)
             save_json(filtered, target_layer_output_dir / file_path.name)
+            item_count +=1
         except Exception as e:
             print(e)
             continue
+
+    print(f"Filtered {item_count} items")
 
 if __name__ == "__main__":
     filter_data_sheets()

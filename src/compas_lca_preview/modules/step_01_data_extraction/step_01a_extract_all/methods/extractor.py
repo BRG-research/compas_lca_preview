@@ -26,6 +26,7 @@ def extractor(brep_toggle, brep_timeout, ifc_input_file, model, out_directory_el
 
     # Load all IfcBuildingElements from IFC model
     elements = model.get_entities_by_type(entity_type)
+    print(f"{len(elements)} building element discovered")
 
     # Extract global model values before looping element
     formatted_units, lc_factor = unit.model_units(model)

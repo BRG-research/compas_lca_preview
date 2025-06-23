@@ -47,6 +47,7 @@ def bookkeeper(project_path=None, master_config_path=None):
         # Metadata output path
         metadata_output_path = Path(f"{project_path}/step_02_material_matching/step_02b_bookkeeping/oekobaudat")
 
+    print(f"Summary of inferences save at {metadata_output_path}")
 
 
     # summarize inferences

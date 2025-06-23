@@ -76,6 +76,8 @@ def create_report(project_path=None, master_config_path=None):
         output_path=paths["output_report"]
     )
 
+    print(f"Report created in {paths['output_report']}")
+
     
 if __name__ == "__main__":
     create_report()

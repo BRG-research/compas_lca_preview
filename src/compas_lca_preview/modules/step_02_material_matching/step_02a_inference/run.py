@@ -8,16 +8,17 @@ from .methods.traverse import traverse_lci_hierarchy
 import compas_lca_preview
 
 def match_bim_files(input_dir, output_dir, lci_base_dir, mode_label, config):
-    for filename in os.listdir(input_dir):
-        if not filename.endswith(".json"):
-            continue
+
+    files = [filename for filename in os.listdir(input_dir) if filename.endswith(".json")]
+
+    for i, filename in enumerate(files):
         element_id = os.path.splitext(filename)[0]
         element_path = os.path.join(input_dir, filename)
         results_dir = os.path.join(output_dir, element_id)
         os.makedirs(results_dir, exist_ok=True)
         with open(element_path, "r", encoding="utf-8") as f:
             bim_element = json.load(f)
-        print(f"> Processing {mode_label.upper()} → {element_id}")
+        print(f"> Processing {i+1}/{len(files)} {mode_label.upper()} → {element_id}")
         result = traverse_lci_hierarchy(
             bim_element=bim_element,
             current_dir=lci_base_dir,

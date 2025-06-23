@@ -35,6 +35,9 @@ def append_indicators(project_path=None, master_config_path=None):
     output_elements_dir = output_base_dir / "Elements"
     output_target_layers_dir = output_base_dir / "Target_Layers"
 
+    print(f"Extracting indicators for {config_database} database")
+    print(f"Output folder: {output_base_dir}")
+
 
     if config_database == "kbob":
         extract_kbob_data(
