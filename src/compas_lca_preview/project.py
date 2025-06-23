@@ -57,7 +57,12 @@ class Project:
         elif module_name == "04":
             from .modules.step_04_lca_report.run import create_report
             create_report(project_path=self.project_path, master_config_path=self.master_config_path)
-
+        elif module_name == "p1":
+            from .modules.step_02_material_matching.step_02a_inference.preview_category_prompt import preview_category_prompt
+            print(preview_category_prompt(self.master_config_path))
+        elif module_name == "p2":
+            from .modules.step_02_material_matching.step_02a_inference.preview_material_prompt import preview_material_prompt
+            print(preview_material_prompt(self.master_config_path))
         else:
             raise ValueError(f"Module {module_name} not found")
         

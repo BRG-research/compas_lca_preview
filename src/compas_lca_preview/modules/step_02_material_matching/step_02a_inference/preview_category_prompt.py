@@ -1,13 +1,15 @@
 # This is a prompt previewer!
 from pathlib import Path
-from methods.utils import load_yaml_config
-from methods.prompt_builder_category import build_category_prompt
+from .methods.utils import load_yaml_config
+from .methods.prompt_builder_category import build_category_prompt
+import compas_lca_preview
 
-master_config_path = Path("config/master_config.yaml")
-config = load_yaml_config(master_config_path)
-output_path = Path("data/output/prompt_preview/category_prompt.txt")
+def preview_category_prompt(master_config_path):
 
-def preview_category_prompt():
+    if master_config_path is None:
+        master_config_path = Path(f"{compas_lca_preview.HERE}/configs/master_config.yaml")
+
+    config = load_yaml_config(master_config_path)
 
     # Set dummy
     mode = "element"
@@ -22,15 +24,4 @@ def preview_category_prompt():
         config = config
     )
 
-    output_file = Path(output_path)
-    output_file.parent.mkdir(parents=True, exist_ok=True)
-    output_file.write_text(prompt, encoding="utf-8")
-
-if __name__ == "__main__":
-    preview_category_prompt()
-    print("\n")
-    print("=================================")
-    print("Category prompt preview saved to:")
-    print(output_path)
-    print("=================================")
-    print("\n")
+    return prompt
